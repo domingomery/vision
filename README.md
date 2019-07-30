@@ -53,5 +53,5 @@
 * 2.4-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/CV01_SIFT.m)
 
 ### Clase 07 Lu. 26-Aug-2019:
-* 3.1-CNN [[]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_CNN.pptx)
-* 3.1-Deep Face [[]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_DeepFace.pptx)
+* 3.1-CNN [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_CNN.pptx)
+* 3.1-Deep Face [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_DeepFace.pptx)
