@@ -34,5 +34,5 @@
 * SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_SIFT_ObjectDetection.pptx)
 * Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Function.m)
 * Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Keypoints.m)
-* Ejemplo SIFTY [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT.m)
+* Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT.m)
 ### 2.5 Proyecto:

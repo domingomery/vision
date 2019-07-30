@@ -50,4 +50,8 @@
 * 2.4-SIFT [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV01_SIFT_ObjectDetection.pptx)
 * 2.4-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/CV01_SIFT_DoG_Function.m)
 * 2.4-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/CV01_SIFT_DoG_Keypoints.m)
-* 2.4-Ejemplo SIFTY [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/CV01_SIFT.m)
+* 2.4-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/CV01_SIFT.m)
+
+### Clase 07 Lu. 26-Aug-2019:
+* 3.1-CNN [[]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_CNN.pptx)
+* 3.1-Deep Face [[]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/CV03_DeepFace.pptx)
