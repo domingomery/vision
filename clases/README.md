@@ -29,7 +29,7 @@
 * 2.2-Datos de perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
 
 ### Clase 04 Mi. 14-Aug-2019:
-* 2.1-Ejercicio homografia bsica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
+* 2.1-Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
 
 ### Clase 05 Lu. 19-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Reconstruction3D.pptx)
@@ -58,10 +58,10 @@
 * 2.3-Ejercicio homografia avanzada [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
 
 ### Clase 08 Mi. 28-Aug-2019:
-* 2.5-Desarrollor de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+* 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
 
 ### Clase 09 Lu. 02-Sep-2019:
-* 2.5-Desarrollor de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+* 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
 
 ### Clase 10 Mi. 04-Sep-2019:
 * 2.5-Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_Proyecto.pdf)
@@ -91,19 +91,39 @@
 
 ### Clase 16 Lu. 30-Sep-2019:
 * 3.1-Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV03_EjeFacialAttributes.pptx)
+
+### Clase 17 Mi. 02-Oct-2019:
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.3-GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * 3.3-How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
 * 3.4-Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
-### Clase 08 Mi. 28-Aug-2019:
+### Clase 18 Lu. 07-Oct-2019:
+* 2.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+
+### Clase 19 Mi. 09-Oct-2019:
+* 2.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+
+### Clase 20 Lu. 14-Oct-2019:
+* 2.5-Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_Proyecto.pdf)
+
+### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
+* 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.2-Machine learning 'causing science crisis' [[Nota]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
+
+### Clase 22 Ma. 22-Oct-2019:
 * 4.2-Algoritmos vs. Delicuencia [[Nota]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * 4.2-Aplicaciones y datos personales [[Nota]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
 * 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
+
+### Clase 23 Mi. 23-Oct-2019:
 * 4.2-U.S. House of Representatives [[Nota]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * 4.2-Politica de Amazon [[Nota]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
+
+### Clase 24 Lu. 28-Oct-2019:
 * 4.2-Controversia de Rekognition de Amazon [[Nota]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
+
+### Clase 25 Mi. 30-Oct-2019:
 * 4.2-Emociones desde una selfie [[Nota]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)

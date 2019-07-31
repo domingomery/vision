@@ -2,6 +2,7 @@
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
 * Prohibicion en San Francisco de reconocimiento facial [[Nota]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
+* Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 ### 4.2 Estudios de caso:
 * Machine learning 'causing science crisis' [[Nota]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * Consejo para la transparencia [[Nota]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)

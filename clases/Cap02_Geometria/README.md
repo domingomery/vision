@@ -7,7 +7,7 @@
 * Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D.pptx)
 * Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D2D.pptx)
-* Ejercicio homografia bsica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
+* Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
 ### 2.2 Modelacion de una camara:
 * Modelo de una camara [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_3DPyramid.m)
 * Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_experspec.m)
@@ -39,6 +39,9 @@
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_MultipleViewXrayApplications.pptx)
 * Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 ### 2.5 Proyecto:
-* Desarrollor de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
-* Desarrollor de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
 * Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_Proyecto.pdf)
+* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+* Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_Proyecto.pdf)
