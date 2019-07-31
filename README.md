@@ -12,7 +12,7 @@
 * 1.2-Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
 
 ### Clase 02 Mi. 07-Aug-2019:
-* 2.1-Apuntes (ver capitulo 3) [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
+* 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
 * 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D.pptx)
@@ -55,3 +55,11 @@
 ### Clase 07 Lu. 26-Aug-2019:
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
+* 3.4-Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+
+### Clase 08 Mi. 28-Aug-2019:
+* 4.2-Machine learning 'causing science crisis' [[Nota]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
+* 4.2-Consejo para la transparencia [[Nota]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
+* 4.2-Algoritmos vs. Delicuencia [[Nota]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
+* 4.2-Aplicaciones y datos personales [[Nota]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
+* 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)

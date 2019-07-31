@@ -6,4 +6,5 @@
 ### 3.2 Deteccion de objetos (object detection):
 ### 3.3 GAN:
 ### 3.4 Registro (image registration):
+* Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 ### 3.5 Proyecto:

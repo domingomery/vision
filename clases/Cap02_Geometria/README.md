@@ -1,7 +1,7 @@
 
 # Capitulo 02: Modelacion geometrica
 ### 2.1 Representaciones 1D, 2D, 3D:
-* Apuntes (ver capitulo 3) [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
+* Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
 * Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D.pptx)
