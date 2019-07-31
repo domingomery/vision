@@ -14,57 +14,83 @@
 ### Clase 02 Mi. 07-Aug-2019:
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
+* 2.1-Ejercicios puntos  y lineas [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjePuntosLineas.pdf)
+
+### Clase 03 Lu. 12-Aug-2019:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
 * 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D.pptx)
 * 2.1-Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D2D.pptx)
-
-### Clase 03 Lu. 12-Aug-2019:
 * 2.2-Modelo de una camara [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_3DPyramid.m)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_experspec.m)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_meshplot.m)
+* 2.2-Datos para mesh [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/meshpoints.mat)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_Perspective.fig)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_Perspective.m)
+* 2.2-Datos de perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
+
+### Clase 04 Mi. 14-Aug-2019:
+* 2.1-Ejercicio homografia bsica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
+
+### Clase 05 Lu. 19-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Reconstruction3D.pptx)
 * 2.2-Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Reconstruction3D.m)
 * 2.2-Representacion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_PlotMesh3D.m)
 * 2.2-Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Calibration.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_CalibrationChess.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_CalibrationChessGauss.m)
-
-### Clase 04 Mi. 14-Aug-2019:
-* 2.3-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_EpipolarGeometry.pptx)
-* 2.3-Ejemplo geometria epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_EpipolarGeometry_Calibrated.m)
-* 2.3-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_TrifocalGeometry.m)
-* 2.3-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_MultipleViewXrayApplications.pptx)
-* 2.3-Datos para mesh [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/meshpoints.mat)
-* 2.3-Datos de perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
-* 2.3-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
-
-### Clase 05 Lu. 19-Aug-2019:
-* 2.4-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Homography.pptx)
-* 2.4-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Ransac.m)
-* 2.4-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_HomografiaRANSAC.m)
-* 2.4-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Mosaicos.pptx)
+* 2.4-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_EpipolarGeometry.pptx)
+* 2.4-Ejemplo geometria epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_EpipolarGeometry_Calibrated.m)
+* 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_TrifocalGeometry.m)
+* 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_MultipleViewXrayApplications.pptx)
+* 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 
 ### Clase 06 Mi. 21-Aug-2019:
-* 2.4-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_SIFT_ObjectDetection.pptx)
-* 2.4-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Function.m)
-* 2.4-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Keypoints.m)
-* 2.4-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT.m)
+* 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Homography.pptx)
+* 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Ransac.m)
+* 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_HomografiaRANSAC.m)
+* 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Mosaicos.pptx)
+* 2.3-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_SIFT_ObjectDetection.pptx)
+* 2.3-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Function.m)
+* 2.3-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Keypoints.m)
+* 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT.m)
 
 ### Clase 07 Lu. 26-Aug-2019:
+* 2.3-Ejercicio homografia avanzada [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_EjeHomografia1.pdf)
+
+### Clase 08 Mi. 28-Aug-2019:
+* 2.5-Desarrollor de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+
+### Clase 09 Lu. 02-Sep-2019:
+* 2.5-Desarrollor de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
+
+### Clase 10 Mi. 04-Sep-2019:
+* 2.5-Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_Proyecto.pdf)
+
+### Clase 11 Lu. 09-Sep-2019:
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
-* 3.1-Ejemplo de reconocimiento ojos/nariz [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+
+### Clase 12 Mi. 11-Sep-2019:
+* 3.1-Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+
+### Clase 13 Lu. 16-Sep-2019:
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * 3.1-Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * 3.1-ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
+
+### Clase 14 Lu. 23-Sep-2019:
+* 3.1-Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV03_EjeFaceRecognition.pptx)
+
+### Clase 15 Mi. 25-Sep-2019:
 * 3.1-Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
 * 3.1-Reconocimiento de expresiones faciales [[Code]](https://pypi.org/project/py-agender/)
 * 3.1-Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * 3.1-Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * 3.1-Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
 * 3.1-Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
+
+### Clase 16 Lu. 30-Sep-2019:
+* 3.1-Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV03_EjeFacialAttributes.pptx)
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.3-GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * 3.3-How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
