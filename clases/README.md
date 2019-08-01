@@ -6,6 +6,11 @@
 ### Clase 01 Lu. 05-Aug-2019:
 * 0.1-Programa del Curso [[Doc]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_Presentacion.pptx)
+* 0.1-Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
+* 0.1-Computer Vision for X-ray Testing [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
+* 0.1-Deep Learning [[Book]](http://www.deeplearningbook.org)
+* 0.1-Computer Vision [[Book]](http://szeliski.org/Book/)
+* 0.1-Multiple View Geometry in Computer Vision [[]](https://www.robots.ox.ac.uk/~vgg/hzbook/)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
@@ -99,19 +104,20 @@
 * 3.4-Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 ### Clase 18 Lu. 07-Oct-2019:
-* 2.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+* 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 19 Mi. 09-Oct-2019:
-* 2.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
+* 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 20 Lu. 14-Oct-2019:
-* 2.5-Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_Proyecto.pdf)
+* 3.5-Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_Proyecto.pdf)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.2-Machine learning 'causing science crisis' [[Nota]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
+* 4.2-Camaras en el Instituto Nacional [[]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 
 ### Clase 22 Ma. 22-Oct-2019:
 * 4.2-Algoritmos vs. Delicuencia [[Nota]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)

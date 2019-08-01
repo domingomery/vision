@@ -1,5 +1,5 @@
 
-# Capitulo 02: Modelacion geometrica
+# Capitulo 02: Aplicaciones con Modelacion geometrica
 ### 2.1 Representaciones 1D, 2D, 3D:
 * Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
@@ -42,6 +42,3 @@
 * Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
 * Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_DesarrolloProyecto.pdf)
 * Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV01_Proyecto.pdf)
-* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
-* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_DesarrolloProyecto.pdf)
-* Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/ejercicios/CV02_Proyecto.pdf)

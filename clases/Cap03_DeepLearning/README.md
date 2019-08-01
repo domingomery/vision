@@ -1,5 +1,5 @@
 
-# Capitulo 03: Aplicaciones de Deep Learning
+# Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
@@ -23,3 +23,6 @@
 ### 3.4 Registro (image registration):
 * Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 ### 3.5 Proyecto:
+* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_DesarrolloProyecto.pdf)
+* Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_Proyecto.pdf)
