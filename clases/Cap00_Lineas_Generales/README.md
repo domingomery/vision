@@ -7,4 +7,4 @@
 * Computer Vision for X-ray Testing [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
 * Deep Learning [[Book]](http://www.deeplearningbook.org)
 * Computer Vision [[Book]](http://szeliski.org/Book/)
-* Multiple View Geometry in Computer Vision [[]](https://www.robots.ox.ac.uk/~vgg/hzbook/)
+* Multiple View Geometry in Computer Vision [[]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)

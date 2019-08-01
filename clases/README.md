@@ -10,7 +10,7 @@
 * 0.1-Computer Vision for X-ray Testing [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
 * 0.1-Deep Learning [[Book]](http://www.deeplearningbook.org)
 * 0.1-Computer Vision [[Book]](http://szeliski.org/Book/)
-* 0.1-Multiple View Geometry in Computer Vision [[]](https://www.robots.ox.ac.uk/~vgg/hzbook/)
+* 0.1-Multiple View Geometry in Computer Vision [[]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
@@ -101,7 +101,7 @@
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.3-GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * 3.3-How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
-* 3.4-Image Registration [[Nota]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+* 3.4-Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 ### Clase 18 Lu. 07-Oct-2019:
 * 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_DesarrolloProyecto.pdf)
@@ -113,23 +113,23 @@
 * 3.5-Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV02_Proyecto.pdf)
 
 ### Clase 21 Mi. 16-Oct-2019:
-* 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
+* 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
-* 4.2-Machine learning 'causing science crisis' [[Nota]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
-* 4.2-Consejo para la transparencia [[Nota]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
-* 4.2-Camaras en el Instituto Nacional [[]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
+* 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
+* 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
+* 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 
 ### Clase 22 Ma. 22-Oct-2019:
-* 4.2-Algoritmos vs. Delicuencia [[Nota]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
-* 4.2-Aplicaciones y datos personales [[Nota]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
-* 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
+* 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
+* 4.2-Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
+* 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
 
 ### Clase 23 Mi. 23-Oct-2019:
-* 4.2-U.S. House of Representatives [[Nota]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
-* 4.2-Politica de Amazon [[Nota]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
+* 4.2-U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
+* 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 
 ### Clase 24 Lu. 28-Oct-2019:
-* 4.2-Controversia de Rekognition de Amazon [[Nota]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
+* 4.2-Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
 
 ### Clase 25 Mi. 30-Oct-2019:
-* 4.2-Emociones desde una selfie [[Nota]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
+* 4.2-Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
