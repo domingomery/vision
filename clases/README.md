@@ -6,11 +6,11 @@
 ### Clase 01 Lu. 05-Aug-2019:
 * 0.1-Programa del Curso [[Doc]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_Presentacion.pptx)
-* 0.1-Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-* 0.1-Computer Vision for X-ray Testing [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
-* 0.1-Deep Learning [[Book]](http://www.deeplearningbook.org)
-* 0.1-Computer Vision [[Book]](http://szeliski.org/Book/)
-* 0.1-Multiple View Geometry in Computer Vision [[]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+* 0.1-Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
+* 0.1-Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
+* 0.1-Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
+* 0.1-Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+* 0.1-Computer Vision for X-ray Testing (Mery, 2015) [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
@@ -115,6 +115,7 @@
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
+* 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
@@ -133,3 +134,9 @@
 
 ### Clase 25 Mi. 30-Oct-2019:
 * 4.2-Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
+* 4.2-Cuanto valen tus datos digitales? [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/29/proteccion-datos-facebook-google)
+* 4.2-El reconocimiento facial debe postergarse [[Nota Periodistica]](https://www.nytimes.com/es/2019/05/21/reconocimiento-facial-privacidad)
+* 4.2-La tecnologa de reconocimiento facial de Amazon puede ser racista? [[Nota Periodistica]](https://www.nytimes.com/es/2018/07/27/amazon-rekogniton-aclu)
+* 4.2-How to Thwart Facial Recognition [[Nota Periodistica]](https://www.nytimes.com/2019/07/30/magazine/how-to-thwart-facial-recognition.html)
+* 4.2-Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
+* 4.2-Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
