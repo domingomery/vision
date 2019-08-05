@@ -9,6 +9,7 @@
 * ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
 * Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/ejercicios/CV03_EjeFaceRecognition.pptx)
 * Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
+* Building Face Recognition using FaceNet [[Blog]](https://www.datasciencecentral.com/profiles/blogs/building-face-recognition-using-facenet)
 * Reconocimiento de expresiones faciales [[Code]](https://pypi.org/project/py-agender/)
 * Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)

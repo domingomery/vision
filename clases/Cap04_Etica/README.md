@@ -4,6 +4,7 @@
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+* The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
 ### 4.2 Estudios de caso:
 * Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
@@ -21,4 +22,8 @@
 * How to Thwart Facial Recognition [[Nota Periodistica]](https://www.nytimes.com/2019/07/30/magazine/how-to-thwart-facial-recognition.html)
 * Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
 * Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
+* Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
+* Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
+* Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
+* Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 ### 4.3 Ensayo:
