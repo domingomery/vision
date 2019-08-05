@@ -5,7 +5,6 @@
 
 ### Clase 01 Lu. 05-Aug-2019:
 * 0.1-Programa del Curso [[Doc]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
-* 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_Presentacion.pptx)
 * 0.1-Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1-Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1-Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
@@ -14,7 +13,9 @@
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
+* 1.2-Vanishing points - perspective [[]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
 * 1.2-Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
+* 1.2-Ejemplo 3D model de Vermer [[3D Model]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/models/CV01_Veermer_Milk_Maid.skp)
 
 ### Clase 02 Mi. 07-Aug-2019:
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
@@ -118,6 +119,7 @@
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.1-The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
+* 4.1-A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
 * 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)

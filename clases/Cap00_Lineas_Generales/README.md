@@ -2,7 +2,6 @@
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
 * Programa del Curso [[Doc]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
-* Presentacion del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_Presentacion.pptx)
 * Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
