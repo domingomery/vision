@@ -3,7 +3,7 @@
 ### 2.1 Representaciones 1D, 2D, 3D:
 * Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
-* Ejercicios puntos  y lineas [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_EjePuntosLineas.pdf)
+* Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_EjePuntosLineas.pdf)
 * Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D.pptx)
 * Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation3D2D.pptx)

@@ -20,7 +20,7 @@
 ### Clase 02 Mi. 07-Aug-2019:
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_PointsLinesPlanes.pptx)
-* 2.1-Ejercicios puntos  y lineas [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_EjePuntosLineas.pdf)
+* 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_EjePuntosLineas.pdf)
 
 ### Clase 03 Lu. 12-Aug-2019:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Transformation2D.pptx)
