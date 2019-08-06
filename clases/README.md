@@ -23,7 +23,7 @@
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * 2.1-Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
 * 2.1-Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
-* 2.2-Landmarks de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
+* 2.2-Landmarks (x,y) de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
 
 ### Clase 03 Lu. 12-Aug-2019:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation2D.pptx)
@@ -154,4 +154,4 @@
 ---
 
 
-Updated on 06-Aug-2019 at 14:41 by Domingo Mery
+Updated on 06-Aug-2019 at 14:43 by Domingo Mery
