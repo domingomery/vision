@@ -4,7 +4,7 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Lu. 05-Aug-2019:
-* 0.1-Programa del Curso [[Doc]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
+* 0.1-Programa del Curso [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1-Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1-Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
@@ -148,3 +148,7 @@
 * 4.2-Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
+
+
+
+Updated on 06-Aug-2019 at 09:47 by Domingo Mery
