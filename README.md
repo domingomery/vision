@@ -150,5 +150,5 @@
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 
 
-
+---
 Updated on 06-Aug-2019 at 09:47 by Domingo Mery
