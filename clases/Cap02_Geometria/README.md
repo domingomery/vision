@@ -4,11 +4,14 @@
 * Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_PointsLinesPlanes.pptx)
 * Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
+* Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
+* Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
 * Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation2D.pptx)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation3D.pptx)
 * Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation3D2D.pptx)
 * Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
 ### 2.2 Modelacion de una camara:
+* Landmarks de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
 * Modelo de una camara [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_experspec.m)
 * Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_meshplot.m)
@@ -45,4 +48,4 @@
 ---
 
 
-Updated on 06-Aug-2019 at 09:54 by Domingo Mery
+Updated on 06-Aug-2019 at 14:41 by Domingo Mery

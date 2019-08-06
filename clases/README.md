@@ -21,6 +21,9 @@
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_PointsLinesPlanes.pptx)
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
+* 2.1-Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
+* 2.1-Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
+* 2.2-Landmarks de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
 
 ### Clase 03 Lu. 12-Aug-2019:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation2D.pptx)
@@ -151,4 +154,4 @@
 ---
 
 
-Updated on 06-Aug-2019 at 09:54 by Domingo Mery
+Updated on 06-Aug-2019 at 14:41 by Domingo Mery
