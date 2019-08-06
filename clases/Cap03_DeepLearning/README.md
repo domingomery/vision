@@ -27,7 +27,7 @@
 * Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 * Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 * Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_Proyecto.pdf)
+---
 
 
-
-Updated on 06-Aug-2019 at 09:47 by Domingo Mery
+Updated on 06-Aug-2019 at 09:54 by Domingo Mery

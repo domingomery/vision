@@ -42,7 +42,7 @@
 * Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_DesarrolloProyecto.pdf)
 * Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_DesarrolloProyecto.pdf)
 * Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV01_Proyecto.pdf)
+---
 
 
-
-Updated on 06-Aug-2019 at 09:47 by Domingo Mery
+Updated on 06-Aug-2019 at 09:54 by Domingo Mery

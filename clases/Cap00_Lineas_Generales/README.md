@@ -7,7 +7,7 @@
 * Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 * Computer Vision for X-ray Testing (Mery, 2015) [[Book]](http://link.springer.com/book/10.1007%2F978-3-319-20747-6)
+---
 
 
-
-Updated on 06-Aug-2019 at 09:47 by Domingo Mery
+Updated on 06-Aug-2019 at 09:54 by Domingo Mery
