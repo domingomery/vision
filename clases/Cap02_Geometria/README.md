@@ -12,6 +12,8 @@
 * Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
 ### 2.2 Modelacion de una camara:
 * Landmarks (x,y) de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
+* Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
+* Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
 * Modelo de una camara [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_experspec.m)
 * Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_meshplot.m)
@@ -48,4 +50,4 @@
 ---
 
 
-Updated on 06-Aug-2019 at 14:43 by Domingo Mery
+Updated on 07-Aug-2019 at 12:36 by Domingo Mery
