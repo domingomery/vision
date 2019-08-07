@@ -19,7 +19,7 @@
 
 ### Clase 02 Mi. 07-Aug-2019:
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
-* 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_PointsLinesPlanes.pptx)
+* 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * 2.1-Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
 * 2.1-Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
@@ -28,9 +28,9 @@
 * 2.2-Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
 
 ### Clase 03 Lu. 12-Aug-2019:
-* 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation2D.pptx)
-* 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation3D.pptx)
-* 2.1-Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Transformation3D2D.pptx)
+* 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
+* 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
+* 2.1-Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * 2.2-Modelo de una camara [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_experspec.m)
 * 2.2-Ejemplo perspectiva [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV04_meshplot.m)
@@ -43,24 +43,24 @@
 * 2.1-Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
 
 ### Clase 05 Lu. 19-Aug-2019:
-* 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV02_Reconstruction3D.pptx)
+* 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
 * 2.2-Representacion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_PlotMesh3D.m)
 * 2.2-Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Calibration.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_CalibrationChess.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_CalibrationChessGauss.m)
-* 2.4-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_EpipolarGeometry.pptx)
+* 2.4-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV01_EpipolarGeometry.pptx)
 * 2.4-Ejemplo geometria epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_EpipolarGeometry_Calibrated.m)
 * 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_TrifocalGeometry.m)
-* 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_MultipleViewXrayApplications.pptx)
+* 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV01_MultipleViewXrayApplications.pptx)
 * 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 
 ### Clase 06 Mi. 21-Aug-2019:
-* 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Homography.pptx)
+* 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV01_Homography.pptx)
 * 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_Ransac.m)
 * 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_HomografiaRANSAC.m)
-* 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_Mosaicos.pptx)
-* 2.3-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentations/CV01_SIFT_ObjectDetection.pptx)
+* 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV01_Mosaicos.pptx)
+* 2.3-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV01_SIFT_ObjectDetection.pptx)
 * 2.3-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Function.m)
 * 2.3-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT_DoG_Keypoints.m)
 * 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV01_SIFT.m)
@@ -156,4 +156,4 @@
 ---
 
 
-Updated on 07-Aug-2019 at 12:36 by Domingo Mery
+Updated on 07-Aug-2019 at 12:42 by Domingo Mery
