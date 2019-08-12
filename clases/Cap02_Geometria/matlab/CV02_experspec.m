@@ -1,4 +1,4 @@
-function CV01_experspec(tx,ty,tz,wx,wy,wz)
+function CV02_experspec(tx,ty,tz,wx,wy,wz)
 % Defintions
 % axis
 axp = [1 0 0 0 0
@@ -15,7 +15,7 @@ n = size(Mp,2);
 % Object Coordinate System
 figure(1);clf
 subplot(2,2,1); hold off
-CV04_meshplot(Mp(1:3,:)',T,'b')
+CV02_meshplot(Mp(1:3,:)',T,'b')
 title('Object Coordinate System (Xp,Yp,Zp)');
 hold on
 plot3(axp(1,:),axp(2,:),axp(3,:),'r')
@@ -38,7 +38,7 @@ R = Bmv_matrixr3d(wx,wy,wz);
 H = [R t;0 0 0 1];
 M = H*Mp;
 ax = H*axp;
-CV04_meshplot(M(1:3,:)',T,'b')
+CV02_meshplot(M(1:3,:)',T,'b')
 hold on
 title('Word Coordinate System (X,Y,Z)');
 plot3(ax(1,:),ax(2,:),ax(3,:),'r')
@@ -84,7 +84,7 @@ P = [f 0 0 0 ; 0 f 0 0 ; 0 0 1 0];
 
 m = P*M;
 m = m./(ones(3,1)*m(3,:));
-CV04_meshplot(m(1:2,:)',T,'r')
+CV02_meshplot(m(1:2,:)',T,'r')
 hold on
 title('Projection Coordinate System (x,y)');
 xlabel('x');
@@ -92,7 +92,7 @@ ylabel('y');
 axis([-dX dX -dY dY]);
 subplot(2,2,2);
 Mf = [m(1:2,:); f*ones(1,n); ones(1,n)];
-CV04_meshplot(Mf(1:3,:)',T,'r')
+CV02_meshplot(Mf(1:3,:)',T,'r')
 
 
 

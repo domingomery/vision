@@ -15,6 +15,7 @@
 * Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
 * U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
+* How to Make A.I. Thats Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
 * Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
 * Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
 * Cuanto valen tus datos digitales? [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/29/proteccion-datos-facebook-google)
@@ -31,4 +32,4 @@
 ---
 
 
-Updated on 07-Aug-2019 at 12:42 by Domingo Mery
+Updated on 12-Aug-2019 at 09:45 by Domingo Mery

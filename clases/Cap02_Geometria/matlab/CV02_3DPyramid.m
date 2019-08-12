@@ -26,23 +26,23 @@ M = P(:,s);
 if 1
 
 t = [0 0 0]'; w = [0 0 0]';    
-CV01_PlotMesh3D(M,t,w);
+CV02_PlotMesh3D(M,t,w);
 enterpause
 
 t = [1 2 3]'; w = [0 0 0]';    
-CV01_PlotMesh3D(M,t,w);
+CV02_PlotMesh3D(M,t,w);
 enterpause
 
 t = [0 0 0]'; w = [pi/2 0 0]'; 
-CV01_PlotMesh3D(M,t,w);
+CV02_PlotMesh3D(M,t,w);
 enterpause
 
 t = [0 0 2]'; w = [pi   0 0]';     
-CV01_PlotMesh3D(M,t,w);
+CV02_PlotMesh3D(M,t,w);
 enterpause
 
 t = [2 2 0]'; w = [0 pi/4 -pi/8]'; 
-CV01_PlotMesh3D(M,t,w);
+CV02_PlotMesh3D(M,t,w);
 enterpause
 
 end
@@ -50,19 +50,19 @@ end
 t = [0 0 0]'; w = [0 0 0]';    
 for wx = 0:pi/36:2*pi
     w(1) = wx;
-    CV01_PlotMesh3D(M,t,w);
+    CV02_PlotMesh3D(M,t,w);
     drawnow
 end
 
 for wy = 0:pi/36:2*pi
     w(2) = wy;
-    CV01_PlotMesh3D(M,t,w);
+    CV02_PlotMesh3D(M,t,w);
     drawnow
 end
 
 for wz = 0:pi/36:2*pi
     w(3) = wz;
-    CV01_PlotMesh3D(M,t,w);
+    CV02_PlotMesh3D(M,t,w);
     drawnow
 end
 
@@ -76,7 +76,7 @@ for i = 0:N
     wz  = i/N*2*pi; 
     t = [tx ty tz]';
     w = [wx wy wz]';
-    CV01_PlotMesh3D(M,t,w);
+    CV02_PlotMesh3D(M,t,w);
     drawnow
 end
 

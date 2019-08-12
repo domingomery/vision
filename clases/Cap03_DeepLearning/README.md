@@ -18,6 +18,7 @@
 * Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFacialAttributes.pptx)
 ### 3.2 Deteccion de objetos (object detection):
 * Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
+* Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
 ### 3.3 GAN:
 * GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 07-Aug-2019 at 12:42 by Domingo Mery
+Updated on 12-Aug-2019 at 09:45 by Domingo Mery
