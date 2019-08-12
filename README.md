@@ -29,6 +29,7 @@
 
 ### Clase 03 Lu. 12-Aug-2019:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
+* 2.1-Ejemplo Transformaciones 2D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Trans2D.m)
 * 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * 2.1-Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * 2.2-Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
@@ -158,4 +159,4 @@
 ---
 
 
-Updated on 12-Aug-2019 at 09:45 by Domingo Mery
+Updated on 12-Aug-2019 at 09:54 by Domingo Mery
