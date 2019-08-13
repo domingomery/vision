@@ -10,7 +10,7 @@
 * Ejemplo Transformaciones 2D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Trans2D.m)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
-* Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
+* Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 ### 2.2 Modelacion de una camara:
 * Landmarks (x,y) de foto de John Lennon [[matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks.mat)
 * Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
@@ -51,4 +51,4 @@
 ---
 
 
-Updated on 12-Aug-2019 at 14:44 by Domingo Mery
+Updated on 13-Aug-2019 at 15:07 by Domingo Mery

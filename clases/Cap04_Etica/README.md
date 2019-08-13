@@ -28,8 +28,9 @@
 * Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
+* Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 12-Aug-2019 at 14:44 by Domingo Mery
+Updated on 13-Aug-2019 at 15:07 by Domingo Mery

@@ -41,7 +41,7 @@
 * 2.2--> Ejemplo perspectiva (datos de perspectiva para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
 
 ### Clase 04 Mi. 14-Aug-2019:
-* 2.1-Ejercicio homografia basica [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
+* 2.1-Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 
 ### Clase 05 Lu. 19-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
@@ -156,7 +156,8 @@
 * 4.2-Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
+* 4.2-Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
 ---
 
 
-Updated on 12-Aug-2019 at 14:44 by Domingo Mery
+Updated on 13-Aug-2019 at 15:07 by Domingo Mery
