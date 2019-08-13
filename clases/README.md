@@ -1,6 +1,6 @@
 # Vision por Computador
 
-## Planificacion del curso por dia
+## Planificacion del course por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Lu. 05-Aug-2019:
@@ -159,4 +159,4 @@
 ---
 
 
-Updated on 12-Aug-2019 at 14:28 by Domingo Mery
+Updated on 12-Aug-2019 at 14:44 by Domingo Mery
