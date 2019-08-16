@@ -44,6 +44,16 @@
 * 2.1-Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 
 ### Clase 05 Lu. 19-Aug-2019:
+* 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
+* 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Ransac.m)
+* 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_HomografiaRANSAC.m)
+* 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
+* 2.3-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_SIFT_ObjectDetection.pptx)
+* 2.3-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Function.m)
+* 2.3-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Keypoints.m)
+* 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
+
+### Clase 06 Mi. 21-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
 * 2.2-Representacion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_PlotMesh3D.m)
@@ -55,16 +65,6 @@
 * 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
-
-### Clase 06 Mi. 21-Aug-2019:
-* 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
-* 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Ransac.m)
-* 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_HomografiaRANSAC.m)
-* 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* 2.3-SIFT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_SIFT_ObjectDetection.pptx)
-* 2.3-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Function.m)
-* 2.3-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Keypoints.m)
-* 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
 
 ### Clase 07 Lu. 26-Aug-2019:
 * 2.3-Ejercicio homografia avanzada [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
@@ -160,4 +160,4 @@
 ---
 
 
-Updated on 13-Aug-2019 at 15:07 by Domingo Mery
+Updated on 16-Aug-2019 at 16:40 by Domingo Mery
