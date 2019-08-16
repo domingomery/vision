@@ -52,6 +52,7 @@
 * 2.3-Ejemplo DoG en SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Function.m)
 * 2.3-Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Keypoints.m)
 * 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
+* 2.3-Video de  ejemplo [[Video]](https://www.youtube.com/watch?v=qYaU1GeEiR8)
 
 ### Clase 06 Mi. 21-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
@@ -160,4 +161,4 @@
 ---
 
 
-Updated on 16-Aug-2019 at 16:40 by Domingo Mery
+Updated on 16-Aug-2019 at 18:26 by Domingo Mery
