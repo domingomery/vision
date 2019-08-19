@@ -7,7 +7,7 @@ I2 = rgb2gray(imread('../images/image2.jpg'));
 I2 = imresize(I2,0.3);
 I2 = Bim_lin(I2);
 figure(7);imshow(I2,[]);title('Right image')
-
+enterpause
 
 disp('Computing matching points...')
 [f1n,~,f2n,~,scores] = Bmv_matchSIFT(I1,I2,1,1);
