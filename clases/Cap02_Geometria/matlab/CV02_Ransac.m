@@ -37,7 +37,7 @@ for k = 1:10000;
     plot(x,y,'*')
     hold on
     plot(x,ys,'k')
-    plot([x1 x2],[y1 y2],'bo')
+    plot([x1 x2],[y1 y2],'ro')
     e = (abs(y-ys));
     ii = find(e>15);
     o  = length(ii);
