@@ -57,7 +57,8 @@
 ### Clase 06 Mi. 21-Aug-2019:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
-* 2.2-Representacion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_PlotMesh3D.m)
+* 2.2-Calibracion (ver seccion 3.4) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
+* 2.2-Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * 2.2-Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Calibration.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_CalibrationChess.m)
 * 2.2-Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_CalibrationChessGauss.m)
@@ -101,6 +102,7 @@
 * 3.1-Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * 3.1-Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * 3.1-Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
+* 3.1-Pose estimation [[Code]](https://github.com/natanielruiz/deep-head-pose)
 * 3.1-Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 
 ### Clase 16 Lu. 30-Sep-2019:
@@ -161,4 +163,4 @@
 ---
 
 
-Updated on 19-Aug-2019 at 10:47 by Domingo Mery
+Updated on 21-Aug-2019 at 11:01 by Domingo Mery

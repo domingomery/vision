@@ -14,6 +14,7 @@
 * Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
+* Pose estimation [[Code]](https://github.com/natanielruiz/deep-head-pose)
 * Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 * Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFacialAttributes.pptx)
 ### 3.2 Deteccion de objetos (object detection):
@@ -31,4 +32,4 @@
 ---
 
 
-Updated on 19-Aug-2019 at 10:47 by Domingo Mery
+Updated on 21-Aug-2019 at 11:01 by Domingo Mery

@@ -24,7 +24,8 @@
 * -> Ejemplo perspectiva (datos de perspectiva para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
 * Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
-* Representacion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_PlotMesh3D.m)
+* Calibracion (ver seccion 3.4) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
+* Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Calibration.m)
 * Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_CalibrationChess.m)
 * Ejemplo Calibracion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_CalibrationChessGauss.m)
@@ -52,4 +53,4 @@
 ---
 
 
-Updated on 19-Aug-2019 at 10:47 by Domingo Mery
+Updated on 21-Aug-2019 at 11:01 by Domingo Mery
