@@ -6,8 +6,8 @@ El objetivo de esta tarea es realizar un navegador por el campus a partir de alg
 ## Adquisicion de Imagenes
 Las fotos deben ser tomadas de la siguiente manera (esta forma que sirva de referencia, puede haber otras formas similares): Ubicarse en el inicio del Callejon 1) en este punto se toman unas 8 imagenes haciendo rotar el eje vertical de la camara en 360 grados (por ejemplo una foto a 0 grados, otra a 45 grados, etc), 2) luego caminando hacia adelante (internandose en el Callejon) tomar una foto cada unos 30-50 cm hasta llegar a un nuevo punto a unos 2 metros del punto anterior, 3) repetir dos a tres veces los puntos 1 y 2. 
 
-# Procesamiento
-a) Se debe generar una panoramica de 360 grados para conjunto de imagenes del punto 1 explicado en la adquisicion de imagenes. b) se debe generar las imagenes intermedias del punto 2, es decir, si las fotos fueron tomadas cada 30 cm, es necesario generar las 30 imagenes intermedias por cada centimetro de avance (tomar la distancia de un centimetro como referencia). c) genear un video de al menos 2 minutos de frames de al menos 600 x 400 pixeles, que muestre el Callejon como si hubiese sido capturado por una camara de video que siga la trayectoria explicada en la adquisicion de imagenes.
+## Procesamiento
+a) Se debe generar una panoramica de 360 grados para conjunto de imagenes del punto 1 explicado en la adquisicion de imagenes. b) se debe generar las imagenes intermedias del punto 2, es decir, si las fotos fueron tomadas cada 30 cm, es necesario generar las 30 imagenes intermedias por cada centimetro de avance (tomar la distancia de un centimetro como referencia). c) generar un video de al menos 2 minutos de frames de al menos 600 x 400 pixeles, que muestre el Callejon como si hubiese sido capturado por una camara de video que siga la trayectoria explicada en la adquisicion de imagenes. En el diseno pensar en una solucion que pueda generar un video para cualquier secuencia. Para la entrega se debe presentar solamente el video del punto c. 
 
 ## Fechas de Desarrollo en Clase
 Mi. 28/Ago 
