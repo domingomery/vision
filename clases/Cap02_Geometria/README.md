@@ -39,7 +39,7 @@
 * Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Keypoints.m)
 * Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
 * Video de  ejemplo [[Video]](https://www.youtube.com/watch?v=qYaU1GeEiR8)
-* Ejercicio homografia avanzada [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
+* Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 ### 2.4 Geometria de multiples vistas:
 * Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Ejemplo geometria epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_EpipolarGeometry_Calibrated.m)
@@ -53,4 +53,4 @@
 ---
 
 
-Updated on 21-Aug-2019 at 11:01 by Domingo Mery
+Updated on 26-Aug-2019 at 07:52 by Domingo Mery

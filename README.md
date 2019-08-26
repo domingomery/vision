@@ -69,7 +69,7 @@
 * 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 
 ### Clase 07 Lu. 26-Aug-2019:
-* 2.3-Ejercicio homografia avanzada [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjeHomografia1.pdf)
+* 2.3-Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 
 ### Clase 08 Mi. 28-Aug-2019:
 * 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
@@ -163,4 +163,4 @@
 ---
 
 
-Updated on 21-Aug-2019 at 11:01 by Domingo Mery
+Updated on 26-Aug-2019 at 07:52 by Domingo Mery
