@@ -9,12 +9,15 @@ Las fotos deben ser tomadas de la siguiente manera (esta forma que sirva de refe
 ## Procesamiento
 a) Se debe generar una panoramica de 360 grados para conjunto de imagenes del punto 1) explicado en la adquisicion de imagenes. b) se debe generar las imagenes intermedias del punto 2), es decir, si las fotos fueron tomadas cada 30 cm, es necesario generar las 30 imagenes intermedias por cada centimetro de avance (considerar la distancia de un centimetro entre frame y frame como referencia). c) generar un video a color de al menos 2 minutos de frames de al menos 400 x 600 pixeles, que muestre el Callejon como si hubiese sido capturado por una camara de video que siga la trayectoria explicada en la adquisicion de imagenes. En el diseno pensar en una solucion que pueda generar un video para cualquier secuencia. Para la entrega se debe presentar solamente el video del punto c). 
 
+## Trabajo en Grupo
+Se debe conformar un grupo de 4 integrantes, debe al menos uno/a que haya hecho el curso de Reconocimiento de Patrones, otro/a que haya hecho el curso de Procesamiento de Imagenes, otro/a que domine Matlab y otro/a que domine Python.
+
 ## Fechas de Desarrollo en Clase
 - Mi. 28/Ago 
 - Lu. 02/Sep
 
 ## Presentacion
-Mi. 04/Sep 
+- Mi. 04/Sep a las 11:30 en la sala K302 
 
 ## Informe (20%)
 En el informe se evalua calidad del informe, explicaciones, redaccion, ortografia. El informe debe ser un PDF de una sola pagina (una cara en Times New Roman, Espacio Simple, Tamano Carta, Tamano de Letra 10,11 o 12), con margenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdotico, sin faltas de ortografia y sin problemas de redaccion. El informe debe contener: 1) Motivacion: explicar la relevancia de la tarea. 2) Solucion propuesta: explicar cada uno de los pasos y haciendo referencia al codigo. 3) Experimentos realizados: explicar los experimetos, datos y los resultados obtenidos. 5) Conclusiones: mencionar las conclusiones a las que se llego. Ver [Informe Modelo](https://github.com/domingomery/imagenes/blob/master/tareas/TareaModelo.pdf).
