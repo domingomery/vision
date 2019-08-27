@@ -25,12 +25,17 @@
 * Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
 * Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
 * Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
+* A new clothing line confuses automated license plate readers [[Nota Periodistica]](https://www.technologyreview.com/f/614175/a-new-clothing-line-confuses-automated-license-plate-readers/)
+* The Danger of Over-Valuing Machine Learning [[Nota Periodistica]](https://www.forbes.com/sites/cognitiveworld/2019/08/14/the-danger-of-over-valuing-machine-learning/)
+* The Economist: Deepfake [[Nota Periodistica]](https://amp.economist.com/the-economist-explains/2019/08/07/what-is-a-deepfake)
+* Real-time object detection towards high power efficiency [[Paper]](https://ieeexplore.ieee.org/document/8342100)
 * Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 * Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
 ### 4.3 Ensayo:
+* YouTube ayud al surgimiento de la derecha y la radicalizacin en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
 ---
 
 
-Updated on 26-Aug-2019 at 07:52 by Domingo Mery
+Updated on 27-Aug-2019 at 10:01 by Domingo Mery

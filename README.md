@@ -85,6 +85,7 @@
 
 ### Clase 12 Mi. 11-Sep-2019:
 * 3.1-Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
 
 ### Clase 13 Lu. 16-Sep-2019:
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
@@ -156,6 +157,11 @@
 * 4.2-Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
 * 4.2-Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
 * 4.2-Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
+* 4.2-A new clothing line confuses automated license plate readers [[Nota Periodistica]](https://www.technologyreview.com/f/614175/a-new-clothing-line-confuses-automated-license-plate-readers/)
+* 4.2-The Danger of Over-Valuing Machine Learning [[Nota Periodistica]](https://www.forbes.com/sites/cognitiveworld/2019/08/14/the-danger-of-over-valuing-machine-learning/)
+* 4.2-The Economist: Deepfake [[Nota Periodistica]](https://amp.economist.com/the-economist-explains/2019/08/07/what-is-a-deepfake)
+* 4.2-Real-time object detection towards high power efficiency [[Paper]](https://ieeexplore.ieee.org/document/8342100)
+* 4.3-YouTube ayud al surgimiento de la derecha y la radicalizacin en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
 * 4.2-Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
@@ -163,4 +169,4 @@
 ---
 
 
-Updated on 26-Aug-2019 at 07:52 by Domingo Mery
+Updated on 27-Aug-2019 at 10:01 by Domingo Mery

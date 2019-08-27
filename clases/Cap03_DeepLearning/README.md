@@ -3,6 +3,7 @@
 ### 3.1 Clasificacion de imagenes:
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
 * Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
@@ -32,4 +33,4 @@
 ---
 
 
-Updated on 26-Aug-2019 at 07:52 by Domingo Mery
+Updated on 27-Aug-2019 at 10:01 by Domingo Mery
