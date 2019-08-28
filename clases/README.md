@@ -72,7 +72,7 @@
 * 2.3-Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 
 ### Clase 08 Mi. 28-Aug-2019:
-* 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
+* 2.5-Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
 
 ### Clase 09 Lu. 02-Sep-2019:
 * 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
@@ -169,4 +169,4 @@
 ---
 
 
-Updated on 27-Aug-2019 at 10:01 by Domingo Mery
+Updated on 28-Aug-2019 at 11:22 by Domingo Mery

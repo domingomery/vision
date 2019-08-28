@@ -47,10 +47,10 @@
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 ### 2.5 Proyecto:
-* Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
 * Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
 * Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
 ---
 
 
-Updated on 27-Aug-2019 at 10:01 by Domingo Mery
+Updated on 28-Aug-2019 at 11:22 by Domingo Mery
