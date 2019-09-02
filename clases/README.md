@@ -75,7 +75,15 @@
 * 2.5-Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
 
 ### Clase 09 Lu. 02-Sep-2019:
-* 2.5-Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
+* 2.5-Mosaicos en la practica (1) [[PDF]](https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect7.pdf)
+* 2.5-Mosaicos en la practica (2) [[PDF]](http://www.csd.uwo.ca/courses/CS3335a/Lectures/lec09_mosaic_u.pdf)
+* 2.5-Mosaicos en la practica (3) [[PPT]](https://inst.eecs.berkeley.edu/~cs194-26/fa15/Lectures/MoreMosaics.ppt)
+* 2.5-Mosaicos con Python [[Code]](https://staff.fnwi.uva.nl/r.vandenboomgaard/IPCV20162017/20162017/LabExercises/Lab_ImageMosaic.html)
+* 2.5-SIFT mosaic  con Matlba (vlfeat toolbox) [[Code]](http://www.vlfeat.org/applications/apps.html)
+* 2.5-From SIFT to Deep Learning [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+* 2.5-Creating Full View Panoramic Image Mosaics [[Paper]](http://faculty.cs.tamu.edu/jchai/CPSC641/szeliskiShum97.pdf)
+* 2.5-Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
+* 2.5-Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
 
 ### Clase 10 Mi. 04-Sep-2019:
 * 2.5-Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
@@ -169,4 +177,4 @@
 ---
 
 
-Updated on 28-Aug-2019 at 11:22 by Domingo Mery
+Updated on 02-Sep-2019 at 11:04 by Domingo Mery

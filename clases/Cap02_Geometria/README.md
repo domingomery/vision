@@ -48,9 +48,17 @@
 * Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 ### 2.5 Proyecto:
 * Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
-* Desarrollo de Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_DesarrolloProyecto.pdf)
+* Mosaicos en la practica (1) [[PDF]](https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect7.pdf)
+* Mosaicos en la practica (2) [[PDF]](http://www.csd.uwo.ca/courses/CS3335a/Lectures/lec09_mosaic_u.pdf)
+* Mosaicos en la practica (3) [[PPT]](https://inst.eecs.berkeley.edu/~cs194-26/fa15/Lectures/MoreMosaics.ppt)
+* Mosaicos con Python [[Code]](https://staff.fnwi.uva.nl/r.vandenboomgaard/IPCV20162017/20162017/LabExercises/Lab_ImageMosaic.html)
+* SIFT mosaic  con Matlba (vlfeat toolbox) [[Code]](http://www.vlfeat.org/applications/apps.html)
+* From SIFT to Deep Learning [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
+* Creating Full View Panoramic Image Mosaics [[Paper]](http://faculty.cs.tamu.edu/jchai/CPSC641/szeliskiShum97.pdf)
+* Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
+* Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
 * Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
 ---
 
 
-Updated on 28-Aug-2019 at 11:22 by Domingo Mery
+Updated on 02-Sep-2019 at 11:04 by Domingo Mery
