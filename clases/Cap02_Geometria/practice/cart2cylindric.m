@@ -18,7 +18,7 @@ for i=1:N
             theta = atan(jp/f);
             jp = round(r*theta+M/2);
             if and(jp>=1,jp<=M)
-                Y(i,j) = I(ip,jp);
+                Y(i,j) = X(ip,jp);
             end
         end
     end
