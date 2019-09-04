@@ -25,7 +25,10 @@ from   cnn_utils     import evaluateLayer, plotCurves, computeConfussionMatrix, 
 # each fully connected layer as f[j] nodes, j = 0...m-1
 p             = [7, 5, 3, 3]   # Conv2D mask size
 d             = [2, 4, 6, 8]   # Conv2D channels
-f             = [10, 4]           # fully connected
+f             = [10]           # fully connected
+
+
+
 
 
 # parameters

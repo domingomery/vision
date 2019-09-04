@@ -92,7 +92,7 @@ def loadPatches(st_file):
     # patches are of 32 x 32 pixels (uint8)
     # classes are two: 0 and 1
     # X_train and X_test are uint8 4D matrices of size N_train x 1 x 32 x 32 and N_test x 1 x 32 x 32 respectively
-    # Y_train and Y_test are uint8 column vectors with 0 and 1 of size N_train x 1 and N_test x 1 x 32 x 32 respectively
+    # Y_train and Y_test are uint8 column vectors with 0 and 1 of size N_train x 1 and N_test x 1 respectively
     print('loading training/testing data from '+ st_file +' ...')
     data              = loadmat(DATA_PATH+st_file)
 
