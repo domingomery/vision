@@ -1,3 +1,6 @@
+% dataset can be downloaded from
+% https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0
+
 clt
 fpathc = 'catddog/training_set/cats/';
 fpathd = 'catddog/training_set/dogs/';

@@ -2,8 +2,12 @@
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
-* Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* Introduction to deep Learning from scratch [[blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
 * Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
+* Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
+* Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
 * Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
@@ -33,4 +37,4 @@
 ---
 
 
-Updated on 02-Sep-2019 at 11:26 by Domingo Mery
+Updated on 04-Sep-2019 at 11:06 by Domingo Mery

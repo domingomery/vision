@@ -86,14 +86,18 @@
 * 2.5-Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
 
 ### Clase 10 Mi. 04-Sep-2019:
-* 2.5-Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
+* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
+* 3.1-Introduction to deep Learning from scratch [[blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
+* 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
+* 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 
 ### Clase 11 Lu. 09-Sep-2019:
-* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
+* 2.5-Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
 
 ### Clase 12 Mi. 11-Sep-2019:
-* 3.1-Ejemplo de reconocimiento ojos/nariz [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
-* 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
+* 3.1-Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* 3.1-Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
 
 ### Clase 13 Lu. 16-Sep-2019:
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
@@ -177,4 +181,4 @@
 ---
 
 
-Updated on 02-Sep-2019 at 11:26 by Domingo Mery
+Updated on 04-Sep-2019 at 11:06 by Domingo Mery
