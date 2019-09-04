@@ -12,10 +12,10 @@ from   cnn_utils     import evaluateLayer, plotCurves, computeConfussionMatrix, 
 
 # input arguments
 # 1 > dataset file name (in matlab format)
-# 2 > type of execution: 0:training, 1: eval testing only, 2: eval training and testing, 3: layer's output
+# 2 > type of execution: 0:training & testing, 1: eval testing only, 2: eval training and testing, 3: layer's output
 # 3 > 1: output layer of train/testing data is stored in train_output.npy/testing_output.npy, 0 = no
-# Example: Python3 main.py eyenose.mat 0 # for training and testing
-# Example: Python3 main.py eyenose.mat 1 # for testing only (after training)
+# Example: python3 main.py eyenose.mat 0 # for training and testing
+# Example: python3 main.py eyenose.mat 1 # for testing only (after training)
 
 
 # definition of the CNN architecture:
@@ -25,20 +25,20 @@ from   cnn_utils     import evaluateLayer, plotCurves, computeConfussionMatrix, 
 # each fully connected layer as f[j] nodes, j = 0...m-1
 p             = [7, 5, 3, 3]   # Conv2D mask size
 d             = [2, 4, 6, 8]   # Conv2D channels
-f             = [10]           # fully connected
+f             = [10, 4]           # fully connected
 
 
 # parameters
-model_file    = 1  # 1 best trained model, 0 last trained model
+model_file    = 1   # 1 store the best trained model, 0 store the last trained model
 epochs        = 100 # maximal number of epochs in training stage
 
 
-type_exec    = int(sys.argv[2]) # 0:training, 1: eval testing only, 2: eval training and testing, 3: layer's output
+type_exec    = int(sys.argv[2]) # 0:training & testing, 1: eval testing only, 2: eval training and testing, 3: layer's output
 
 
 if     type_exec == 0: # training
-    print('Execution Type 0: Training...')
-    do_train      = 1  # number of epochs, 0 means no train, only evaluation
+    print('Execution Type 0: Training and testing...')
+    do_train      = 1  # 0 means no train, only evaluation,1 means train 
     only_test     = 0  # 1 loads only test data (eg. for sliding windows)
     ev_train      = 1  # accuracy on train data is computed
     ev_test       = 1  # accuracy on test data is computed
@@ -50,7 +50,7 @@ if     type_exec == 0: # training
 
 elif   type_exec == 1: # eval on testing only
     print('Execution Type 1: Evaluation on testing set only...')
-    do_train      = 0  # number of epochs, 0 means no train, only evaluation
+    do_train      = 0  # 0 means no train, only evaluation,1 means train
     only_test     = 0  # 1 loads only test data (eg. for sliding windows)
     ev_train      = 0  # accuracy on train data is computed
     ev_test       = 1  # accuracy on test data is computed
@@ -62,7 +62,7 @@ elif   type_exec == 1: # eval on testing only
 
 elif   type_exec == 2: # eval on training and testing
     print('Execution Type 2: Evaluation on training and testing set...')
-    do_train      = 0  # number of epochs, 0 means no train, only evaluation
+    do_train      = 0  # 0 means no train, only evaluation,1 means train
     only_test     = 0  # 1 loads only test data (eg. for sliding windows)
     ev_train      = 1  # accuracy on train data is computed
     ev_test       = 1  # accuracy on test data is computed
@@ -132,10 +132,10 @@ if do_train == 1 and only_test == 0:
         plotCurves(history)
 
 # load trained model
-if model_file == 1:
+if model_file == 1: # best model
     print('loading best model from '+best_model+' ...')
     model.load_weights(best_model)
-else:
+else:               # last model
     print('loading last model from ' +last_model+' ...')
     model.load_weights(last_model)
 
