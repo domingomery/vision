@@ -94,7 +94,7 @@
 * 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 
 ### Clase 11 Lu. 09-Sep-2019:
-* 2.5-Presentaciones Proyecto 1 [[]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/-/)
+* 2.5-Presentaciones Proyecto 1
 
 ### Clase 12 Mi. 11-Sep-2019:
 * 3.1-Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
@@ -183,4 +183,4 @@
 ---
 
 
-Updated on 10-Sep-2019 at 11:12 by Domingo Mery
+Updated on 10-Sep-2019 at 11:15 by Domingo Mery
