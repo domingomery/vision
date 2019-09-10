@@ -39,6 +39,7 @@
 * Ejemplo keypoints usand DoG [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT_DoG_Keypoints.m)
 * Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
 * Video de  ejemplo [[Video]](https://www.youtube.com/watch?v=qYaU1GeEiR8)
+* Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
 * Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 ### 2.4 Geometria de multiples vistas:
 * Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
@@ -57,8 +58,8 @@
 * Creating Full View Panoramic Image Mosaics [[Paper]](http://faculty.cs.tamu.edu/jchai/CPSC641/szeliskiShum97.pdf)
 * Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
 * Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
-* Presentaciones Proyecto 1 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Proyecto.pdf)
+* Presentaciones Proyecto 1 
 ---
 
 
-Updated on 04-Sep-2019 at 11:06 by Domingo Mery
+Updated on 10-Sep-2019 at 11:09 by Domingo Mery
