@@ -18,7 +18,7 @@ Al igual que el ejemplo anterior, este ejemplo tiene dos clases. Las imagenes or
 * [catdog128x128x3.mat](https://www.dropbox.com/s/iapgvgjymcb1tgz/catdog128x128x3.mat?dl=0)): patches de 128x128x3 en colores RGB
 (los archivos .mat fueron generados con este [codigo](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/buildDataset_catdog.m))
 
-Para entrenar un modelo se sugiere usar el programa [main.py](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/main_new.py). Este programa es igual que el anterior pero acepta imagenes a color (ver definicion de la variable input_shape en la linea 119).
+Para entrenar un modelo se sugiere usar el programa [main_new.py](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/main_new.py). Este programa es igual que el anterior pero acepta imagenes a color (ver definicion de la variable input_shape en la linea 119).
 
 
 
