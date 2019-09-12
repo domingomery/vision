@@ -11,13 +11,14 @@ Para entrenar un modelo se sugiere usar el programa [main.py](https://github.com
 
 
 ## Ejemplo 2: CatDog (reconocimiento de gatos vs. perros)
-Este ejemplo tiene dos clase. Las imagenes originales de training y testing en formato jpg se pueden descargar [aqui](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0). Ademas se pueden utilizar las siguientes versiones de la base de datos en las que se encuentran definidas las variables X_train, X_tes, Y_train y Y_test:
+Al igual que el ejemplo anterior, este ejemplo tiene dos clases. Las imagenes originales de training y testing en formato jpg se pueden descargar [aqui](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0). Ademas se pueden utilizar las siguientes versiones de la base de datos en las que se encuentran definidas las variables X_train, X_tes, Y_train y Y_test:
 * [catdog32x32x1.mat](https://www.dropbox.com/s/kirxbkv3tafcm07/catdog32x32x1.mat?dl=0): patches de 32x32 en escala de grises
 * [catdog64x64x1.mat](https://www.dropbox.com/s/zb26q65n2k6ixnb/catdog64x64x1.mat?dl=0)): patches de 64x64 en escala de grises
 * [catdog64x64x3.mat](https://www.dropbox.com/s/eiu5z1vswxr13er/catdog64x64x3.mat?dl=0)): patches de 64x64x3 en colores RGB
 * [catdog128x128x3.mat](https://www.dropbox.com/s/iapgvgjymcb1tgz/catdog128x128x3.mat?dl=0)): patches de 128x128x3 en colores RGB
+(los archivos .mat fueron generados con este [codigo](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/buildDataset_catdog.m))
 
-
+Para entrenar un modelo se sugiere usar el programa [main.py](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/main_new.py). Este programa es igual que el anterior pero acepta imagenes a color (ver definicion de la variable input_shape en la linea 119).
 
 
 
