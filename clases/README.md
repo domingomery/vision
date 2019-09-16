@@ -101,12 +101,13 @@
 * 3.1-Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
 
 ### Clase 13 Lu. 16-Sep-2019:
-* 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
-* 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * 3.1-Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * 3.1-ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
+* 3.1-Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
 
 ### Clase 14 Lu. 23-Sep-2019:
+* 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+* 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * 3.1-Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
 
 ### Clase 15 Mi. 25-Sep-2019:
@@ -183,4 +184,4 @@
 ---
 
 
-Updated on 10-Sep-2019 at 11:15 by Domingo Mery
+Updated on 16-Sep-2019 at 14:07 by Domingo Mery

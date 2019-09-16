@@ -8,10 +8,11 @@
 * Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 * Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
-* Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
-* Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
+* Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
+* Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
+* Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
 * Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
 * Building Face Recognition using FaceNet [[Blog]](https://www.datasciencecentral.com/profiles/blogs/building-face-recognition-using-facenet)
@@ -37,4 +38,4 @@
 ---
 
 
-Updated on 10-Sep-2019 at 11:15 by Domingo Mery
+Updated on 16-Sep-2019 at 14:07 by Domingo Mery
