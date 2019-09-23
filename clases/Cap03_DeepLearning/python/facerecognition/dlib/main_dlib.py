@@ -24,7 +24,7 @@
 # with a threshold = 0.95 the recognition is possible
 
 import numpy as np
-import face_recognition
+import face_recognition # install with pip install face_recognition
 
 from utils import dirfiles, num2fixstr, imread
 
