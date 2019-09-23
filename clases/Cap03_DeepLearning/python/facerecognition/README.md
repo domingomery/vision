@@ -13,7 +13,7 @@ Para cada una de estas fotos se debe sacar un descriptor usando tres metodos dis
 
 
 ## Ejemplo 1: Libreria dlib (nivel principiante)
-Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda instalar [dlib](https://pypi.org/project/dlib/). Como referencia para realizar reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda usar la libreria dlib, cuya instalacion es muy simple.  Ver [dlib](https://pypi.org/project/dlib/). Como referencia para utilizar dlib en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
 
 `              mb_01     mb_02     sp_01     sp_02     xx_01`
 
