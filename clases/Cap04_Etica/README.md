@@ -24,6 +24,9 @@
 * La tecnologa de reconocimiento facial de Amazon puede ser racista? [[Nota Periodistica]](https://www.nytimes.com/es/2018/07/27/amazon-rekogniton-aclu)
 * How to Thwart Facial Recognition [[Nota Periodistica]](https://www.nytimes.com/2019/07/30/magazine/how-to-thwart-facial-recognition.html)
 * Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
+* Live facial recognition surveillance 'must stop' - BBC News [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/technology-49726101)
+* Peoples Councils for Ethical Machine Learning [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/2056305118768303)
+* Declarado improcedente el cese de un camarero que fue grabado robando [[Nota Periodistica]](https://cincodias.elpais.com/cincodias/2019/09/17/legal/1568727912_844758.amp.html)
 * Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
 * Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
 * A new clothing line confuses automated license plate readers [[Nota Periodistica]](https://www.technologyreview.com/f/614175/a-new-clothing-line-confuses-automated-license-plate-readers/)
@@ -39,4 +42,4 @@
 ---
 
 
-Updated on 16-Sep-2019 at 14:07 by Domingo Mery
+Updated on 23-Sep-2019 at 11:20 by Domingo Mery

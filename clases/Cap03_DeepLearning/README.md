@@ -11,6 +11,7 @@
 * Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
 * Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
+* Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
 * Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
@@ -21,6 +22,7 @@
 * Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
 * Pose estimation [[Code]](https://github.com/natanielruiz/deep-head-pose)
+* Pose estimation [[Code]](https://github.com/haofanwang/mxnet-Head-Pose)
 * Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 * Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFacialAttributes.pptx)
 ### 3.2 Deteccion de objetos (object detection):
@@ -38,4 +40,4 @@
 ---
 
 
-Updated on 16-Sep-2019 at 14:07 by Domingo Mery
+Updated on 23-Sep-2019 at 11:20 by Domingo Mery

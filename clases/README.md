@@ -106,11 +106,12 @@
 * 3.1-Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
 
 ### Clase 14 Lu. 23-Sep-2019:
+* 3.1-Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
+
+### Clase 15 Mi. 25-Sep-2019:
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * 3.1-Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
-
-### Clase 15 Mi. 25-Sep-2019:
 * 3.1-Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
 * 3.1-Building Face Recognition using FaceNet [[Blog]](https://www.datasciencecentral.com/profiles/blogs/building-face-recognition-using-facenet)
 * 3.1-Reconocimiento de expresiones faciales [[Code]](https://pypi.org/project/py-agender/)
@@ -118,6 +119,7 @@
 * 3.1-Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * 3.1-Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
 * 3.1-Pose estimation [[Code]](https://github.com/natanielruiz/deep-head-pose)
+* 3.1-Pose estimation [[Code]](https://github.com/haofanwang/mxnet-Head-Pose)
 * 3.1-Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 
 ### Clase 16 Lu. 30-Sep-2019:
@@ -170,6 +172,9 @@
 * 4.2-La tecnologa de reconocimiento facial de Amazon puede ser racista? [[Nota Periodistica]](https://www.nytimes.com/es/2018/07/27/amazon-rekogniton-aclu)
 * 4.2-How to Thwart Facial Recognition [[Nota Periodistica]](https://www.nytimes.com/2019/07/30/magazine/how-to-thwart-facial-recognition.html)
 * 4.2-Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
+* 4.2-Live facial recognition surveillance 'must stop' - BBC News [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/technology-49726101)
+* 4.2-Peoples Councils for Ethical Machine Learning [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/2056305118768303)
+* 4.2-Declarado improcedente el cese de un camarero que fue grabado robando [[Nota Periodistica]](https://cincodias.elpais.com/cincodias/2019/09/17/legal/1568727912_844758.amp.html)
 * 4.2-Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
 * 4.2-Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
 * 4.2-A new clothing line confuses automated license plate readers [[Nota Periodistica]](https://www.technologyreview.com/f/614175/a-new-clothing-line-confuses-automated-license-plate-readers/)
@@ -184,4 +189,4 @@
 ---
 
 
-Updated on 16-Sep-2019 at 14:07 by Domingo Mery
+Updated on 23-Sep-2019 at 11:20 by Domingo Mery
