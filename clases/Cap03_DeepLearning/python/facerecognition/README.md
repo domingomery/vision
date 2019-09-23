@@ -3,11 +3,11 @@
 Para estos ejemplos contamos con 5 images de caras: 2 fotos de M. Bachelet, 2 fotos de S. Pinera y 1 foto de otra persona.
 
 
-![mb_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/mb_01.jpg)
-![mb_02](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/mb_02.jpg)
-![sp_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/sp_01.jpg)
-![sp_02](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/sp_02.jpg)
-![xx_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/xx_01.jpg)
+![mb_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/mb_01.jpg "mb_01.jpg" {width=85px height=85px})
+![mb_02](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/mb_02.jpg "mb_02.jpg" {width=85px height=85px})
+![sp_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/sp_01.jpg "sp_01.jpg" {width=85px height=85px})
+![sp_02](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/sp_02.jpg "sp_02.jpg" {width=85px height=85px})
+![xx_01](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/faces/xx_01.jpg "xx_01.jpg" {width=85px height=85px})
 
 
 ## Ejemplo 1: Libreria dlib (nivel principiante)
