@@ -15,7 +15,7 @@ Para cada una de estas fotos se debe sacar un descriptor usando tres metodos dis
 ## Ejemplo 1: Libreria dlib (nivel principiante)
 Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda usar la libreria dlib, cuya instalacion es muy simple.  Ver instlacion de dlib [aqui](https://pypi.org/project/dlib/). Como referencia para utilizar dlib en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
 
-`    ..........mb_01     mb_02     sp_01     sp_02     xx_01`
+`    ...... mb_01     mb_02     sp_01     sp_02     xx_01`
 
 `    mb_01     1.0000    0.9755    0.8425    0.8601    0.8850`
 
@@ -31,19 +31,41 @@ Se observa que con un umbral de 0.95 se puede obtener un buen reconocimiento de 
 
 
 ## Ejemplo 2: Libreria facenet (nivel intermedio)
-Este ejemplo tiene dos clases. Las imagenes estan en un archivo matlab [eyenose.mat](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/eyenose.mat). En este archivo hay cuatro variables:
-* X_train : arreglo de 8320 x 1 x 32 x 32 > 8320 patches de 32 x 32 pixeles (en escala de grises)
-* X_test  : arreglo de 2080 x 1 x 32 x 32 > 2080 patches de 32 x 32 pixeles (en escala de grises)
-* Y_train : arreglo de 8320 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
+Para aquellas personas que tienen algo de experiencia en reconocimiento de caras se recomienda usar la libreria facenet.  Ver instlacion de dlib [aqui](https://github.com/nyoki-mtl/keras-facenet). Como referencia para utilizar facenet en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/facenet/). Este codigo genera un archivo npy de 5 x 512 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+
+`    ...... mb_01     mb_02     sp_01     sp_02     xx_01`
+
+`    mb_01     1.0000    0.8588    0.0518    0.0445   -0.0159`
+
+`    mb_02     0.8588    1.0000    0.0466    0.1081    0.1102`
+
+`    sp_01     0.0518    0.0466    1.0000    0.8306   -0.0410`
+
+`    sp_02     0.0445    0.1081    0.8306    1.0000   -0.0221`
+
+`    xx_01    -0.0159    0.1102   -0.0410   -0.0221    1.0000`
+
+Se observa que con un umbral de 0.8 se puede obtener un buen reconocimiento de caras.
 
 ## Ejemplo 3: Libreria arcface (nivel avanzado)
-Este ejemplo tiene dos clases. Las imagenes estan en un archivo matlab [eyenose.mat](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/eyenose.mat). En este archivo hay cuatro variables:
-* X_train : arreglo de 8320 x 1 x 32 x 32 > 8320 patches de 32 x 32 pixeles (en escala de grises)
-* X_test  : arreglo de 2080 x 1 x 32 x 32 > 2080 patches de 32 x 32 pixeles (en escala de grises)
-* Y_train : arreglo de 8320 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
+Para aquellas personas que tienen experiencia en reconocimiento de caras se recomienda usar la libreria arcface.  Existen muchas versiones, algunas requieren GPU. Para una implementacion sin GPU se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/arcface/). Antes de correr el codigo se debe bajar el archiovo resnet100.onnx (ver instrucciones en el archivo de texto en la carpeta). Este codigo genera un archivo npy de 5 x 192 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+
+`    ...... mb_01     mb_02     sp_01     sp_02     xx_01`
+
+`    mb_01     1.0000    0.7335    0.0751    0.0699    0.0493`
+
+`    mb_02     0.7335    1.0000    0.0448    0.0749    0.0389`
+
+`    sp_01     0.0751    0.0448    1.0000    0.7201   -0.0067`
+
+`    sp_02     0.0699    0.0749    0.7201    1.0000    0.0772`
+
+`    xx_01     0.0493    0.0389   -0.0067    0.0772    1.0000`
+
+Se observa que con un umbral de 0.7 se puede obtener un buen reconocimiento de caras.
 
 
 ---
 
 
-Updated on 12-Sep-2019 at 9:30 by Domingo Mery
+Updated on 23-Sep-2019 at 11:20 by Domingo Mery
