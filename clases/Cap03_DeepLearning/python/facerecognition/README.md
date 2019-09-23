@@ -13,7 +13,7 @@ Para cada una de estas fotos se debe sacar un descriptor usando tres metodos dis
 
 
 ## Ejemplo 1: Libreria dlib (nivel principiante)
-Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda usar la libreria dlib, cuya instalacion es muy simple.  Par ala instalacion usar pip install face_recognition. Como referencia para utilizar dlib en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda usar la libreria dlib, cuya instalacion es muy simple.  Par ala instalacion usar pip install face_recognition   . Como referencia para utilizar dlib en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
 
 `    ...... mb_01     mb_02     sp_01     sp_02     xx_01`
 
@@ -28,6 +28,10 @@ Para aquellas personas que nunca han trabajado en reconocimiento de caras se rec
 `    xx_01     0.8850    0.8750    0.8474    0.8617    1.0000`
 
 Se observa que con un umbral de 0.95 se puede obtener un buen reconocimiento de caras.
+
+Para windows si presenta error con CMake
+
+`pip install https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl#md5=b7330a5b2d46420343fbed5df69e6a3f`
 
 
 ## Ejemplo 2: Libreria facenet (nivel intermedio)
