@@ -35,7 +35,7 @@ Para windows si presenta error con CMake
 
 
 ## Ejemplo 2: Libreria facenet (nivel intermedio)
-Para aquellas personas que tienen algo de experiencia en reconocimiento de caras se recomienda usar la libreria facenet.  Ver instlacion de facenet [aqui](https://github.com/nyoki-mtl/keras-facenet). Como referencia para utilizar facenet en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/facenet/). Este codigo genera un archivo npy de 5 x 512 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+Para aquellas personas que tienen algo de experiencia en reconocimiento de caras se recomienda usar la libreria facenet.  Para esto solo se necesita tener instalado Keras. Como referencia para utilizar facenet en reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/facenet/). Este codigo genera un archivo npy de 5 x 512 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
 
 `    ...... mb_01     mb_02     sp_01     sp_02     xx_01`
 
