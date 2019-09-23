@@ -18,6 +18,17 @@ Este ejemplo tiene dos clases. Las imagenes estan en un archivo matlab [eyenose.
 * X_test  : arreglo de 2080 x 1 x 32 x 32 > 2080 patches de 32 x 32 pixeles (en escala de grises)
 * Y_train : arreglo de 8320 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
 * Y_train : arreglo de 2080 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
+`              mb_01     mb_02     sp_01     sp_02     xx_01`
+
+`    mb_01     1.0000    0.9755    0.8425    0.8601    0.8850`
+
+`    mb_02     0.9755    1.0000    0.8311    0.8661    0.8750`
+
+`    sp_01     0.8425    0.8311    1.0000    0.9534    0.8474`
+
+`    sp_02     0.8601    0.8661    0.9534    1.0000    0.8617`
+
+`    xx_01     0.8850    0.8750    0.8474    0.8617    1.0000`
 
 
 ## Ejemplo 2: Libreria facenet (nivel intermedio)
