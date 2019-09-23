@@ -13,11 +13,8 @@ Para cada una de estas fotos se debe sacar un descriptor usando tres metodos dis
 
 
 ## Ejemplo 1: Libreria dlib (nivel principiante)
-Este ejemplo tiene dos clases. Las imagenes estan en un archivo matlab [eyenose.mat](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose/eyenose.mat). En este archivo hay cuatro variables:
-* X_train : arreglo de 8320 x 1 x 32 x 32 > 8320 patches de 32 x 32 pixeles (en escala de grises)
-* X_test  : arreglo de 2080 x 1 x 32 x 32 > 2080 patches de 32 x 32 pixeles (en escala de grises)
-* Y_train : arreglo de 8320 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
-* Y_train : arreglo de 2080 x 1 > clase de cada una de las muestras de training (0: ojo, 1: nariz)
+Para aquellas personas que nunca han trabajado en reconocimiento de caras se recomienda instalar [dlib](https://pypi.org/project/dlib/). Como referencia para realizar reconocimiento de caras se recomienda usar el codigo disponible en esta [carpeta](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition/dlib/). Este codigo genera un archivo npy de 5 x 128 con los descriptores originales (no normalizados). Es necesario normalizar y obtener una matriz X cuyas filas tengan norma uno. El resultado de la multiplicacion de X por su transpuesta debe dar esto: 
+
 `              mb_01     mb_02     sp_01     sp_02     xx_01`
 
 `    mb_01     1.0000    0.9755    0.8425    0.8601    0.8850`
@@ -29,6 +26,8 @@ Este ejemplo tiene dos clases. Las imagenes estan en un archivo matlab [eyenose.
 `    sp_02     0.8601    0.8661    0.9534    1.0000    0.8617`
 
 `    xx_01     0.8850    0.8750    0.8474    0.8617    1.0000`
+
+Se observa que con un umbral de 0.95 se puede obtener un buen reconocimiento de caras.
 
 
 ## Ejemplo 2: Libreria facenet (nivel intermedio)
