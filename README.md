@@ -109,6 +109,8 @@
 * 3.1-Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
 
 ### Clase 15 Mi. 25-Sep-2019:
+* 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
+* 3.1-Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * 3.1-Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
@@ -189,4 +191,4 @@
 ---
 
 
-Updated on 23-Sep-2019 at 11:20 by Domingo Mery
+Updated on 25-Sep-2019 at 11:19 by Domingo Mery

@@ -12,6 +12,8 @@
 * ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
 * Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
 * Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
+* Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
+* Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
 * Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
@@ -40,4 +42,4 @@
 ---
 
 
-Updated on 23-Sep-2019 at 11:20 by Domingo Mery
+Updated on 25-Sep-2019 at 11:19 by Domingo Mery
