@@ -13,13 +13,12 @@
 * Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
 * Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
 * Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
-* Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
-* Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
 * Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
 * Building Face Recognition using FaceNet [[Blog]](https://www.datasciencecentral.com/profiles/blogs/building-face-recognition-using-facenet)
 * Reconocimiento de expresiones faciales [[Code]](https://pypi.org/project/py-agender/)
+* Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
@@ -42,4 +41,4 @@
 ---
 
 
-Updated on 25-Sep-2019 at 11:19 by Domingo Mery
+Updated on 25-Sep-2019 at 11:21 by Domingo Mery

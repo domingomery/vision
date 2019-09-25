@@ -110,13 +110,12 @@
 
 ### Clase 15 Mi. 25-Sep-2019:
 * 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
-* 3.1-Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
-* 3.1-Ejercicio de deteccion y reconocimiento de caras [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFaceRecognition.pptx)
 * 3.1-Facial Analysis [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8479325)
 * 3.1-Building Face Recognition using FaceNet [[Blog]](https://www.datasciencecentral.com/profiles/blogs/building-face-recognition-using-facenet)
 * 3.1-Reconocimiento de expresiones faciales [[Code]](https://pypi.org/project/py-agender/)
+* 3.1-Deep Facial Expression Recognition: A Survey [[Paper]](https://arxiv.org/abs/1804.08348)
 * 3.1-Estimacion de edad a partir de imagen facial [[Code]](https://pypi.org/project/py-agender/)
 * 3.1-Extraccion de landmarks faciales [[Code]](http://dlib.net/face_landmark_detection.py.html)
 * 3.1-Face clustering [[Paper]](https://arxiv.org/pdf/1706.05067.pdf)
@@ -191,4 +190,4 @@
 ---
 
 
-Updated on 25-Sep-2019 at 11:19 by Domingo Mery
+Updated on 25-Sep-2019 at 11:21 by Domingo Mery
