@@ -14,12 +14,13 @@
 # In order to use cosine similarity, each row must normalized to uni-norm
 # the normalized features (norm = 1 for each row) must be stored in matrix X
 # Thus, X * X' = 
-#    1.0000    0.8588    0.0518    0.0445   -0.0159
-#    0.8588    1.0000    0.0466    0.1081    0.1102
-#    0.0518    0.0466    1.0000    0.8306   -0.0410
-#    0.0445    0.1081    0.8306    1.0000   -0.0221
-#   -0.0159    0.1102   -0.0410   -0.0221    1.0000#
-# with a threshold = 0.8 the recognition is possible
+#              mb_01     mb_02     sp_01     sp_02     xx_01
+#    mb_01     1.0000    0.7335    0.0751    0.0699    0.0493
+#    mb_02     0.7335    1.0000    0.0448    0.0749    0.0389
+#    sp_01     0.0751    0.0448    1.0000    0.7201   -0.0067
+#    sp_02     0.0699    0.0749    0.7201    1.0000    0.0772
+#    xx_01     0.0493    0.0389   -0.0067    0.0772    1.0000
+# with a threshold = 0.7 the recognition is possible
 
 
 from __future__ import absolute_import
