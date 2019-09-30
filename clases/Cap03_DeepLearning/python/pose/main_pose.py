@@ -26,33 +26,6 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import savefig
 
-def parse_args():
-    """Parse input arguments."""
-    parser = argparse.ArgumentParser(description='Predicting.')
-    parser.add_argument('--mode', dest='mode', help='Input mode',
-                        default=1, type=int)
-    parser.add_argument('--image_size', dest='image_size', help='size of image',
-                        default=48, type=int)
-    parser.add_argument('--input', dest='image_path', help='Images path',
-                        default="test_images/", type=str)
-    parser.add_argument('--save', dest='out_path', help='Path to save plot image',
-                        default="test_images/results/", type=str)
-    parser.add_argument('--batch_size', dest='batch_size', help='Batch size',
-                        default=1, type=int)
-    parser.add_argument('--model_json', dest='json', help='Model structure path',
-                        default='model/model_15-symbol.json', type=str)
-    parser.add_argument('--model_params', dest='params', help='Model params path',
-                        default='model/model_15-0000.params', type=str)
-    parser.add_argument('--rec', dest='rec_path', help='Path to rec file',
-                        default="test_48x48.rec", type=str)
-    parser.add_argument('--lst', dest='lst_path', help='Path to idx file',
-                        default="test_48x48.lst", type=str)
-    parser.add_argument('--dev', dest='dev', help='default is cpu,if you need to use gpu,dev should be gpu device number',
-                        default=-1, type=int)
-    args = parser.parse_args()
-    return args
-
-
 def stable_softmax(z):
     z = nd.exp(z - nd.max(z, axis=1, keepdims=True))
     return z / mx.nd.sum(z, axis=1).reshape((batch_size, 1))
