@@ -16,6 +16,10 @@ Algunos ejemplos se muestran a continuacion:
 ## Ejemplo 2: Pose
 Este ejemplo determina la pose una cara. Se puede usar la implementacion en [PyTorch](https://github.com/natanielruiz/deep-head-pose), [MXNet](https://github.com/haofanwang/mxnet-Head-Pose), [Keras](https://github.com/Oreobird/tf-keras-deep-head-pose), o alguna otra que estime convniente. La idea es determinar los vectores de pitch, roll y yaw de una cara.
 
+<img src="https://camo.githubusercontent.com/64cbf308535a9214920117f93d29aa37290d72a7/68747470733a2f2f692e696d6775722e636f6d2f4b376a68484f672e706e67" width="600">
+
+
+
 
 ---
 
