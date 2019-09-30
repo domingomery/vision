@@ -25,7 +25,7 @@
 * Pose estimation [[Code]](https://github.com/natanielruiz/deep-head-pose)
 * Pose estimation [[Code]](https://github.com/haofanwang/mxnet-Head-Pose)
 * Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
-* Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFacialAttributes.pptx)
+* Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 ### 3.2 Deteccion de objetos (object detection):
 * Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
@@ -41,4 +41,4 @@
 ---
 
 
-Updated on 25-Sep-2019 at 11:25 by Domingo Mery
+Updated on 30-Sep-2019 at 11:01 by Domingo Mery

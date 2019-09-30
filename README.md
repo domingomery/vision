@@ -124,7 +124,7 @@
 * 3.1-Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 
 ### Clase 16 Lu. 30-Sep-2019:
-* 3.1-Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV03_EjeFacialAttributes.pptx)
+* 3.1-Ejercicio de reconocimiento de atributos faciales [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 
 ### Clase 17 Mi. 02-Oct-2019:
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
@@ -190,4 +190,4 @@
 ---
 
 
-Updated on 25-Sep-2019 at 11:25 by Domingo Mery
+Updated on 30-Sep-2019 at 11:01 by Domingo Mery
