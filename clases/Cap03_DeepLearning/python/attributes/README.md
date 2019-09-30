@@ -9,6 +9,14 @@ Este ejemplo contiene un [codigo](https://github.com/domingomery/vision/blob/mas
 
 * Genero (mujer/hombre) y edad: Genero y edad se almacenan en el archivo gender_age.npy. El archivo contiene una matriz de n filas y 2 columnas. La fila i contiene dos valores, el primero indica la probabilidad de que la cara i pertenezca a una mujer (es decir la cara es clasificada como femeninan si esta valor es mayor que 0.5, de lo contrario es clasificada como una cara masculina); el segundo valor es la edad en a~nos. 
 
+Algunos ejemplos se muestran a continuacion:
+<img src="https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes/example.png" width="600">
+
+
+## Ejemplo 2: Pose
+Este ejemplo determina la pose una cara. Se puede usar la implementacion en [PyTorch](https://github.com/natanielruiz/deep-head-pose), [MXNet](https://github.com/haofanwang/mxnet-Head-Pose), [Keras](https://github.com/Oreobird/tf-keras-deep-head-pose), o alguna otra que estime convniente. La idea es determinar los vectores de pitch, roll y yaw de una cara.
+
+
 ---
 
 
