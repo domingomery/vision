@@ -153,7 +153,7 @@
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 
-### Clase 22 Ma. 22-Oct-2019:
+### Clase 22 Lu. 21-Oct-2019:
 * 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * 4.2-Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
 * 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
@@ -190,4 +190,4 @@
 ---
 
 
-Updated on 30-Sep-2019 at 11:02 by Domingo Mery
+Updated on 30-Sep-2019 at 11:21 by Domingo Mery
