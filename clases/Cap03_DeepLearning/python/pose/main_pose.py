@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
 
-'''
-Model testing:
-  Predict stablity of model with your own input data. Default mod = 1
-    mod = 0 : input single image to predict
-    mod = 1 : input single image folder to predict, result will be saved under /test_results
-    mod = 2 : test on testing set
-'''
-
 from mxnet import gluon
 from mxnet.gluon import nn
 from mxnet import nd
