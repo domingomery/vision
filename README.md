@@ -127,9 +127,7 @@
 * 3.1-Ejercicio de reconocimiento de atributos faciales [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 
 ### Clase 17 Mi. 02-Oct-2019:
-* 3.2-Detectores [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
-
-### Clase 17 Mi. 02-Oct-2019:
+* 3.2-Detectores (presentacion de Daniel Saavedra) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.2-Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
 
@@ -194,4 +192,4 @@
 ---
 
 
-Updated on 01-Oct-2019 at 12:16 by Domingo Mery
+Updated on 01-Oct-2019 at 12:18 by Domingo Mery
