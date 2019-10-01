@@ -27,6 +27,7 @@
 * Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 * Ejercicio de reconocimiento de atributos faciales [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 ### 3.2 Deteccion de objetos (object detection):
+* Detectores [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
 ### 3.3 GAN:
@@ -41,4 +42,4 @@
 ---
 
 
-Updated on 30-Sep-2019 at 11:21 by Domingo Mery
+Updated on 01-Oct-2019 at 12:16 by Domingo Mery

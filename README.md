@@ -127,13 +127,16 @@
 * 3.1-Ejercicio de reconocimiento de atributos faciales [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 
 ### Clase 17 Mi. 02-Oct-2019:
+* 3.2-Detectores [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
+
+### Clase 17 Mi. 02-Oct-2019:
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.2-Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
+
+### Clase 18 Lu. 07-Oct-2019:
 * 3.3-GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * 3.3-How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
 * 3.4-Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
-
-### Clase 18 Lu. 07-Oct-2019:
 * 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 19 Mi. 09-Oct-2019:
@@ -152,6 +155,7 @@
 * 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
+* 4.2-Why a Right to Explanation of Automated Decision-Making [[Paper]](https://academic.oup.com/idpl/article-pdf/doi/10.1093/idpl/ipx005/17932196/ipx005.pdf)
 
 ### Clase 22 Lu. 21-Oct-2019:
 * 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
@@ -190,4 +194,4 @@
 ---
 
 
-Updated on 30-Sep-2019 at 11:21 by Domingo Mery
+Updated on 01-Oct-2019 at 12:16 by Domingo Mery
