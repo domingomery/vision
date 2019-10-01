@@ -130,18 +130,18 @@
 * 3.2-Detectores (presentacion de Daniel Saavedra) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.2-Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
+* 3.3-[opcional] GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
+* 3.3-[opcional] How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
+* 3.4-[opcional] Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 ### Clase 18 Lu. 07-Oct-2019:
-* 3.3-GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
-* 3.3-How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
-* 3.4-Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 * 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 19 Mi. 09-Oct-2019:
 * 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 20 Lu. 14-Oct-2019:
-* 3.5-Presentaciones Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_Proyecto.pdf)
+* 4.1-Presentacion de Alejandro Barros [[Web]](https://www.alejandrobarros.com)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
@@ -192,4 +192,4 @@
 ---
 
 
-Updated on 01-Oct-2019 at 12:19 by Domingo Mery
+Updated on 01-Oct-2019 at 12:24 by Domingo Mery
