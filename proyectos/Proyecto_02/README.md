@@ -6,7 +6,7 @@ El objetivo de esta tarea es realizar una aplicacion basada en analisis facial e
 Mery, D. [Face Analysis: State of the Art and Ethical Challenges](http://dmery.sitios.ing.uc.cl/Prints/Conferences/International/2019-PSIVT.pdf). Vision-Tech Workshop at PSIVT2019.
 
 Algunos ejemplos se muestran a continuacion:
-<img src="https://github.com/domingomery/vision/blob/master/proyectos/Proyecto_02/diagrama.png" width="600">
+<img src="https://github.com/domingomery/vision/blob/master/proyectos/Proyecto_02/Diagrama.png" width="600">
 
 
 
