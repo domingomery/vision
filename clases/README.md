@@ -136,10 +136,10 @@
 * 3.4-[opcional] Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 ### Clase 18 Lu. 07-Oct-2019:
-* 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
+* 3.5-Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 19 Mi. 09-Oct-2019:
-* 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
+* 3.5-Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 20 Lu. 14-Oct-2019:
 * 4.1-Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
@@ -201,4 +201,4 @@
 ---
 
 
-Updated on 07-Oct-2019 at 11:00 by Domingo Mery
+Updated on 07-Oct-2019 at 11:23 by Domingo Mery

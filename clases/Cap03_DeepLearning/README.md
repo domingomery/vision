@@ -37,10 +37,10 @@
 ### 3.4 Registro (image registration):
 * [opcional] Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 ### 3.5 Proyecto:
-* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
-* Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
+* Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
+* Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 * Presentaciones Proyecto 2 
 ---
 
 
-Updated on 07-Oct-2019 at 11:00 by Domingo Mery
+Updated on 07-Oct-2019 at 11:23 by Domingo Mery
