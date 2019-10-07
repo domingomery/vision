@@ -1,13 +1,17 @@
 
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
-* Presentacion de Alejandro Barros [[Web]](https://www.alejandrobarros.com)
+* Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+* We cant trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
+* Its not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
 * The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
+* Opinion The Economist [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
+* How machine learning in policing could fuel racial discrimination [[Nota Periodistica]](https://thenextweb.com/syndication/2019/09/21/how-machine-learning-in-policing-could-fuel-racial-discrimination/?yptr=yahoo)
 ### 4.2 Estudios de caso:
 * Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
@@ -16,6 +20,9 @@
 * Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
 * Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
+* Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
+* El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf)
+* La biometra en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
 * U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 * How to Make A.I. Thats Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
@@ -44,4 +51,4 @@
 ---
 
 
-Updated on 01-Oct-2019 at 12:24 by Domingo Mery
+Updated on 07-Oct-2019 at 11:00 by Domingo Mery

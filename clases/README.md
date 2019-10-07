@@ -129,6 +129,7 @@
 ### Clase 17 Mi. 02-Oct-2019:
 * 3.2-Detectores (presentacion de Daniel Saavedra) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
+* 3.2-Omni-benchmarking object detection [[Blog]](https://towardsdatascience.com/omni-benchmarking-object-detection-b390cc4114cd)
 * 3.2-Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
 * 3.3-[opcional] GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
 * 3.3-[opcional] How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
@@ -141,31 +142,39 @@
 * 3.5-Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 
 ### Clase 20 Lu. 14-Oct-2019:
-* 4.1-Presentacion de Alejandro Barros [[Web]](https://www.alejandrobarros.com)
+* 4.1-Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+* 4.1-We cant trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
+* 4.1-Its not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
 * 4.1-The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
+* 4.1-Opinion The Economist [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * 4.1-A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
+* 4.1-How machine learning in policing could fuel racial discrimination [[Nota Periodistica]](https://thenextweb.com/syndication/2019/09/21/how-machine-learning-in-policing-could-fuel-racial-discrimination/?yptr=yahoo)
 * 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 * 4.2-Why a Right to Explanation of Automated Decision-Making [[Paper]](https://academic.oup.com/idpl/article-pdf/doi/10.1093/idpl/ipx005/17932196/ipx005.pdf)
-
-### Clase 22 Lu. 21-Oct-2019:
 * 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * 4.2-Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
 * 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
 
+### Clase 22 Lu. 21-Oct-2019:
+* 3.5-Presentaciones Proyecto 2
+
 ### Clase 23 Mi. 23-Oct-2019:
+* 4.2-Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
+* 4.2-El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf)
+* 4.2-La biometra en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
+
+### Clase 24 Lu. 28-Oct-2019:
 * 4.2-U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 * 4.2-How to Make A.I. Thats Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
-
-### Clase 24 Lu. 28-Oct-2019:
 * 4.2-Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
 
 ### Clase 25 Mi. 30-Oct-2019:
@@ -192,4 +201,4 @@
 ---
 
 
-Updated on 01-Oct-2019 at 12:24 by Domingo Mery
+Updated on 07-Oct-2019 at 11:00 by Domingo Mery

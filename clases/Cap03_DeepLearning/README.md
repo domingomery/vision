@@ -29,6 +29,7 @@
 ### 3.2 Deteccion de objetos (object detection):
 * Detectores (presentacion de Daniel Saavedra) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
+* Omni-benchmarking object detection [[Blog]](https://towardsdatascience.com/omni-benchmarking-object-detection-b390cc4114cd)
 * Real-Time Object Detection using SlimYOLOv3 [[Blog]](https://www.analyticsvidhya.com/blog/2019/08/introduction-slimyolov3-real-time-object-detection/)
 ### 3.3 GAN:
 * [opcional] GAN [[Video]](https://www.youtube.com/watch?v=sgHdUYHGvtA)
@@ -38,7 +39,8 @@
 ### 3.5 Proyecto:
 * Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
 * Desarrollo de Proyecto 2 [[Pending]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/practice/CV02_DesarrolloProyecto.pdf)
+* Presentaciones Proyecto 2 
 ---
 
 
-Updated on 01-Oct-2019 at 12:24 by Domingo Mery
+Updated on 07-Oct-2019 at 11:00 by Domingo Mery
