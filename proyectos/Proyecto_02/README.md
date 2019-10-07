@@ -5,6 +5,11 @@ El objetivo de esta tarea es realizar una aplicacion basada en analisis facial e
 
 Mery, D. [Face Analysis: State of the Art and Ethical Challenges](http://dmery.sitios.ing.uc.cl/Prints/Conferences/International/2019-PSIVT.pdf). Vision-Tech Workshop at PSIVT2019.
 
+Algunos ejemplos se muestran a continuacion:
+<img src="https://github.com/domingomery/vision/blob/master/proyectos/Proyecto_02/diagrama.png" width="600">
+
+
+
 ## Adquisicion de Imagenes
 Las imagenes pueden ser adquiridas de una base de datos publica o privada. Si es privada se debera poder mostrar en la presentacion algunas de las fotos (no es necesario hacer las fotos publicas). Las bases de datos mostradas en el paper mencionado pueden ser solicitadas al profesor del curso.
 
