@@ -21,10 +21,10 @@ Se debe conformar un grupo de 4 integrantes, debe al menos uno/a que haya hecho 
 
 ## Fechas de Desarrollo en Clase
 - Lu. 07/Oct
-- Lu. 09/Oct
+- Mi. 09/Oct
 
 ## Presentacion
-- Mi. 22/Oct a las 11:30 en la sala K302 
+- Lu. 21/Oct a las 11:30 en la sala K302 
 
 ## Informe (20%)
 En el informe se evalua calidad del informe, explicaciones, redaccion, ortografia. El informe debe ser un PDF de una sola pagina (una cara en Times New Roman, Espacio Simple, Tamano Carta, Tamano de Letra 10,11 o 12), con margenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdotico, sin faltas de ortografia y sin problemas de redaccion. El informe debe contener: 1) Motivacion: explicar la relevancia de la tarea. 2) Solucion propuesta: explicar cada uno de los pasos y haciendo referencia al codigo. 3) Experimentos realizados: explicar los experimetos, datos y los resultados obtenidos. 5) Conclusiones: mencionar las conclusiones a las que se llego. Ver [Informe Modelo](https://github.com/domingomery/imagenes/blob/master/tareas/TareaModelo.pdf).
