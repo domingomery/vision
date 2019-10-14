@@ -147,10 +147,12 @@
 * 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
 * 4.1-Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
 * 4.1-Es posible acabar con los sesgos de los algoritmos? (Baeza-Yates, Peiro) [[Paper]](http://www.baeza.cl/bias/sesgos-algoritmos.html)
+* 4.1-Bias on the web (BaezaYaes) [[Paper]](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/fulltext)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
-* 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
+* 4.1-The biggest lie tech people tell themselves [[Nota Periodistica]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics)
+* 4.1-Uso de reconocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.1-We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
@@ -206,4 +208,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 16:51 by Domingo Mery
+Updated on 14-Oct-2019 at 17:16 by Domingo Mery
