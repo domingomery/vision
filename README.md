@@ -144,7 +144,7 @@
 ### Clase 20 Lu. 14-Oct-2019:
 * 4.1-Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * 4.1-La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
-* 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_EntrevistaAnnany.pdf)
+* 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
@@ -204,4 +204,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 10:00 by Domingo Mery
+Updated on 14-Oct-2019 at 10:56 by Domingo Mery

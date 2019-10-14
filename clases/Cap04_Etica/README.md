@@ -3,7 +3,7 @@
 ### 4.1 Motivacion:
 * Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
-* Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_EntrevistaAnnany.pdf)
+* Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
@@ -54,4 +54,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 10:00 by Domingo Mery
+Updated on 14-Oct-2019 at 10:56 by Domingo Mery
