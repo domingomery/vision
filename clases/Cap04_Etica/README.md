@@ -5,6 +5,7 @@
 * La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
 * Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
 * Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
+* Es posible acabar con los sesgos de los algoritmos? (Baeza-Yates, Peiro) [[Paper]](http://www.baeza.cl/bias/sesgos-algoritmos.html)
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
@@ -55,4 +56,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 16:39 by Domingo Mery
+Updated on 14-Oct-2019 at 16:48 by Domingo Mery

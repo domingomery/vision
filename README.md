@@ -146,6 +146,7 @@
 * 4.1-La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
 * 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
 * 4.1-Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
+* 4.1-Es posible acabar con los sesgos de los algoritmos? (Baeza-Yates, Peiro) [[Paper]](http://www.baeza.cl/bias/sesgos-algoritmos.html)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
@@ -205,4 +206,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 16:39 by Domingo Mery
+Updated on 14-Oct-2019 at 16:48 by Domingo Mery
