@@ -142,17 +142,18 @@
 * 3.5-Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 20 Lu. 14-Oct-2019:
-* 4.1-Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
+* 4.1-Expositor: Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * 4.1-La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
 * 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
+* 4.1-Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
 
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
-* 4.1-We cant trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
+* 4.1-We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
-* 4.1-Its not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
+* 4.1-It is not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
 * 4.1-The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
 * 4.1-Opinion The Economist [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * 4.1-A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
@@ -204,4 +205,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 10:56 by Domingo Mery
+Updated on 14-Oct-2019 at 16:39 by Domingo Mery

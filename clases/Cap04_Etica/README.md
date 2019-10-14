@@ -1,15 +1,16 @@
 
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
-* Presentacion de Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
+* Expositor: Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
 * Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
+* Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Uso de recoonocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
-* We cant trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
+* We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
-* Its not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
+* It is not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
 * The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
 * Opinion The Economist [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
@@ -54,4 +55,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 10:56 by Domingo Mery
+Updated on 14-Oct-2019 at 16:39 by Domingo Mery
