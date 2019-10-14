@@ -174,23 +174,23 @@
 ### Clase 23 Mi. 23-Oct-2019:
 * 4.2-Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
 * 4.2-El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf)
-* 4.2-La biometra en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
+* 4.2-La biometria en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
 
 ### Clase 24 Lu. 28-Oct-2019:
 * 4.2-U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
-* 4.2-How to Make A.I. Thats Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
+* 4.2-How to Make A.I. That is Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
 * 4.2-Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
 
 ### Clase 25 Mi. 30-Oct-2019:
 * 4.2-Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
 * 4.2-Cuanto valen tus datos digitales? [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/29/proteccion-datos-facebook-google)
 * 4.2-El reconocimiento facial debe postergarse [[Nota Periodistica]](https://www.nytimes.com/es/2019/05/21/reconocimiento-facial-privacidad)
-* 4.2-La tecnologa de reconocimiento facial de Amazon puede ser racista? [[Nota Periodistica]](https://www.nytimes.com/es/2018/07/27/amazon-rekogniton-aclu)
+* 4.2-La tecnologia de reconocimiento facial de Amazon puede ser racista? [[Nota Periodistica]](https://www.nytimes.com/es/2018/07/27/amazon-rekogniton-aclu)
 * 4.2-How to Thwart Facial Recognition [[Nota Periodistica]](https://www.nytimes.com/2019/07/30/magazine/how-to-thwart-facial-recognition.html)
 * 4.2-Face Recognition Accuracy Relative to Race [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/FaceRecognition_Race.pdf)
 * 4.2-Live facial recognition surveillance 'must stop' - BBC News [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/technology-49726101)
-* 4.2-Peoples Councils for Ethical Machine Learning [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/2056305118768303)
+* 4.2-People Councils for Ethical Machine Learning [[Paper]](https://journals.sagepub.com/doi/pdf/10.1177/2056305118768303)
 * 4.2-Declarado improcedente el cese de un camarero que fue grabado robando [[Nota Periodistica]](https://cincodias.elpais.com/cincodias/2019/09/17/legal/1568727912_844758.amp.html)
 * 4.2-Global Hotel Recognition Dataset [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/GlobalHotelRecognition.pdf)
 * 4.2-Is the United States prepared for the robotic revolution? [[Nota Periodistica]](https://www.machinedesign.com/robotics/world-has-embraced-robots-so-should-us)
@@ -206,4 +206,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 16:48 by Domingo Mery
+Updated on 14-Oct-2019 at 16:51 by Domingo Mery
