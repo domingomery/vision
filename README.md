@@ -154,9 +154,9 @@
 * 4.1-The biggest lie tech people tell themselves [[Nota Periodistica]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics)
 * 4.1-Uso de reconocimiento de caras en China (The Economist) [[Video]](https://youtu.be/lH2gMNrUuEY)
 * 4.1-Uso de reconocimiento de caras en China (BBC) [[Video]](https://youtu.be/pNf4-d6fDoY)
-* 4.1-Whats Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
-* 4.1-Youre in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
-* 4.1-ICE Used Facial Recognition to Mine State Drivers License Databases - The New York Times [[Nota Periodistica]](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html)
+* 4.1-What is Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
+* 4.1-You are in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
+* 4.1-ICE Used Facial Recognition to Mine State Driver License Databases - The New York Times [[Nota Periodistica]](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html)
 * 4.1-Ant-facial recognition tech at the Hong Kong protests was an art project [[Nota Periodistica]](https://boingboing.net/2019/10/08/ant-facial-recognition-tech-at.html)
 * 4.1-Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
 * 4.1-Garbage In, Garbage Out | Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
@@ -217,4 +217,4 @@
 ---
 
 
-Updated on 15-Oct-2019 at 14:21 by Domingo Mery
+Updated on 15-Oct-2019 at 14:23 by Domingo Mery
