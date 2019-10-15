@@ -16,7 +16,8 @@
 * ICE Used Facial Recognition to Mine State Driver License Databases - The New York Times [[Nota Periodistica]](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html)
 * Ant-facial recognition tech at the Hong Kong protests was an art project [[Nota Periodistica]](https://boingboing.net/2019/10/08/ant-facial-recognition-tech-at.html)
 * Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
-* Garbage In, Garbage Out | Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
+* Garbage In, Garbage Out by Claire Garvie| Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
+* Facial Recognition  Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
 * Chinese video surveillance network used by the Australian Government [[Video]](https://youtu.be/B4QK3jJkLR8)
 * Next-Level Surveillance: China Embraces Facial Recognition [[Video]](https://youtu.be/Fq1SEqNT-7c)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
@@ -67,4 +68,4 @@
 ---
 
 
-Updated on 15-Oct-2019 at 14:23 by Domingo Mery
+Updated on 15-Oct-2019 at 15:34 by Domingo Mery
