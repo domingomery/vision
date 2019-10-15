@@ -152,7 +152,16 @@
 ### Clase 21 Mi. 16-Oct-2019:
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-The biggest lie tech people tell themselves [[Nota Periodistica]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics)
-* 4.1-Uso de reconocimiento de caras en China [[Video]](https://www.youtube.com/watch?v=lH2gMNrUuEY)
+* 4.1-Uso de reconocimiento de caras en China (The Economist) [[Video]](https://youtu.be/lH2gMNrUuEY)
+* 4.1-Uso de reconocimiento de caras en China (BBC) [[Video]](https://youtu.be/pNf4-d6fDoY)
+* 4.1-Whats Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
+* 4.1-Youre in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
+* 4.1-ICE Used Facial Recognition to Mine State Drivers License Databases - The New York Times [[Nota Periodistica]](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html)
+* 4.1-Ant-facial recognition tech at the Hong Kong protests was an art project [[Nota Periodistica]](https://boingboing.net/2019/10/08/ant-facial-recognition-tech-at.html)
+* 4.1-Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
+* 4.1-Garbage In, Garbage Out | Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
+* 4.1-Chinese video surveillance network used by the Australian Government [[Video]](https://youtu.be/B4QK3jJkLR8)
+* 4.1-Next-Level Surveillance: China Embraces Facial Recognition [[Video]](https://youtu.be/Fq1SEqNT-7c)
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.1-We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
@@ -208,4 +217,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 17:16 by Domingo Mery
+Updated on 15-Oct-2019 at 14:21 by Domingo Mery
