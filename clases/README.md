@@ -150,38 +150,41 @@
 * 4.1-Bias on the web (BaezaYaes) [[Paper]](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/fulltext)
 
 ### Clase 21 Mi. 16-Oct-2019:
-* 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
+* 4.1-Motivacion: Etica en Reconocimientoo Facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_EthicsMotivation.pptx)
+* 4.1-What is Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
+* 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
+* 4.1-Monitoring workers [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * 4.1-The biggest lie tech people tell themselves [[Nota Periodistica]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics)
+* 4.1-Rankings de personas (C. Gutierrez) > pag 38 [[Paper]](https://www.dcc.uchile.cl/Bitsdeciencia17.pdf)
 * 4.1-Uso de reconocimiento de caras en China (The Economist) [[Video]](https://youtu.be/lH2gMNrUuEY)
 * 4.1-Uso de reconocimiento de caras en China (BBC) [[Video]](https://youtu.be/pNf4-d6fDoY)
-* 4.1-What is Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
-* 4.1-You are in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
+* 4.1-Chinese video surveillance network used by the Australian Government [[Video]](https://youtu.be/B4QK3jJkLR8)
+* 4.1-China embraces facial recognition technology (France24) [[Video]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://youtu.be/0R2ve-5a4Ag)
+* 4.1-Next-Level Surveillance: China Embraces Facial Recognition [[Video]](https://youtu.be/Fq1SEqNT-7c)
 * 4.1-ICE Used Facial Recognition to Mine State Driver License Databases - The New York Times [[Nota Periodistica]](https://www.nytimes.com/2019/07/07/us/politics/ice-drivers-licenses-facial-recognition.html)
 * 4.1-Ant-facial recognition tech at the Hong Kong protests was an art project [[Nota Periodistica]](https://boingboing.net/2019/10/08/ant-facial-recognition-tech-at.html)
 * 4.1-Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
+* 4.1-You are in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
 * 4.1-Garbage In, Garbage Out by Claire Garvie| Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
 * 4.1-Facial Recognition  Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
-* 4.1-Chinese video surveillance network used by the Australian Government [[Video]](https://youtu.be/B4QK3jJkLR8)
-* 4.1-Next-Level Surveillance: China Embraces Facial Recognition [[Video]](https://youtu.be/Fq1SEqNT-7c)
+* 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
+* 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
+* 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
+* 4.2-Ingenieros UC desarrollan sistema automatizado para pasar lista en clases [[Nota Periodistica]](https://t.co/W1YkLOvCao)
+
+### Clase 22 Lu. 21-Oct-2019:
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.1-We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
-* 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
 * 4.1-It is not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
 * 4.1-The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
-* 4.1-Opinion The Economist [[Nota Periodistica]](https://twitter.com/theeconomist/status/1178429549689921536?s=12)
 * 4.1-A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
 * 4.1-How machine learning in policing could fuel racial discrimination [[Nota Periodistica]](https://thenextweb.com/syndication/2019/09/21/how-machine-learning-in-policing-could-fuel-racial-discrimination/?yptr=yahoo)
 * 4.2-Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * 4.2-Fake news [[Video]](https://youtu.be/Y-sBTf2pBnQ)
 * 4.2-Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
-* 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 * 4.2-Why a Right to Explanation of Automated Decision-Making [[Paper]](https://academic.oup.com/idpl/article-pdf/doi/10.1093/idpl/ipx005/17932196/ipx005.pdf)
 * 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * 4.2-Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
-* 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
-
-### Clase 22 Lu. 21-Oct-2019:
-* 3.5-Presentaciones Proyecto 2
 
 ### Clase 23 Mi. 23-Oct-2019:
 * 4.2-Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
@@ -215,7 +218,10 @@
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 * 4.2-Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
+
+### Clase 22 Lu. 21-Oct-2019:
+* 3.5-Presentaciones Proyecto 2
 ---
 
 
-Updated on 15-Oct-2019 at 15:34 by Domingo Mery
+Updated on 16-Oct-2019 at 11:05 by Domingo Mery
