@@ -22,7 +22,7 @@
 * Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
 * You are in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
 * Garbage In, Garbage Out by Claire Garvie| Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
-* Facial Recognition  Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
+* Facial Recognition - Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
@@ -72,4 +72,4 @@
 ---
 
 
-Updated on 16-Oct-2019 at 11:05 by Domingo Mery
+Updated on 16-Oct-2019 at 14:37 by Domingo Mery

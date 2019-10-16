@@ -166,7 +166,7 @@
 * 4.1-Hong Kong protesters use lasers to avoid facial recognition cameras and blind police (The Independent) [[]](https://www.independent.co.uk/news/world/asia/hong-kong-protests-lasers-facial-recognition-ai-china-police-a9033046.html)
 * 4.1-You are in a Police Lineup, Right Now - The New York Times [[Opinion]](https://www.nytimes.com/2019/10/15/opinion/facial-recognition-police.html)
 * 4.1-Garbage In, Garbage Out by Claire Garvie| Face Recognition on Flawed Data [[Paper]](https://www.flawedfacedata.com/)
-* 4.1-Facial Recognition  Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
+* 4.1-Facial Recognition - Art or Science? [[Paper]](https://www.sheriffs.org/sites/default/files/Whitepaper%20Facial%20Recognition.pdf)
 * 4.1-Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
@@ -192,12 +192,13 @@
 * 4.2-La biometria en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
 
 ### Clase 24 Lu. 28-Oct-2019:
+* 3.5-Presentaciones Proyecto 2
+
+### Clase 25 Mi. 30-Oct-2019:
 * 4.2-U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 * 4.2-How to Make A.I. That is Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
 * 4.2-Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
-
-### Clase 25 Mi. 30-Oct-2019:
 * 4.2-Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
 * 4.2-Cuanto valen tus datos digitales? [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/29/proteccion-datos-facebook-google)
 * 4.2-El reconocimiento facial debe postergarse [[Nota Periodistica]](https://www.nytimes.com/es/2019/05/21/reconocimiento-facial-privacidad)
@@ -218,10 +219,7 @@
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 * 4.2-Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
-
-### Clase 22 Lu. 21-Oct-2019:
-* 3.5-Presentaciones Proyecto 2
 ---
 
 
-Updated on 16-Oct-2019 at 11:05 by Domingo Mery
+Updated on 16-Oct-2019 at 14:37 by Domingo Mery
