@@ -78,8 +78,8 @@
 * Attendance system [[Link]](https://www.looplearn.net/what-is-looplearn)
 * The Language of Congress [[Link]](https://congress.pudding.cool)
 ### 4.3 Ensayo:
-* YouTube ayud al surgimiento de la derecha y la radicalizacin en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
+* YouTube ayudo al surgimiento de la derecha y la radicalizacion en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
 ---
 
 
-Updated on 23-Oct-2019 at 13:28 by Domingo Mery
+Updated on 23-Oct-2019 at 13:30 by Domingo Mery

@@ -213,7 +213,7 @@
 * 4.2-The Danger of Over-Valuing Machine Learning [[Nota Periodistica]](https://www.forbes.com/sites/cognitiveworld/2019/08/14/the-danger-of-over-valuing-machine-learning/)
 * 4.2-The Economist: Deepfake [[Nota Periodistica]](https://amp.economist.com/the-economist-explains/2019/08/07/what-is-a-deepfake)
 * 4.2-Real-time object detection towards high power efficiency [[Paper]](https://ieeexplore.ieee.org/document/8342100)
-* 4.3-YouTube ayud al surgimiento de la derecha y la radicalizacin en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
+* 4.3-YouTube ayudo al surgimiento de la derecha y la radicalizacion en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
 * 4.2-Facial Recognition System for Getting Drunk More Efficiently Is Coming [[Nota Periodistica]](https://gizmodo.com/facial-recognition-system-for-getting-drunk-more-effici-1836883374)
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
@@ -229,4 +229,4 @@
 ---
 
 
-Updated on 23-Oct-2019 at 13:28 by Domingo Mery
+Updated on 23-Oct-2019 at 13:30 by Domingo Mery
