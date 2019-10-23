@@ -22,4 +22,4 @@ En el informe se evalua calidad del informe, explicaciones, redaccion, ortografi
 El informe debera ser enviado por correo electronico al [profesor](mailto:domingo.mery@uc.cl) a mas tardar el miercoles 04/Dic a las 6:30pm.  
 
 ## Foro
-Para discusion y comentarios usar el foro del ensayo [foro](https://github.com/domingomery/vision/issues/3).
+Para discusion y comentarios usar el [foro del ensayo](https://github.com/domingomery/vision/issues/3).
