@@ -16,7 +16,7 @@ Se recomienda ver como referencia el material proporcionado en la pagina del cur
 Se debe trabajar en grupos de 4 integrantes (los mismos integrantes de los proyectos).
 
 ## Informe
-En el informe se evalua calidad del informe, explicaciones, redaccion, ortografia. El informe debe ser un PDF de 8 paginas pagina mas las referencias (en Times New Roman, Espacio Simple, Tamano Carta, Tamano de Letra 10,11 o 12), con margenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdotico, sin faltas de ortografia y sin problemas de redaccion. El informe debe contener al menos los 5 puntos mencionados en el enunciado.
+En el informe se evalua calidad del informe, explicaciones, redaccion, ortografia. El informe debe ser un PDF de 8 paginas pagina mas las referencias (en Times New Roman, Espacio Simple, Tamano Carta, Tamano de Letra 10,11 o 12), con margenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdotico, sin faltas de ortografia y sin problemas de redaccion. El informe debe contener al menos los 5 puntos mencionados en el enunciado. La nota sera de acuerdo a las ponderaciones indicadas.
 
 ## Indicaciones para subir la tarea
 El informe debera ser enviado por correo electronico al [profesor](mailto:domingo.mery@uc.cl) a mas tardar el miercoles 04/Dic a las 6:30pm.  
