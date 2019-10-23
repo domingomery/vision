@@ -6,6 +6,7 @@
 * Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
 * Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
+* Deep Learning and Reinforcement Learning Workflows (Matlab) [[Blog]](https://la.mathworks.com/videos/deep-learning-and-reinforcement-learning-workflows-in-ai-1561660563857.html)
 * Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
 * Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
@@ -43,4 +44,4 @@
 ---
 
 
-Updated on 16-Oct-2019 at 14:37 by Domingo Mery
+Updated on 23-Oct-2019 at 13:28 by Domingo Mery

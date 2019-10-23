@@ -92,6 +92,7 @@
 * 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
 * 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
+* 3.1-Deep Learning and Reinforcement Learning Workflows (Matlab) [[Blog]](https://la.mathworks.com/videos/deep-learning-and-reinforcement-learning-workflows-in-ai-1561660563857.html)
 
 ### Clase 11 Lu. 09-Sep-2019:
 * 2.5-Presentaciones Proyecto 1
@@ -171,11 +172,16 @@
 * 4.1-Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
 * 4.2-Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 * 4.2-Ingenieros UC desarrollan sistema automatizado para pasar lista en clases [[Nota Periodistica]](https://t.co/W1YkLOvCao)
+* 4.2-Amazon Pitches Shady Facial Recognition Laws [[Nota Periodistica]](https://www.forbes.com/sites/korihale/2019/10/01/amazon-pitches-shady-facial-recognition-laws/#38a71fcd6f7d)
+* 4.2-But what if Rekognition gets it wrong? [[Nota Periodistica]](https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/)
 
-### Clase 22 Lu. 21-Oct-2019:
+### Clase 22 Lu. 28-Oct-2019:
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+* 4.1-GDPR [[Nota Periodistica]](https://www.gemalto.com/govt/biometrics/biometric-data)
+* 4.1-The Delicate Ethics of Using Facial Recognition in Schools [[Nota Periodistica]](https://www.wired.com/story/delicate-ethics-facial-recognition-schools/)
 * 4.1-We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * 4.1-It is not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
+* 4.1-Understanding algorithmic decision [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//http://www.europarl.europa.eu/RegData/etudes/STUD/2019/624261/EPRS_STU(2019)624261_EN.pdf)
 * 4.1-The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
 * 4.1-A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
 * 4.1-How machine learning in policing could fuel racial discrimination [[Nota Periodistica]](https://thenextweb.com/syndication/2019/09/21/how-machine-learning-in-policing-could-fuel-racial-discrimination/?yptr=yahoo)
@@ -185,16 +191,9 @@
 * 4.2-Why a Right to Explanation of Automated Decision-Making [[Paper]](https://academic.oup.com/idpl/article-pdf/doi/10.1093/idpl/ipx005/17932196/ipx005.pdf)
 * 4.2-Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * 4.2-Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
-
-### Clase 23 Mi. 23-Oct-2019:
 * 4.2-Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
 * 4.2-El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf)
 * 4.2-La biometria en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
-
-### Clase 24 Lu. 28-Oct-2019:
-* 3.5-Presentaciones Proyecto 2
-
-### Clase 25 Mi. 30-Oct-2019:
 * 4.2-U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 * 4.2-How to Make A.I. That is Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
@@ -219,7 +218,15 @@
 * 4.2-Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * 4.2-Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 * 4.2-Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
+* 4.2-Data Anonymization - History and Key Ideas [[Blog]](https://www.kdnuggets.com/2019/10/data-anonymization-history-key-ideas.html)
+* 4.2-Explainable AI: The Next Frontier in Human-Machine Harmony [[Blog]](https://www.mindsdb.com/blog/explainable-ai-the-next-frontier-in-human-machine-harmony)
+* 4.2-Regulacion IARP [[Link]](https://www.cyber.gov.au/irap/what-irap)
+* 4.2-Attendance system [[Link]](https://www.looplearn.net/what-is-looplearn)
+* 4.2-The Language of Congress [[Link]](https://congress.pudding.cool)
+
+### Clase 23 Mi. 30-Oct-2019:
+* 3.5-Presentaciones Proyecto 2
 ---
 
 
-Updated on 16-Oct-2019 at 14:37 by Domingo Mery
+Updated on 23-Oct-2019 at 13:28 by Domingo Mery

@@ -26,8 +26,11 @@
 * Prohibicion en San Francisco de reconocimiento facial [[Nota Periodistica]](https://edition.cnn.com/2019/07/17/tech/cities-ban-facial-recognition)
 * Colegio Sueco multado por usar reconocimiento facial [[Nota Periodistica]](https://www.emol.com/noticias/Tendencias/2019/09/05/960329/Reconocimiento-Facial-Colegios.html)
 * Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+* GDPR [[Nota Periodistica]](https://www.gemalto.com/govt/biometrics/biometric-data)
+* The Delicate Ethics of Using Facial Recognition in Schools [[Nota Periodistica]](https://www.wired.com/story/delicate-ethics-facial-recognition-schools/)
 * We cannot trust AI systems built on deep learning alone [[Nota Periodistica]](https://www.technologyreview.com/s/614443/we-cant-trust-ai-systems-built-on-deep-learning-alone/)
 * It is not too late to get biometrics right [[Nota Periodistica]](https://venturebeat.com/2019/09/29/its-not-too-late-to-get-biometrics-right/)
+* Understanding algorithmic decision [[Paper]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//http://www.europarl.europa.eu/RegData/etudes/STUD/2019/624261/EPRS_STU(2019)624261_EN.pdf)
 * The Implications of Batch Normalization Patent [[Blog]](https://community.ibm.com/community/user/datascience/viewdocument/the-implications-of-googles-batch)
 * A Worrying Analysis of Recent Neural Recommendation Approaches [[Paper]](https://arxiv.org/abs/1907.06902v1)
 * How machine learning in policing could fuel racial discrimination [[Nota Periodistica]](https://thenextweb.com/syndication/2019/09/21/how-machine-learning-in-policing-could-fuel-racial-discrimination/?yptr=yahoo)
@@ -35,6 +38,8 @@
 * Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
 * Camaras en el Instituto Nacional [[Nota Periodistica]](https://www.eldinamo.cl/nacional/2019/07/13/asi-funcionan-las-camaras-de-vigilancia-que-se-instalaron-en-el-instituto-nacional/)
 * Ingenieros UC desarrollan sistema automatizado para pasar lista en clases [[Nota Periodistica]](https://t.co/W1YkLOvCao)
+* Amazon Pitches Shady Facial Recognition Laws [[Nota Periodistica]](https://www.forbes.com/sites/korihale/2019/10/01/amazon-pitches-shady-facial-recognition-laws/#38a71fcd6f7d)
+* But what if Rekognition gets it wrong? [[Nota Periodistica]](https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/)
 * Machine learning 'causing science crisis' [[Nota Periodistica]](https://www.bbc.co.uk/news/amp/science-environment-47267081)
 * Fake news [[Video]](https://youtu.be/Y-sBTf2pBnQ)
 * Consejo para la transparencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/17/consejo-para-la-transparencia-pego-el-grito-en-el-cielo-y-alerta-sobre-los-riesgos-de-envejecer-tu-rostro-con-faceapp/)
@@ -67,9 +72,14 @@
 * Where might facial recognition be able to reduce wait times? [[Nota Periodistica]](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-08022019.html)
 * Un experto en inteligencia artificial quiere detener a los robots asesinos [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 * Privacy and freedom of expression in the age of Artificial Intelligence [[Nota Periodistica]](https://www.skimtechnologies.com/privacy-and-freedom-of-expression-in-ai/index.html)
+* Data Anonymization - History and Key Ideas [[Blog]](https://www.kdnuggets.com/2019/10/data-anonymization-history-key-ideas.html)
+* Explainable AI: The Next Frontier in Human-Machine Harmony [[Blog]](https://www.mindsdb.com/blog/explainable-ai-the-next-frontier-in-human-machine-harmony)
+* Regulacion IARP [[Link]](https://www.cyber.gov.au/irap/what-irap)
+* Attendance system [[Link]](https://www.looplearn.net/what-is-looplearn)
+* The Language of Congress [[Link]](https://congress.pudding.cool)
 ### 4.3 Ensayo:
 * YouTube ayud al surgimiento de la derecha y la radicalizacin en Brasil [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/14/espanol/america-latina/brasil-bolsonaro-youtube.html?smid=tw-espanol&smtyp=cur)
 ---
 
 
-Updated on 16-Oct-2019 at 14:37 by Domingo Mery
+Updated on 23-Oct-2019 at 13:28 by Domingo Mery
