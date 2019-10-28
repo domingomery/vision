@@ -198,6 +198,8 @@
 * 4.2-Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
 * 4.2-How to Make A.I. That is Good for People [[Nota Periodistica]](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
 * 4.2-Controversia de Rekognition de Amazon [[Nota Periodistica]](https://www.nytimes.com/2019/05/20/technology/amazon-facial-recognition.html)
+* 4.2-Reconocimiento Facial: es bueno o malo? (D.Mery) [[Opinion]](https://www.latercera.com/opinion/noticia/reconocimiento-facial-bueno-malo/)
+* 4.2-Face Analysis: State of the Art and Ethical Challenges (D. Mery) [[Paper]](http://dmery.sitios.ing.uc.cl/Prints/Conferences/International/2019-PSIVT.pdf)
 * 4.2-Emociones desde una selfie [[Nota Periodistica]](https://thenextweb.com/artificial-intelligence/2019/07/30/this-ai-detects-11-types-of-emotions-from-a-selfie/)
 * 4.2-Cuanto valen tus datos digitales? [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/29/proteccion-datos-facebook-google)
 * 4.2-El reconocimiento facial debe postergarse [[Nota Periodistica]](https://www.nytimes.com/es/2019/05/21/reconocimiento-facial-privacidad)
@@ -223,10 +225,13 @@
 * 4.2-Regulacion IARP [[Link]](https://www.cyber.gov.au/irap/what-irap)
 * 4.2-Attendance system [[Link]](https://www.looplearn.net/what-is-looplearn)
 * 4.2-The Language of Congress [[Link]](https://congress.pudding.cool)
+* 4.2-How Photos of Your Kids Are Powering Surveillance Technology - The New York Times [[Nota Periodistica]](https://www.nytimes.com/interactive/2019/10/11/technology/flickr-facial-recognition.html)
+* 4.2-Appen Announces Crowd Code of Ethics to Build Better AI [[Link]](https://appen.com/blog/appen-announces-crowd-code-of-ethics-to-build-better-ai/)
+* 4.2-You Got a Brain Scan at the Hospital. Someday a Computer May Use It to Identify You [[Nota Periodistica]](https://www.nytimes.com/2019/10/23/health/brain-scans-personal-identity.html)
 
 ### Clase 23 Mi. 30-Oct-2019:
 * 3.5-Presentaciones Proyecto 2
 ---
 
 
-Updated on 23-Oct-2019 at 13:30 by Domingo Mery
+Updated on 28-Oct-2019 at 15:43 by Domingo Mery
