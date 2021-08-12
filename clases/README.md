@@ -1,9 +1,9 @@
 # Vision por Computador
 
-## Planificacion del course por dia
+## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
-### Clase 01 Lu. 05-Aug-2019:
+### Clase 01 Lu. 16-Aug-2021:
 * 0.1-Programa del Curso [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1-Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -17,7 +17,7 @@
 * 1.2-Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
 * 1.2-Ejemplo 3D model de Vermer en SketchUp [[3D Model]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/models/CV01_Veermer_Milk_Maid.skp)
 
-### Clase 02 Mi. 07-Aug-2019:
+### Clase 02 Mi. 18-Aug-2021:
 * 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
@@ -27,7 +27,7 @@
 * 2.2-Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
 * 2.2-Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
 
-### Clase 03 Lu. 12-Aug-2019:
+### Clase 03 Lu. 23-Aug-2021:
 * 2.1-Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.1-Ejemplo Transformaciones 2D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Trans2D.m)
 * 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
@@ -40,10 +40,10 @@
 * 2.2--> Ejemplo perspectiva (datos mesh para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/meshpoints.mat)
 * 2.2--> Ejemplo perspectiva (datos de perspectiva para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
 
-### Clase 04 Mi. 14-Aug-2019:
+### Clase 04 Mi. 25-Aug-2021:
 * 2.1-Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 
-### Clase 05 Lu. 19-Aug-2019:
+### Clase 05 Lu. 30-Aug-2021:
 * 2.3-Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Ransac.m)
 * 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_HomografiaRANSAC.m)
@@ -54,7 +54,7 @@
 * 2.3-Ejemplo SIFT [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_SIFT.m)
 * 2.3-Video de  ejemplo [[Video]](https://www.youtube.com/watch?v=qYaU1GeEiR8)
 
-### Clase 06 Mi. 21-Aug-2019:
+### Clase 06 Mi. 01-Sep-2021:
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Ejemplo reconstruccion 3D [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
 * 2.2-Calibracion (ver seccion 3.4) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
@@ -69,13 +69,13 @@
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
 
-### Clase 07 Lu. 26-Aug-2019:
+### Clase 07 Lu. 06-Sep-2021:
 * 2.3-Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 
-### Clase 08 Mi. 28-Aug-2019:
+### Clase 08 Mi. 08-Sep-2021:
 * 2.5-Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
 
-### Clase 09 Lu. 02-Sep-2019:
+### Clase 09 Lu. 13-Sep-2021:
 * 2.5-Mosaicos en la practica (1) [[PDF]](https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect7.pdf)
 * 2.5-Mosaicos en la practica (2) [[PDF]](http://www.csd.uwo.ca/courses/CS3335a/Lectures/lec09_mosaic_u.pdf)
 * 2.5-Mosaicos en la practica (3) [[PPT]](https://inst.eecs.berkeley.edu/~cs194-26/fa15/Lectures/MoreMosaics.ppt)
@@ -86,7 +86,7 @@
 * 2.5-Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
 * 2.5-Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
 
-### Clase 10 Mi. 04-Sep-2019:
+### Clase 10 Mi. 15-Sep-2021:
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Introduction to deep Learning from scratch [[Blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
 * 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
@@ -94,22 +94,22 @@
 * 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 * 3.1-Deep Learning and Reinforcement Learning Workflows (Matlab) [[Blog]](https://la.mathworks.com/videos/deep-learning-and-reinforcement-learning-workflows-in-ai-1561660563857.html)
 
-### Clase 11 Lu. 09-Sep-2019:
+### Clase 11 Lu. 20-Sep-2021:
 * 2.5-Presentaciones Proyecto 1
 
-### Clase 12 Mi. 11-Sep-2019:
+### Clase 12 Mi. 22-Sep-2021:
 * 3.1-Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * 3.1-Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
 
-### Clase 13 Lu. 16-Sep-2019:
+### Clase 13 Lu. 27-Sep-2021:
 * 3.1-Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * 3.1-ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
 * 3.1-Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
 
-### Clase 14 Lu. 23-Sep-2019:
+### Clase 14 Mi. 29-Sep-2021:
 * 3.1-Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
 
-### Clase 15 Mi. 25-Sep-2019:
+### Clase 15 Lu. 04-Oct-2021:
 * 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
@@ -124,10 +124,10 @@
 * 3.1-Pose estimation [[Code]](https://github.com/haofanwang/mxnet-Head-Pose)
 * 3.1-Learning Social Relation Traits from Face Images [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Learning_Social_Relation_ICCV_2015_paper.pdf)
 
-### Clase 16 Lu. 30-Sep-2019:
+### Clase 16 Mi. 06-Oct-2021:
 * 3.1-Ejercicio de reconocimiento de atributos faciales [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes)
 
-### Clase 17 Mi. 02-Oct-2019:
+### Clase 17 Lu. 11-Oct-2021:
 * 3.2-Detectores (presentacion de Daniel Saavedra) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Detectores_Deep_Learning.pdf)
 * 3.2-Object detection con Yolo [[Code]](https://pjreddie.com/darknet/yolo/)
 * 3.2-Omni-benchmarking object detection [[Blog]](https://towardsdatascience.com/omni-benchmarking-object-detection-b390cc4114cd)
@@ -136,13 +136,13 @@
 * 3.3-[opcional] How to make a pizza [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf)
 * 3.4-[opcional] Image Registration [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
-### Clase 18 Lu. 07-Oct-2019:
+### Clase 18 Mi. 13-Oct-2021:
 * 3.5-Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
-### Clase 19 Mi. 09-Oct-2019:
+### Clase 19 Lu. 18-Oct-2021:
 * 3.5-Desarrollo de Proyecto 2 [[Enunciado]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
-### Clase 20 Lu. 14-Oct-2019:
+### Clase 20 Mi. 20-Oct-2021:
 * 4.1-Expositor: Alejandro Barros [[Pagina personal]](https://www.alejandrobarros.com)
 * 4.1-La algoritmificacion de nuestra convivencia [[Paper]](https://www.alejandrobarros.com/wp-content/uploads/2019/09/La-algoritmificacion-de-nuestra-convivencia-27-9-2019.pdf)
 * 4.1-Entrevista a Ananny - El Mercurio [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/papers/CV04_EntrevistaAnnany.pdf)
@@ -150,7 +150,7 @@
 * 4.1-Es posible acabar con los sesgos de los algoritmos? (Baeza-Yates, Peiro) [[Paper]](http://www.baeza.cl/bias/sesgos-algoritmos.html)
 * 4.1-Bias on the web (BaezaYaes) [[Paper]](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/fulltext)
 
-### Clase 21 Mi. 16-Oct-2019:
+### Clase 21 Lu. 25-Oct-2021:
 * 4.1-Motivacion: Etica en Reconocimientoo Facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_EthicsMotivation.pptx)
 * 4.1-What is Going On With Facial Recognition? (Tech Insider) [[Video]](https://youtu.be/BqQT4sIOYA0)
 * 4.2-Tu rostro entrena herramientas de reconocimiento facial [[Nota Periodistica]](https://www.nytimes.com/es/2019/07/15/reconocimiento-facial-tecnologia)
@@ -175,7 +175,7 @@
 * 4.2-Amazon Pitches Shady Facial Recognition Laws [[Nota Periodistica]](https://www.forbes.com/sites/korihale/2019/10/01/amazon-pitches-shady-facial-recognition-laws/#38a71fcd6f7d)
 * 4.2-But what if Rekognition gets it wrong? [[Nota Periodistica]](https://www.washingtonpost.com/technology/2019/04/30/amazons-facial-recognition-technology-is-supercharging-local-police/)
 
-### Clase 22 Lu. 28-Oct-2019:
+### Clase 22 Mi. 27-Oct-2021:
 * 4.1-Deep Nude [[Nota Periodistica]](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
 * 4.1-GDPR [[Nota Periodistica]](https://www.gemalto.com/govt/biometrics/biometric-data)
 * 4.1-The Delicate Ethics of Using Facial Recognition in Schools [[Nota Periodistica]](https://www.wired.com/story/delicate-ethics-facial-recognition-schools/)
@@ -229,9 +229,9 @@
 * 4.2-Appen Announces Crowd Code of Ethics to Build Better AI [[Link]](https://appen.com/blog/appen-announces-crowd-code-of-ethics-to-build-better-ai/)
 * 4.2-You Got a Brain Scan at the Hospital. Someday a Computer May Use It to Identify You [[Nota Periodistica]](https://www.nytimes.com/2019/10/23/health/brain-scans-personal-identity.html)
 
-### Clase 23 Mi. 30-Oct-2019:
+### Clase 23 Lu. 01-Nov-2021:
 * 3.5-Presentaciones Proyecto 2
 ---
 
 
-Updated on 28-Oct-2019 at 15:43 by Domingo Mery
+Updated on 12-Aug-2021 at 13:35 by Domingo Mery
