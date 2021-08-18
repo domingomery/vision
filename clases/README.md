@@ -14,6 +14,7 @@
 * 0.1-Computer Vision for X-ray Testing (Mery, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 
 ### Clase 02 Mi. 18-Aug-2021:
+* 1.1-** Video de la clase ** [[]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion//https://youtu.be/fzVcnn5cxCA)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-Historia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
@@ -236,4 +237,4 @@
 ---
 
 
-Updated on 16-Aug-2021 at 12:30 by Domingo Mery
+Updated on 18-Aug-2021 at 14:06 by Domingo Mery
