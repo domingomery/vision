@@ -12,6 +12,7 @@
 * 0.1-Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * 0.1-Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 * 0.1-Computer Vision for X-ray Testing (Mery, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
+* 0.1-Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 
 ### Clase 02 Mi. 18-Aug-2021:
 * 1.1-**Video de la clase** [[YouTube]](https://youtu.be/fzVcnn5cxCA)
@@ -23,7 +24,8 @@
 * 1.2-Ejemplo 3D model de Vermer en SketchUp [[3D Model]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/models/CV01_Veermer_Milk_Maid.skp)
 
 ### Clase 03 Lu. 23-Aug-2021:
-* 2.1-Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
+* 2.1-**Video de la clase** [[YouTube]](https://youtu.be/IS8asEOXbzs)
+* 2.1-Apuntes (ver capitulo 3) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * 2.1-Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * 2.1-Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
@@ -238,4 +240,4 @@
 ---
 
 
-Updated on 22-Aug-2021 at 19:37 by Domingo Mery
+Updated on 23-Aug-2021 at 14:15 by Domingo Mery

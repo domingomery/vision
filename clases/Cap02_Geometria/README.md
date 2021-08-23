@@ -1,7 +1,8 @@
 
 # Capitulo 02: Aplicaciones con Modelacion geometrica
 ### 2.1 Representaciones 1D, 2D, 3D:
-* Apuntes (ver capitulo 3) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
+* **Video de la clase** [[YouTube]](https://youtu.be/IS8asEOXbzs)
+* Apuntes (ver capitulo 3) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
@@ -63,4 +64,4 @@
 ---
 
 
-Updated on 22-Aug-2021 at 19:37 by Domingo Mery
+Updated on 23-Aug-2021 at 14:15 by Domingo Mery
