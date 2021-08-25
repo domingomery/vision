@@ -6,6 +6,7 @@
 * Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
+* **Video de la clase** [[YouTube]](https://youtu.be/32UN03En7WU)
 * Trabajo en Clase 01 [[Colab]](https://colab.research.google.com/drive/1YeKeDBQRHk2Pigph9LEDPKHcdtvAoaRA?usp=sharing)
 * Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
 * Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
@@ -64,4 +65,4 @@
 ---
 
 
-Updated on 23-Aug-2021 at 14:15 by Domingo Mery
+Updated on 25-Aug-2021 at 14:41 by Domingo Mery

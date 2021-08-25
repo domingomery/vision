@@ -31,6 +31,7 @@
 * 2.1-Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 
 ### Clase 04 Mi. 25-Aug-2021:
+* 2.1-**Video de la clase** [[YouTube]](https://youtu.be/32UN03En7WU)
 * 2.1-Trabajo en Clase 01 [[Colab]](https://colab.research.google.com/drive/1YeKeDBQRHk2Pigph9LEDPKHcdtvAoaRA?usp=sharing)
 * 2.1-Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
 * 2.1-Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
@@ -240,4 +241,4 @@
 ---
 
 
-Updated on 23-Aug-2021 at 14:15 by Domingo Mery
+Updated on 25-Aug-2021 at 14:41 by Domingo Mery
