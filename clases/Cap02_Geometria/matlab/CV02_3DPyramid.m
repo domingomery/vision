@@ -4,7 +4,7 @@
 %
 % Computer Vision Course
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
-
+pause(5)
 clt
 p1 = [0 0 0 1]';
 p2 = [2 0 0 1]';
@@ -16,10 +16,11 @@ P = [p1 p2 p3 p4 p5];
 plot3(P(1,:),P(2,:),P(3,:),'rx')
 axis([-4 4 -4 4 -4 4])
 xlabel('X'); ylabel('Y'); zlabel('Z');
-
+setw
 
 
 figure
+setw
 s = [1 2 5 1 4 5 3 2 3 4];
 M = P(:,s);
 
@@ -27,23 +28,24 @@ if 1
 
 t = [0 0 0]'; w = [0 0 0]';    
 CV02_PlotMesh3D(M,t,w);
-enterpause
+enterpause(1)
 
 t = [1 2 3]'; w = [0 0 0]';    
 CV02_PlotMesh3D(M,t,w);
-enterpause
+enterpause(1)
 
 t = [0 0 0]'; w = [pi/2 0 0]'; 
 CV02_PlotMesh3D(M,t,w);
-enterpause
+enterpause(1)
 
 t = [0 0 2]'; w = [pi   0 0]';     
 CV02_PlotMesh3D(M,t,w);
-enterpause
+enterpause(1)
 
 t = [2 2 0]'; w = [0 pi/4 -pi/8]'; 
 CV02_PlotMesh3D(M,t,w);
-enterpause
+disp('starting pyramid...')
+enterpause(10)
 
 end
 
