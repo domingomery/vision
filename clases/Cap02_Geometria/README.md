@@ -19,7 +19,7 @@
 ### 2.2 Modelacion de una camara:
 * Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
 * Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
-* **Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* **Video de la clase** [[YouTube]](https://youtu.be/wfcMCeb8Fzk)
 * Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
 * -> Ejemplo perspectiva (fig file necesario para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.fig)
@@ -72,4 +72,4 @@
 ---
 
 
-Updated on 01-Sep-2021 at 10:38 by Domingo Mery
+Updated on 01-Sep-2021 at 12:43 by Domingo Mery

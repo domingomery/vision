@@ -45,7 +45,7 @@
 * 2.3-Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
 
 ### Clase 06 Mi. 01-Sep-2021:
-* 2.2-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 2.2-**Video de la clase** [[YouTube]](https://youtu.be/wfcMCeb8Fzk)
 * 2.1-Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * 2.2-Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * 2.1-Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
@@ -57,13 +57,13 @@
 * 2.2--> Ejemplo perspectiva (datos mesh para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/meshpoints.mat)
 * 2.2--> Ejemplo perspectiva (datos de perspectiva para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/perspecdata.mat)
 * 2.1-Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
+
+### Clase 07 Lu. 06-Sep-2021:
+* 2.3-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Video de ejemplo de Reco 3D [[YouTube]](https://youtu.be/qYaU1GeEiR8)
 * 2.2-Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
 * 2.2-Ejemplo reconstruccion 3D (matlab) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Reconstruction3D.m)
-
-### Clase 07 Lu. 06-Sep-2021:
-* 2.3-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 2.3-RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Ransac.m)
 * 2.3-Homografias con RANSAC [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_HomografiaRANSAC.m)
 * 2.3-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
@@ -248,4 +248,4 @@
 ---
 
 
-Updated on 01-Sep-2021 at 10:38 by Domingo Mery
+Updated on 01-Sep-2021 at 12:43 by Domingo Mery
