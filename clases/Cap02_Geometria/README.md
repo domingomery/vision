@@ -10,7 +10,7 @@
 * Trabajo en Clase 01 [[Colab]](https://colab.research.google.com/drive/1YeKeDBQRHk2Pigph9LEDPKHcdtvAoaRA?usp=sharing)
 * Explicacion 68 landmarks [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/facial_landmarks_68markup.jpg)
 * Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
-* **Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* **Video de la clase** [[YouTube]](https://youtu.be/bFTwmL_oHGE)
 * Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
@@ -19,8 +19,8 @@
 ### 2.2 Modelacion de una camara:
 * Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
 * Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
-* Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * **Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
 * -> Ejemplo perspectiva (fig file necesario para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.fig)
 * -> Ejemplo perspectiva (funcion necesaria para GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_experspec.m)
@@ -72,4 +72,4 @@
 ---
 
 
-Updated on 30-Aug-2021 at 09:38 by Domingo Mery
+Updated on 01-Sep-2021 at 10:38 by Domingo Mery

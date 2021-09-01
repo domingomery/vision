@@ -47,7 +47,7 @@
 * Algoritmos vs. Delicuencia [[Nota Periodistica]](https://www.theclinic.cl/2019/07/25/batallas-3-0-inteligencia-artificial-y-algoritmos-versus-delincuencia-en-chile/)
 * Aplicaciones y datos personales [[Nota Periodistica]](https://www.latercera.com/opinion/noticia/aplicaciones-datos-personales/)
 * Presentacion de Pablo Viollier [[Pagina personal]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//https://pabloviollier.net)
-* El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf)
+* El cuerpo como dato (derechosdigitales.org) [[Ensayo]](https://www.derechosdigitales.org/wp-content/uploads/cuerpo_DATO.pdf )
 * La biometria en Chile y sus riesgos [[Paper]](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0719-25842017000100067)
 * U.S. House of Representatives [[Nota Periodistica]](https://oversight.house.gov/legislation/hearings/facial-recognition-technology-part-1-its-impact-on-our-civil-rights-and)
 * Politica de Amazon [[Nota Periodistica]](https://aws.amazon.com/rekognition/the-facts-on-facial-recognition-with-artificial-intelligence)
@@ -87,4 +87,4 @@
 ---
 
 
-Updated on 30-Aug-2021 at 09:38 by Domingo Mery
+Updated on 01-Sep-2021 at 10:38 by Domingo Mery
