@@ -38,8 +38,9 @@
 ### 2.3 Homografias:
 * Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
-* **Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* **Video de la clase** [[YouTube]](https://youtu.be/0emGMydd39Y)
 * Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
+* Descripción del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 ### 2.4 Geometria de multiples vistas:
 * Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
@@ -62,4 +63,4 @@
 ---
 
 
-Updated on 06-Sep-2021 at 10:17 by Domingo Mery
+Updated on 06-Sep-2021 at 13:20 by Domingo Mery

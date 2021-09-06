@@ -59,7 +59,7 @@
 * 2.1-Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 
 ### Clase 07 Lu. 06-Sep-2021:
-* 2.3-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 2.3-**Video de la clase** [[YouTube]](https://youtu.be/0emGMydd39Y)
 * 2.2-Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-Video de ejemplo de Reco 3D [[YouTube]](https://youtu.be/qYaU1GeEiR8)
 * 2.2-Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
@@ -67,6 +67,7 @@
 * 2.2-Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * 2.2-Calibracion (ver seccion 3.4) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
 * 2.3-Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
+* 2.3-Descripción del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
 ### Clase 08 Mi. 08-Sep-2021:
 * 2.2-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -238,4 +239,4 @@
 ---
 
 
-Updated on 06-Sep-2021 at 10:17 by Domingo Mery
+Updated on 06-Sep-2021 at 13:20 by Domingo Mery
