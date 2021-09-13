@@ -79,7 +79,7 @@
 * 2.4-Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 
 ### Clase 08 Mi. 08-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
 
 ### Clase 10 Mi. 15-Sep-2021:
@@ -244,4 +244,4 @@
 ---
 
 
-Updated on 13-Sep-2021 at 11:29 by Domingo Mery
+Updated on 13-Sep-2021 at 12:57 by Domingo Mery
