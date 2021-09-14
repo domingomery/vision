@@ -74,12 +74,12 @@
 * 2.3-Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
 
 ### Clase 09 Lu. 13-Sep-2021:
-* 2.4-**Video de la clase** [[]](https://youtu.be/pending-clase-aun-no-grabada)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * 2.4-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4-Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 
 ### Clase 10 Mi. 15-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/clase-aun-no-grabada)
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
 
 ### Clase 11 Lu. 20-Sep-2021:
@@ -242,4 +242,4 @@
 ---
 
 
-Updated on 14-Sep-2021 at 09:21 by Domingo Mery
+Updated on 14-Sep-2021 at 09:23 by Domingo Mery
