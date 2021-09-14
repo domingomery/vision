@@ -78,11 +78,11 @@
 * 2.4-Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4-Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 
-### Clase 08 Mi. 08-Sep-2021:
+### Clase 10 Mi. 15-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
 
-### Clase 10 Mi. 15-Sep-2021:
+### Clase 11 Lu. 20-Sep-2021:
 * 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
@@ -103,8 +103,6 @@
 * 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 * 3.1-Deep Learning and Reinforcement Learning Workflows (Matlab) [[Blog]](https://la.mathworks.com/videos/deep-learning-and-reinforcement-learning-workflows-in-ai-1561660563857.html)
-
-### Clase 11 Lu. 20-Sep-2021:
 * 2.5-Presentaciones Proyecto 1
 
 ### Clase 12 Mi. 22-Sep-2021:
@@ -244,4 +242,4 @@
 ---
 
 
-Updated on 13-Sep-2021 at 12:57 by Domingo Mery
+Updated on 14-Sep-2021 at 09:21 by Domingo Mery
