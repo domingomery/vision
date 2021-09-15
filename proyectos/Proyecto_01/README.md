@@ -11,15 +11,15 @@ La metodología del proyecto se muestra con detalles en esta [presentación](htt
 
 ## Paso 1: Adquisición de imágenes
 
-Tomar al menos dos fotos que contengan objetos dentro de una caja 3D de dimensiones conocidas.
+Tomar n fotos (n > 2) que contengan objetos dentro de una caja 3D de dimensiones conocidas.
 
 
 ## Paso 2: Calibración 
-Calibrar las dos vistas usando el método de Calibración Simple visto en clases [ver ejemplo de la mesa](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
+Calibrar las n vistas usando el método de Calibración Simple visto en clases [ver ejemplo de la mesa](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 
 
 ## Paso 3: Matriz Fundamental 
-Estimar la Matriz Fundamental ([vistas calibradas](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)) para la Geometría Epipolar de ambas imágenes. No usar el método de las vistas no calibradas del Trabajo en Clases 03.
+Estimar la Matriz Fundamental ([vistas calibradas](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)) para la Geometría Epipolar de imágenes 1 y 2. IMPORTANTE: No usar el método de las vistas no calibradas del Trabajo en Clases 03.
 
 ## Paso 4: Selección de Punto en Imagen 1 (m1)
 Encontrar un punto llamativo en la imagen 1, este punto se llamará m1. Se debe usar algún método de procesamiento de imágenes simple para encontrar este punto, por ejemplo se puede poner una marca roja en la parte más alta del objeto a medir. Se recomienda que al inicio del desarrollo del proyecto, las coordenadas de este punto sean definidas manualmente.
@@ -45,7 +45,7 @@ A partir de la reconstrucción 3D estime la altura del objeto.
 
 * Comparación de la altura medida con la altura real (usando una regla de medición)
 
-* Incluya una tercera imagen y use Geometría [Epipolar de Tres Vistas](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx) 
+* Incluya una tercera imagen y use Geometría [Epipolar de Tres Vistas](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx) repitiendo adecuadamente los pasos 3, 5, 6, 7 y 8.
 
 * Incluya más objetos. El algoritmo debe funcionar con al menos tres objetos distintos.
 
@@ -57,7 +57,7 @@ A partir de la reconstrucción 3D estime la altura del objeto.
 Se debe conformar un grupo de 3 integrantes.
 
 ## Fechas de Desarrollo en Clase
-- Mi. 22/Sep > Entrega de Avances el Ju. 23
+- Mi. 22/Sep > Entrega de Avances el Ju. 23 (al menos la calibración debe estar hecha)
 - Mi. 29/Sep
 
 ## Fecha de Entrega
