@@ -1,7 +1,10 @@
-# Proeycto 01: Google Street en el Campus San Joaquin
+# Proeycto 01: Medidor 3D
 
 ## Enunciado
-El objetivo de esta tarea es realizar un navegador por el campus a partir de algunas imagenes estaticas y transformaciones proyectivas 2D. Con este fin se deben tomar un conjunto de no mas de 40 imagenes en el Callejon de Mineria del Campus San Joquin (que se encuentra al lado del Resturant Clementina). 
+El objetivo de este proyecto es realizar un medidor 3D de objetos puestos en una "caja" a partir de múltiples vistas calibradas. Con este fin se deben tomar un conjunto de al menos tres fotos de una "caja" de dimensiones conocidas que contenga objetos. Como ejemplo se muestran dos de estas fotos, en las que se pretende medir la altura de los objetos presentes.
+
+<img src="https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01/cajas_dimension.png" width="600">
+
 
 ## Adquisicion de Imagenes
 Las fotos deben ser tomadas de la siguiente manera (esta forma que sirva de referencia, puede haber otras formas similares): Ubicarse en el inicio del Callejon 1) en este punto se toman unas 8 imagenes haciendo rotar el eje vertical de la camara en 360 grados (por ejemplo una foto a 0 grados, otra a 45 grados, etc), 2) luego caminando hacia adelante (internandose en el Callejon) tomar una foto cada unos 30-50 cm hasta llegar a un nuevo punto a unos 2 metros del punto anterior, 3) repetir al menos dos veces los puntos 1) y 2). 
