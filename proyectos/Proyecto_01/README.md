@@ -3,7 +3,8 @@
 ## Enunciado
 El objetivo de este proyecto es realizar un medidor 3D de objetos puestos en una "caja" a partir de múltiples vistas calibradas. Con este fin se deben tomar un conjunto de al menos tres fotos de una "caja" de dimensiones conocidas que contenga objetos. Como ejemplo se muestran dos de estas fotos, en las que se pretende medir la altura de los objetos presentes.
 
-<img src="https://www.dropbox.com/s/xrs936tz8zar890/cajas_dimension.png" width="600">
+Algunos ejemplos se muestran a continuacion:
+<img src="https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/attributes/example.png" width="600">
 
 
 ## Adquisicion de Imagenes
