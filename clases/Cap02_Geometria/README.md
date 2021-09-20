@@ -33,6 +33,13 @@
 * Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * Calibracion (ver seccion 3.4) [[Book]](https://link.springer.com/chapter/10.1007/978-3-319-20747-6_3)
+* Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
+* Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
+* Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
+* Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC?usp=sharing)
+* Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
+* SIFT [[YouTube]](https://youtu.be/BeqJf-W4ob8)
+* Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
 ### 2.3 Homografias:
 * Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
@@ -41,29 +48,25 @@
 * Descripción del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
-* Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
 ### 2.4 Geometria de multiples vistas:
 * **Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
+* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
+* Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
-* Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
+* Apuntes de Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
+* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 ### 2.5 Proyecto:
-* Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
-* Mosaicos en la practica (1) [[PDF]](https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect7.pdf)
-* Mosaicos en la practica (2) [[PDF]](http://www.csd.uwo.ca/courses/CS3335a/Lectures/lec09_mosaic_u.pdf)
-* Mosaicos en la practica (3) [[PPT]](https://inst.eecs.berkeley.edu/~cs194-26/fa15/Lectures/MoreMosaics.ppt)
-* Mosaicos con Python [[Code]](https://staff.fnwi.uva.nl/r.vandenboomgaard/IPCV20162017/20162017/LabExercises/Lab_ImageMosaic.html)
-* SIFT mosaic  con Matlba (vlfeat toolbox) [[Code]](http://www.vlfeat.org/applications/apps.html)
-* From SIFT to Deep Learning [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
-* Creating Full View Panoramic Image Mosaics [[Paper]](http://faculty.cs.tamu.edu/jchai/CPSC641/szeliskiShum97.pdf)
-* Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
-* Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
 * Presentaciones Proyecto 1 
 ---
 
 
-Updated on 15-Sep-2021 at 12:22 by Domingo Mery
+Updated on 20-Sep-2021 at 11:03 by Domingo Mery

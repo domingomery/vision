@@ -83,27 +83,35 @@
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
 
 ### Clase 11 Lu. 20-Sep-2021:
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.2-Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
+* 2.2-Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
+* 2.2-Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
+* 2.2-Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC?usp=sharing)
+* 2.2-Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
+* 2.2-SIFT [[YouTube]](https://youtu.be/BeqJf-W4ob8)
+* 2.2-Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
+
+### Clase 12 Mi. 22-Sep-2021:
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+
+### Clase 13 Lu. 27-Sep-2021:
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
+* 2.4-Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
-* 2.4-Datos matrices de projeccion [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/projmatrices.mat)
-* 2.3-Ejercicio homografia avanzada [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Homografias.pdf)
-* 2.5-Desarrollo de Proyecto 1 [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Panoramica_y_Zoom.pdf)
-* 2.5-Mosaicos en la practica (1) [[PDF]](https://courses.cs.washington.edu/courses/cse455/09wi/Lects/lect7.pdf)
-* 2.5-Mosaicos en la practica (2) [[PDF]](http://www.csd.uwo.ca/courses/CS3335a/Lectures/lec09_mosaic_u.pdf)
-* 2.5-Mosaicos en la practica (3) [[PPT]](https://inst.eecs.berkeley.edu/~cs194-26/fa15/Lectures/MoreMosaics.ppt)
-* 2.5-Mosaicos con Python [[Code]](https://staff.fnwi.uva.nl/r.vandenboomgaard/IPCV20162017/20162017/LabExercises/Lab_ImageMosaic.html)
-* 2.5-SIFT mosaic  con Matlba (vlfeat toolbox) [[Code]](http://www.vlfeat.org/applications/apps.html)
-* 2.5-From SIFT to Deep Learning [[Nota Periodistica]](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
-* 2.5-Creating Full View Panoramic Image Mosaics [[Paper]](http://faculty.cs.tamu.edu/jchai/CPSC641/szeliskiShum97.pdf)
-* 2.5-Cylindrical transform [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cart2cylindric.m)
-* 2.5-Cylindrical transform [[Diagram]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/cylindric_transform.png)
+* 2.4-Apuntes de Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Introduction to deep Learning from scratch [[Blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
 * 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
 * 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
-* 3.1-Deep Learning and Reinforcement Learning Workflows (Matlab) [[Blog]](https://la.mathworks.com/videos/deep-learning-and-reinforcement-learning-workflows-in-ai-1561660563857.html)
 * 2.5-Presentaciones Proyecto 1
+
+### Clase 14 Mi. 29-Sep-2021:
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 12 Mi. 22-Sep-2021:
 * 3.1-Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
@@ -242,4 +250,4 @@
 ---
 
 
-Updated on 15-Sep-2021 at 12:22 by Domingo Mery
+Updated on 20-Sep-2021 at 11:03 by Domingo Mery
