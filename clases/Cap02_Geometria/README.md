@@ -54,7 +54,7 @@
 * Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -69,4 +69,4 @@
 ---
 
 
-Updated on 20-Sep-2021 at 11:03 by Domingo Mery
+Updated on 20-Sep-2021 at 12:54 by Domingo Mery

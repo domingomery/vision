@@ -36,12 +36,13 @@ for k = 1:10000;
     clf
     plot(x,y,'*')
     hold on
-    plot(x,ys,'k')
+    plot(x,ys,'k','linewidth',2)
     plot([x1 x2],[y1 y2],'ro')
+    setw
     e = (abs(y-ys));
     ii = find(e>15);
     o  = length(ii);
-    plot(x,yr,'r')
+    plot(x,yr,'r','linewidth',2)
     axis([0 N 0 500])
     if (o<our)
         mr = ms;

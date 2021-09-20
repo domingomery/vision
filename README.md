@@ -83,7 +83,7 @@
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
 
 ### Clase 11 Lu. 20-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * 2.2-Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2-Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2-Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
@@ -250,4 +250,4 @@
 ---
 
 
-Updated on 20-Sep-2021 at 11:03 by Domingo Mery
+Updated on 20-Sep-2021 at 12:54 by Domingo Mery
