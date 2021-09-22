@@ -93,7 +93,7 @@
 * 2.2-Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
 
 ### Clase 12 Mi. 22-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 13 Lu. 27-Sep-2021:
@@ -250,4 +250,4 @@
 ---
 
 
-Updated on 20-Sep-2021 at 12:54 by Domingo Mery
+Updated on 22-Sep-2021 at 13:07 by Domingo Mery
