@@ -63,9 +63,9 @@
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * Apuntes de Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 ### 2.5 Proyecto:
 ---
 
 
-Updated on 25-Sep-2021 at 17:21 by Domingo Mery
+Updated on 25-Sep-2021 at 17:22 by Domingo Mery

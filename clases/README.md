@@ -105,7 +105,7 @@
 
 ### Clase 14 Mi. 29-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* 2.4-Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 15 Lu. 04-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -244,4 +244,4 @@
 ---
 
 
-Updated on 25-Sep-2021 at 17:21 by Domingo Mery
+Updated on 25-Sep-2021 at 17:22 by Domingo Mery
