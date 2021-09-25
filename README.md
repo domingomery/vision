@@ -102,30 +102,24 @@
 * 2.4-Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * 2.4-Apuntes de Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
-* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
-* 3.1-Introduction to deep Learning from scratch [[Blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
-* 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
-* 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
-* 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
-* 2.5-Presentaciones Proyecto 1
 
 ### Clase 14 Mi. 29-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
-### Clase 12 Mi. 22-Sep-2021:
+### Clase 15 Lu. 04-Oct-2021:
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
+* 3.1-Introduction to deep Learning from scratch [[Blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
+* 3.1-Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
+* 3.1-Ejemplo de reconocimiento eyes and nose [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
+* 3.1-Eyes and nose dataset [[Dataset]](https://www.dropbox.com/s/ltmtsf31nyxjeau/faces_ar.zip?dl=0)
 * 3.1-Ejercicio Cats and Dogs [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/eyenose)
 * 3.1-Dataset Cats and Dogs [[Dataset]](https://www.dropbox.com/sh/5ovb01dw0z2gd3g/AABqt0R3PB4hIaVevThDJHfJa?dl=0)
-
-### Clase 13 Lu. 27-Sep-2021:
 * 3.1-Deep Face [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_DeepFace.pptx)
 * 3.1-ArcFace [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf)
 * 3.1-Loss functions en ArcFace [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ArcFace_LossFunction.pdf)
-
-### Clase 14 Mi. 29-Sep-2021:
 * 3.1-Ejercicio Face Recognition [[Code]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/python/facerecognition)
-
-### Clase 15 Lu. 04-Oct-2021:
 * 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
 * 3.1-Face detection [[Code]](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 * 3.1-Face detection [[Paper]](https://arxiv.org/pdf/1604.02878.pdf)
@@ -250,4 +244,4 @@
 ---
 
 
-Updated on 22-Sep-2021 at 13:07 by Domingo Mery
+Updated on 25-Sep-2021 at 17:21 by Domingo Mery

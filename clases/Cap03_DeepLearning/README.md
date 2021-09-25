@@ -1,6 +1,7 @@
 
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
+* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * Introduction to deep Learning from scratch [[Blog]](https://ahmedbesbes.com/introduction-to-neural-networks-and-deep-learning-from-scratch.html)
 * Deep Learning from Scratch and Using Tensorflow in Python [[Blog]](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939)
@@ -43,4 +44,4 @@
 ---
 
 
-Updated on 22-Sep-2021 at 13:07 by Domingo Mery
+Updated on 25-Sep-2021 at 17:21 by Domingo Mery
