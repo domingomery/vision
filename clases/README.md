@@ -97,7 +97,7 @@
 * 2.4-Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 13 Lu. 27-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/2tVptJDCDc8)
 * 2.4-Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * 2.4-Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
@@ -244,4 +244,4 @@
 ---
 
 
-Updated on 25-Sep-2021 at 17:22 by Domingo Mery
+Updated on 27-Sep-2021 at 12:42 by Domingo Mery
