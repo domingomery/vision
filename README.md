@@ -104,7 +104,7 @@
 * 2.4-Apuntes de Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 
 ### Clase 14 Mi. 29-Sep-2021:
-* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 2.4-**Video de la clase** [[YouTube]](https://youtu.be/w_GxLSFiZpA)
 * 2.4-Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 15 Lu. 04-Oct-2021:
@@ -244,4 +244,4 @@
 ---
 
 
-Updated on 27-Sep-2021 at 12:42 by Domingo Mery
+Updated on 29-Sep-2021 at 17:45 by Domingo Mery
