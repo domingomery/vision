@@ -108,7 +108,7 @@
 * 2.4-Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 15 Lu. 04-Oct-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * 3.1-Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 
 ### Clase 16 Mi. 06-Oct-2021:
@@ -165,4 +165,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 11:09 by Domingo Mery
+Updated on 04-Oct-2021 at 18:10 by Domingo Mery

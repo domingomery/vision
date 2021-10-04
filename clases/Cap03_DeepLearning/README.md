@@ -1,7 +1,7 @@
 
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 11:09 by Domingo Mery
+Updated on 04-Oct-2021 at 18:10 by Domingo Mery
