@@ -2,25 +2,25 @@
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Introduccion [[PPT]](CV03_Introduccion.pptx)
+* Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Ejercicio Entrenamiento CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Object Detection + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio YOLO + MOT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Ejercicio YOLO + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio Faces [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Ejercicio de analisis facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Segmentation + GAN + Anomaly [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Presentación videos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 ### 3.2 Deteccion de objetos (object detection):
 ### 3.3 GAN:
 ### 3.4 Registro (image registration):
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 10:56 by Domingo Mery
+Updated on 04-Oct-2021 at 11:09 by Domingo Mery

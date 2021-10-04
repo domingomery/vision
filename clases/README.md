@@ -109,7 +109,7 @@
 
 ### Clase 15 Lu. 04-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Introduccion [[PPT]](CV03_Introduccion.pptx)
+* 3.1-Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 
 ### Clase 16 Mi. 06-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -121,11 +121,11 @@
 
 ### Clase 18 Lu. 25-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Object Detection + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 19 Mi. 27-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio YOLO + MOT [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio YOLO + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -133,19 +133,19 @@
 
 ### Clase 21 Lu. 08-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio Faces [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio de analisis facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 22 Mi. 10-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Segmentation + GAN + Anomaly [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 23 Lu. 15-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 24 Mi. 17-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Presentación videos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 25 Lu. 22-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -165,4 +165,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 10:56 by Domingo Mery
+Updated on 04-Oct-2021 at 11:09 by Domingo Mery
