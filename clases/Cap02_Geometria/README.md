@@ -19,6 +19,7 @@
 ### 2.2 Modelacion de una camara:
 * Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
 * Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
+* Solucion al Trabajo en Clase 01 [[Colab]](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/wfcMCeb8Fzk)
 * Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
@@ -48,12 +49,14 @@
 * Descripción del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
+* Solucion al Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/1Q4Gmt252JSXH9MZmcuVcHde3gLbZPM6H?usp=sharing)
 ### 2.4 Geometria de multiples vistas:
 * **Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
+* Solucion al Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1xqpBevsjl0mcFNXhdNduXNPVN92xipna?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * **Video de la clase** [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * Trabajo en Clases 04 (Calibrar cámara de proyecto) [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
@@ -68,4 +71,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 18:10 by Domingo Mery
+Updated on 06-Oct-2021 at 10:55 by Domingo Mery

@@ -37,6 +37,7 @@
 * 2.1-Foto John Lennon [[jpg]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JohnLennon.jpg)
 * 2.2-Landmarks x de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_x.npy)
 * 2.2-Landmarks y de foto de John Lennon [[npy]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/JL_landmarks_y.npy)
+* 2.2-Solucion al Trabajo en Clase 01 [[Colab]](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ?usp=sharing)
 
 ### Clase 05 Lu. 30-Aug-2021:
 * 2.1-**Video de la clase** [[YouTube]](https://youtu.be/bFTwmL_oHGE)
@@ -72,6 +73,7 @@
 ### Clase 08 Mi. 08-Sep-2021:
 * 2.3-**Video de la clase** [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * 2.3-Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
+* 2.3-Solucion al Trabajo en Clase 02 [[Colab]](https://colab.research.google.com/drive/1Q4Gmt252JSXH9MZmcuVcHde3gLbZPM6H?usp=sharing)
 
 ### Clase 09 Lu. 13-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/TSgDqprBfbk)
@@ -81,6 +83,7 @@
 ### Clase 10 Mi. 15-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * 2.4-Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
+* 2.4-Solucion al Trabajo en Clase 03 [[Colab]](https://colab.research.google.com/drive/1xqpBevsjl0mcFNXhdNduXNPVN92xipna?usp=sharing)
 
 ### Clase 11 Lu. 20-Sep-2021:
 * 2.4-**Video de la clase** [[YouTube]](https://youtu.be/8M4XaoHoo_w)
@@ -114,10 +117,15 @@
 ### Clase 16 Mi. 06-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejemplo CNN - 1: Eyes vs. Noses [[Colab]](https://colab.research.google.com/drive/11W9Ha2CKe3-TEbG1vNdm6SZAjkMQEOoJ?usp=sharing)
+* 3.1-Ejemplo CNN - 2: Lunares benignos vs. malignos [[Colab]](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ?usp=sharing)
+* 3.1-Ejemplo CNN - 3: Perros vs. gatos [[Colab]](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing)
+* 3.1-Ejemplo CNN - 4: Lunares 7 clases [[Colab]](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing)
+* 3.1-Ejemplo CNN - 1: Eyes vs. Noses [[Colab]]()
 
 ### Clase 17 Mi. 13-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio Entrenamiento CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 
 ### Clase 18 Lu. 25-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -165,4 +173,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 18:10 by Domingo Mery
+Updated on 06-Oct-2021 at 10:55 by Domingo Mery
