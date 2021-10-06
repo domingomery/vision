@@ -3,8 +3,9 @@
 ### 3.1 Clasificacion de imagenes:
 * **Video de la clase** [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* **Video de la clase** [[YouTube]](https://youtu.be/RopqLlyndlU)
+* CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_CNN.pptx)
+* Como usar Pytorch para entrenar CNN [[Blog]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * Ejemplo CNN - 1: Eyes vs. Noses [[Colab]](https://colab.research.google.com/drive/11W9Ha2CKe3-TEbG1vNdm6SZAjkMQEOoJ?usp=sharing)
 * Ejemplo CNN - 2: Lunares benignos vs. malignos [[Colab]](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ?usp=sharing)
 * Ejemplo CNN - 3: Perros vs. gatos [[Colab]](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing)
@@ -33,4 +34,4 @@
 ---
 
 
-Updated on 06-Oct-2021 at 11:29 by Domingo Mery
+Updated on 06-Oct-2021 at 12:51 by Domingo Mery
