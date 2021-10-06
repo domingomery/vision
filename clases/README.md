@@ -121,6 +121,7 @@
 * 3.1-Ejemplo CNN - 2: Lunares benignos vs. malignos [[Colab]](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ?usp=sharing)
 * 3.1-Ejemplo CNN - 3: Perros vs. gatos [[Colab]](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing)
 * 3.1-Ejemplo CNN - 4: Lunares 7 clases [[Colab]](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing)
+* 3.1-Ejemplo CNN - 5: ResNet Lunares 7 [[Colab]](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing)
 
 ### Clase 17 Mi. 13-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -172,4 +173,4 @@
 ---
 
 
-Updated on 06-Oct-2021 at 11:11 by Domingo Mery
+Updated on 06-Oct-2021 at 11:29 by Domingo Mery
