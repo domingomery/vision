@@ -9,9 +9,8 @@
 * Ejemplo CNN - 2: Lunares benignos vs. malignos [[Colab]](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ?usp=sharing)
 * Ejemplo CNN - 3: Perros vs. gatos [[Colab]](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing)
 * Ejemplo CNN - 4: Lunares 7 clases [[Colab]](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing)
-* Ejemplo CNN - 1: Eyes vs. Noses [[Colab]]()
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
+* Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -33,4 +32,4 @@
 ---
 
 
-Updated on 06-Oct-2021 at 10:55 by Domingo Mery
+Updated on 06-Oct-2021 at 11:11 by Domingo Mery
