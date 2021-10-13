@@ -8,7 +8,7 @@
 % Computer Vision Course
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
-function CV01_PlotMesh3D(M,t,w)
+function CV02_PlotMesh3D(M,t,w)
 
 R = Bmv_matrixr3d(w(1),w(2),w(3));
 H = [R t; 0 0 0 1]; Mp = H*M;
