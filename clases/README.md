@@ -125,7 +125,7 @@
 * 3.1-Ejemplo CNN - 5: ResNet Lunares 7 [[Colab]](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing)
 
 ### Clase 17 Mi. 13-Oct-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * 3.1-Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 
 ### Clase 18 Lu. 25-Oct-2021:
@@ -174,4 +174,4 @@
 ---
 
 
-Updated on 06-Oct-2021 at 12:51 by Domingo Mery
+Updated on 13-Oct-2021 at 12:56 by Domingo Mery

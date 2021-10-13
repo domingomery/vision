@@ -11,7 +11,7 @@
 * Ejemplo CNN - 3: Perros vs. gatos [[Colab]](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing)
 * Ejemplo CNN - 4: Lunares 7 clases [[Colab]](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing)
 * Ejemplo CNN - 5: ResNet Lunares 7 [[Colab]](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 06-Oct-2021 at 12:51 by Domingo Mery
+Updated on 13-Oct-2021 at 12:56 by Domingo Mery
