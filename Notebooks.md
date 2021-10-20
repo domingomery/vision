@@ -39,9 +39,14 @@ Puntos y líneas en coordenadas homogéneas
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f6SRAxfAF6S8tPaU5DofWMEpx6oJ9EDj?usp=sharing) Clasificación perros vs. gatos
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Jd3ZDEuQlt5OFea4xQQkaihtG6v1YDQ?usp=sharing) Clasificación de peatones, peatones-con-bicicleta y no-peatones (tres clases)
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing) Clasificación de 7 tipos de lesiones en lunares
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing) Clasificación de 7 tipos de lesiones en lunares (usando ResNet50 preeentrenada)
+
+
+
 
 ### Análisis facial
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
@@ -56,8 +61,25 @@ Puntos y líneas en coordenadas homogéneas
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Estimación de la pose de la cabeza
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe7gj1KmpHz5GjnVA5Eo02TaXZ7uts3O?usp=sharing) Detección de mascarilla en caras usando YOLOv5
+
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Reconocimiento facial con ArcFace (face recognition, face verification) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WrG0uO31Z9pmsuhrP0UEMX9fRe_gSGWt?usp=sharing) Restauración de fotos faciales usando GAN 
+
+
+### Object detection
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgViuzkAge2QbUwfjcbUAnANb4xPXbdL?usp=sharing) Detección de ojos y boca con YOLOv5
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YClT3SsWXL2BypXgEP8T4T-zqeWjnTI_?usp=sharing) Detección de defectos en ruedas de aluminio con YOLOv5 (castings)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OPi-4ogz7ySpgLLoGQyCrpNPB7wUcOYZ?usp=sharing) Deteccción de objetos peligrosos en equipajes con YOLOv5
+
+
+### Segmentación
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Segmentación de lunares usando UNet
+
+### Generative adversarial network (GAN)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
 
 

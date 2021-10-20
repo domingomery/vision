@@ -1,3 +1,0 @@
-In this folder must be the file resnet100.onnx that can be downloaded from
-
-https://www.dropbox.com/s/o90918egkgowjsf/resnet100.onnx?dl=0
