@@ -4,8 +4,7 @@ Ejemplos usados en el curso
 
 ## Capítulo 02: Geometría en visión por computador
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)  
-Puntos y líneas en coordenadas homogéneas 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing) Puntos y líneas en coordenadas homogéneas 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ?usp=sharing) Orientación de una cara (hacia dónde mira John Lennon?)
 
@@ -77,9 +76,11 @@ Puntos y líneas en coordenadas homogéneas
 
 
 ### Segmentación
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Segmentación de lunares usando UNet
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aXBWHWTSbkpQgwrYJsubrkRlqeKQGWa?usp=sharing) Segmentación de lunares con UNet
 
 ### Generative adversarial network (GAN)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
 
 
+### Detección de anomalías
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aXBWHWTSbkpQgwrYJsubrkRlqeKQGWa?usp=sharing) Detección de anomalías con 
