@@ -42,9 +42,12 @@ Ejemplos usados en el curso
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing) Clasificación de 7 tipos de lesiones en lunares
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing) Clasificación de 7 tipos de lesiones en lunares (usando ResNet50 preeentrenada)
 
+### Transfer Learning (CNN con fine-tunning)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1htGu8nFopaxCKsnObxh7Wj3AJZRsLN0M?usp=sharing) Clasificación de pulmones normales, con Covid-19 o neumonía (usando ResNet18 preeentrenada - transfer learning)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sNf15_6aKjAsQBNdvlVoHO6uOU8R8UY8?usp=sharing) Clasificación de 7 tipos de lesiones en lunares (usando ResNet50 preeentrenada - transfer learning)
 
 
 ### Análisis facial
@@ -78,9 +81,19 @@ Ejemplos usados en el curso
 ### Segmentación
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aXBWHWTSbkpQgwrYJsubrkRlqeKQGWa?usp=sharing) Segmentación de lunares con UNet
 
+
 ### Generative adversarial network (GAN)
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mofzVUHRGJS6ocZy3k5EH_z0QHkAKXOe?usp=sharing) GAN básica para generar dígitos de MNIST
+
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtM1MZSrTawdeUon-dijO0X8z6Cgs_b5?usp=sharing) DCGAN para generar dígitos de MNIST
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tM0cMxPcVd0kwaF95tOqGqDZI-S4xZ2a?usp=sharing) SN-GAN para generar dígitos de MNIST
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxt4-I5DziPJ3pc7YaSNJUxABQ6WGyjq?usp=sharing) WGAN-GP para generar dígitos de MNIST
+
+
 
 
 ### Detección de anomalías
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aXBWHWTSbkpQgwrYJsubrkRlqeKQGWa?usp=sharing) Detección de anomalías con 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv?usp=sharing) Detección de anomalías en base de datos MNIST (0: clase normal, 1,2,..9:clase anormal) 
