@@ -77,6 +77,10 @@ Ejemplos usados en el curso
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OPi-4ogz7ySpgLLoGQyCrpNPB7wUcOYZ?usp=sharing) Deteccción de objetos peligrosos en equipajes con YOLOv5
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DoGA4RHoEE3OtlyoA-pJx-TiHY1gd5mP?usp=sharing) Deteccción general de objetos con YOLOv5 (sin entrenamiento)
+
+
+
 ### Tracking
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AfB_f8abUoRJmMx-FpVMdTBnXtV9FXGn?usp=sharing) Tracking de múltiples objetos usando YOLOv5 en videos
 
