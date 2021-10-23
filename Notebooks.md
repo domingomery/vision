@@ -70,7 +70,7 @@ Ejemplos usados en el curso
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WrG0uO31Z9pmsuhrP0UEMX9fRe_gSGWt?usp=sharing) Restauración de fotos faciales usando GAN 
 
 
-## Human Analysis
+### Human Analysis
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qjgjQ9HLoIrgsAQHmazAXf4YsvB1Bx6D?usp=sharing) Detección de pose humana usando OpenPose 
 
 
