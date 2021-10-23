@@ -79,6 +79,10 @@ Ejemplos usados en el curso
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DoGA4RHoEE3OtlyoA-pJx-TiHY1gd5mP?usp=sharing) Deteccción general de objetos con YOLOv5 (sin entrenamiento)
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jihgbPicjh9VPuQfkdBminSNT3JJWdG3?usp=sharing) OCR - Reconocimiento óptico de caractéres (con pytesseract)
+
+
+
 
 
 ### Tracking
