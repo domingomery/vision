@@ -70,6 +70,10 @@ Ejemplos usados en el curso
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WrG0uO31Z9pmsuhrP0UEMX9fRe_gSGWt?usp=sharing) Restauración de fotos faciales usando GAN 
 
 
+## Human Analysis
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qjgjQ9HLoIrgsAQHmazAXf4YsvB1Bx6D?usp=sharing) Detección de pose humana usando OpenPose 
+
+
 ### Object detection
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgViuzkAge2QbUwfjcbUAnANb4xPXbdL?usp=sharing) Detección de ojos y boca con YOLOv5
 
