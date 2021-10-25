@@ -118,21 +118,21 @@
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/RopqLlyndlU)
 * 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_CNN.pptx)
 * 3.1-Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
-* 3.1-Ejemplos CNN [[]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
+* 3.1-Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
 
 ### Clase 17 Mi. 13-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * 3.1-Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 
 ### Clase 18 Lu. 25-Oct-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 * 3.1-Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
 * 3.1-Ejemplos Object Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#object-detection)
 * 3.1-Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 
 ### Clase 19 Mi. 27-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio YOLO + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -176,4 +176,4 @@
 ---
 
 
-Updated on 23-Oct-2021 at 08:09 by Domingo Mery
+Updated on 25-Oct-2021 at 13:15 by Domingo Mery

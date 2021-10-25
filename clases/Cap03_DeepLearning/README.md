@@ -6,15 +6,15 @@
 * **Video de la clase** [[YouTube]](https://youtu.be/RopqLlyndlU)
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_CNN.pptx)
 * Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
-* Ejemplos CNN [[]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
+* Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
 * **Video de la clase** [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 * Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
 * Ejemplos Object Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#object-detection)
 * Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio YOLO + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* Ejercicio YOLO (Deteccion de Mascarilla) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_FacialAnalysis.pptx)
 * Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
@@ -36,4 +36,4 @@
 ---
 
 
-Updated on 23-Oct-2021 at 08:09 by Domingo Mery
+Updated on 25-Oct-2021 at 13:15 by Domingo Mery
