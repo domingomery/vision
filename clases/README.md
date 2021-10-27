@@ -116,7 +116,7 @@
 
 ### Clase 16 Mi. 06-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/RopqLlyndlU)
-* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_CNN.pptx)
+* 3.1-CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * 3.1-Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
 
@@ -126,7 +126,7 @@
 
 ### Clase 18 Lu. 25-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/-VcyIt0p7bA)
-* 3.1-Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_ObjectDetection.pptx)
+* 3.1-Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
 * 3.1-Ejemplos Object Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#object-detection)
 * 3.1-Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 
@@ -136,44 +136,44 @@
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_FacialAnalysis.pptx)
+* 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
 * 3.1-Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 
 ### Clase 21 Lu. 08-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio de analisis facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio de analisis facial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 
 ### Clase 22 Mi. 10-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 * 3.1-Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
 * 3.1-Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * 3.1-Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
 
 ### Clase 23 Lu. 15-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 
 ### Clase 24 Mi. 17-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 
 ### Clase 25 Lu. 22-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_Pending.pptx)
+* 4.1-Etica 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
 
 ### Clase 26 Mi. 24-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 2 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_Pending.pptx)
+* 4.1-Etica 2 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
 
 ### Clase 27 Lu. 29-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 3 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_Pending.pptx)
+* 4.1-Etica 3 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
 
 ### Clase 28 Mi. 01-Dec-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 4 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentaciones/CV04_Pending.pptx)
+* 4.1-Etica 4 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
 ---
 
 
-Updated on 27-Oct-2021 at 11:55 by Domingo Mery
+Updated on 27-Oct-2021 at 11:57 by Domingo Mery
