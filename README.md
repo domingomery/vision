@@ -132,7 +132,7 @@
 
 ### Clase 19 Mi. 27-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentaciones/CV03_Pending.pptx)
+* 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -176,4 +176,4 @@
 ---
 
 
-Updated on 25-Oct-2021 at 13:15 by Domingo Mery
+Updated on 27-Oct-2021 at 11:55 by Domingo Mery
