@@ -131,7 +131,7 @@
 * 3.1-Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 
 ### Clase 19 Mi. 27-Oct-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
 
 ### Clase 20 Mi. 03-Nov-2021:
@@ -176,4 +176,4 @@
 ---
 
 
-Updated on 27-Oct-2021 at 11:57 by Domingo Mery
+Updated on 27-Oct-2021 at 13:35 by Domingo Mery
