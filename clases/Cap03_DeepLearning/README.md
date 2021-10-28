@@ -7,6 +7,7 @@
 * CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
+* Video complementario [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * **Video de la clase** [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * Trabajo en Clases 05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/-VcyIt0p7bA)
@@ -36,4 +37,4 @@
 ---
 
 
-Updated on 27-Oct-2021 at 13:35 by Domingo Mery
+Updated on 28-Oct-2021 at 13:00 by Domingo Mery

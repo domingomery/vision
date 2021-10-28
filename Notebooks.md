@@ -51,9 +51,13 @@ Ejemplos usados en el curso
 
 
 ### Análisis facial
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
-
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2?usp=sharing) Detección de caras (face detection) 
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Reconocimiento facial (1:1) con ArcFace (face verification) 
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz0TUOu97eWAijhBV57KjERuzN-SqAGG?usp=sharing) Reconocimiento facial (1:N) con ArcFace (face recognition) 
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-kgtjGqLWM8773T9dF9nTqua27twNOLP?usp=sharing) Reconocimiento de edad y género (age and gender recognition)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13BW4jUgkqZ8whbiUcM-wDdf1eULQAgCP?usp=sharing) Reconocimiento de expresiones faciales
 
@@ -66,8 +70,6 @@ Ejemplos usados en el curso
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe7gj1KmpHz5GjnVA5Eo02TaXZ7uts3O?usp=sharing) Detección de mascarilla en caras usando YOLOv5
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nwZpQHKStD6EffAcWFBL5m3gV9Zi6yWp?usp=sharing) Detección de ojos y boca usando YOLOv5
-
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Reconocimiento facial con ArcFace (face recognition, face verification) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WrG0uO31Z9pmsuhrP0UEMX9fRe_gSGWt?usp=sharing) Restauración de fotos faciales usando GAN 
 
