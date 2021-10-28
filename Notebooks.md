@@ -104,7 +104,6 @@ Ejemplos usados en el curso
 ### Generative adversarial network (GAN)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mofzVUHRGJS6ocZy3k5EH_z0QHkAKXOe?usp=sharing) GAN básica para generar dígitos de MNIST
 
-
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtM1MZSrTawdeUon-dijO0X8z6Cgs_b5?usp=sharing) DCGAN para generar dígitos de MNIST
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tM0cMxPcVd0kwaF95tOqGqDZI-S4xZ2a?usp=sharing) SN-GAN para generar dígitos de MNIST
