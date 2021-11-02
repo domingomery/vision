@@ -134,7 +134,7 @@
 ### Clase 19 Mi. 27-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
-* 3.1-Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/1divNGrEnp4VOHDV_rw8zxJhLAM7uizb9?usp=sharing)
+* 3.1-Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/pending)
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -178,4 +178,4 @@
 ---
 
 
-Updated on 02-Nov-2021 at 14:47 by Domingo Mery
+Updated on 02-Nov-2021 at 19:51 by Domingo Mery

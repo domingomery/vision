@@ -16,7 +16,7 @@
 * Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 * **Video de la clase** [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
-* Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/1divNGrEnp4VOHDV_rw8zxJhLAM7uizb9?usp=sharing)
+* Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/pending)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
 * Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
@@ -38,4 +38,4 @@
 ---
 
 
-Updated on 02-Nov-2021 at 14:47 by Domingo Mery
+Updated on 02-Nov-2021 at 19:51 by Domingo Mery
