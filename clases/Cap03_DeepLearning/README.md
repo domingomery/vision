@@ -17,7 +17,7 @@
 * **Video de la clase** [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
 * Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/1divNGrEnp4VOHDV_rw8zxJhLAM7uizb9?usp=sharing)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/GBeisP4GBz8)
 * Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -38,4 +38,4 @@
 ---
 
 
-Updated on 03-Nov-2021 at 10:26 by Domingo Mery
+Updated on 03-Nov-2021 at 13:26 by Domingo Mery

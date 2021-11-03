@@ -137,7 +137,7 @@
 * 3.1-Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/1divNGrEnp4VOHDV_rw8zxJhLAM7uizb9?usp=sharing)
 
 ### Clase 20 Mi. 03-Nov-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/GBeisP4GBz8)
 * 3.1-Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * 3.1-Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 
@@ -178,4 +178,4 @@
 ---
 
 
-Updated on 03-Nov-2021 at 10:26 by Domingo Mery
+Updated on 03-Nov-2021 at 13:26 by Domingo Mery
