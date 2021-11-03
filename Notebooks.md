@@ -117,3 +117,6 @@ Ejemplos usados en el curso
 
 ### Detección de anomalías
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5qUxqcy7q-_5fLS8S8jWUaO9oTqfDfv?usp=sharing) Detección de anomalías en base de datos MNIST (0: clase normal, 1,2,..9:clase anormal) 
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OzyFFMCKUv_RrLvumExFIufV9qBx7TSy?usp=sharing) Contrastive Learning en base de datos CIFAR 
+
