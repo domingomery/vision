@@ -134,11 +134,11 @@
 ### Clase 19 Mi. 27-Oct-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * 3.1-Ejercicio YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1PFSKaqQKJiZRYc7ImsvjJNiHroufsZaC?usp=sharing)
-* 3.1-Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/pending)
+* 3.1-Ejercicio YOLO Solucion [[Colab]](https://colab.research.google.com/drive/1divNGrEnp4VOHDV_rw8zxJhLAM7uizb9?usp=sharing)
 
 ### Clase 20 Mi. 03-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Facial Analysis [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_FacialAnalysis.pptx)
+* 3.1-Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * 3.1-Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 
 ### Clase 21 Lu. 08-Nov-2021:
@@ -178,4 +178,4 @@
 ---
 
 
-Updated on 02-Nov-2021 at 19:51 by Domingo Mery
+Updated on 03-Nov-2021 at 10:26 by Domingo Mery
