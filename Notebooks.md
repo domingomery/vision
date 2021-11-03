@@ -65,7 +65,7 @@ Ejemplos usados en el curso
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Mesh geométrico de la cara 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Estimación de la pose de la cabeza
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jGFQK_e2fU3aW_MSwnqNpiRVeV0ku-Ac?usp=sharing) Estimación de la pose de la cabeza
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe7gj1KmpHz5GjnVA5Eo02TaXZ7uts3O?usp=sharing) Detección de mascarilla en caras usando YOLOv5
 
