@@ -20,13 +20,14 @@
 * **Video de la clase** [[YouTube]](https://youtu.be/GBeisP4GBz8)
 * Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/18U_41kq3N8)
 * Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 * Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
 * Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
+* Paper UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -38,4 +39,4 @@
 ---
 
 
-Updated on 03-Nov-2021 at 13:26 by Domingo Mery
+Updated on 08-Nov-2021 at 13:02 by Domingo Mery
