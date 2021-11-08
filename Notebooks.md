@@ -53,7 +53,7 @@ Ejemplos usados en el curso
 ### Análisis facial
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2?usp=sharing) Detección de caras (face detection) 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Reconocimiento facial (1:1) con ArcFace (face verification) 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk?usp=sharing) Reconocimiento facial (1:1) con ArcFace (face verification) 
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz0TUOu97eWAijhBV57KjERuzN-SqAGG?usp=sharing) Reconocimiento facial (1:N) con ArcFace (face recognition) 
 
