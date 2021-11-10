@@ -146,8 +146,10 @@
 * 3.1-Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
 
 ### Clase 22 Mi. 10-Nov-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Segmentation + GAN + Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/5Y9UprUtlfg)
+* 3.1-Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
+* 3.1-GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
+* 3.1-Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * 3.1-Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
 * 3.1-Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * 3.1-Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
@@ -179,4 +181,4 @@
 ---
 
 
-Updated on 08-Nov-2021 at 13:02 by Domingo Mery
+Updated on 10-Nov-2021 at 12:48 by Domingo Mery
