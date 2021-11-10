@@ -112,6 +112,7 @@ Ejemplos usados en el curso
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sxt4-I5DziPJ3pc7YaSNJUxABQ6WGyjq?usp=sharing) WGAN-GP para generar dígitos de MNIST
 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EXTVpIqE66Q5N09V6bMx7X_he0PureuU?usp=sharing) DCGAN para generar radiografías de shuriken de 64x64 pixeles
 
 
 
