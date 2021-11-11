@@ -144,6 +144,7 @@
 ### Clase 21 Lu. 08-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/18U_41kq3N8)
 * 3.1-Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
+* 3.1-Ejercicio de analisis facial (solucion) [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 
 ### Clase 22 Mi. 10-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/5Y9UprUtlfg)
@@ -157,7 +158,7 @@
 
 ### Clase 23 Lu. 15-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* 3.1-Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 24 Mi. 17-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -181,4 +182,4 @@
 ---
 
 
-Updated on 10-Nov-2021 at 12:48 by Domingo Mery
+Updated on 11-Nov-2021 at 17:49 by Domingo Mery

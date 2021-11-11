@@ -22,6 +22,7 @@
 * Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 * **Video de la clase** [[YouTube]](https://youtu.be/18U_41kq3N8)
 * Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
+* Ejercicio de analisis facial (solucion) [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 * **Video de la clase** [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
 * GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
@@ -31,7 +32,7 @@
 * Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
 * Paper UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Ejercicio GAN + Segmentation [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 ### 3.2 Deteccion de objetos (object detection):
@@ -41,4 +42,4 @@
 ---
 
 
-Updated on 10-Nov-2021 at 12:48 by Domingo Mery
+Updated on 11-Nov-2021 at 17:49 by Domingo Mery
