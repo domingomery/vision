@@ -31,7 +31,7 @@
 * Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
 * Paper UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* **Video de la clase** [[YouTube]](https://youtu.be/frJ-lCNNVbk)
 * Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 11-Nov-2021 at 17:49 by Domingo Mery
+Updated on 15-Nov-2021 at 13:29 by Domingo Mery

@@ -157,7 +157,7 @@
 * 3.1-Paper UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 
 ### Clase 23 Lu. 15-Nov-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/frJ-lCNNVbk)
 * 3.1-Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 24 Mi. 17-Nov-2021:
@@ -182,4 +182,4 @@
 ---
 
 
-Updated on 11-Nov-2021 at 17:49 by Domingo Mery
+Updated on 15-Nov-2021 at 13:29 by Domingo Mery
