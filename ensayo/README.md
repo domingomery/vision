@@ -17,7 +17,7 @@ Se debe trabajar en los grupos de 3 integrantes conformados en el curso.
 Se evalúa calidad del informe, explicaciones, redacción, ortografía. El informe debe ser un PDF de no más 8 páginas que cubra los primeros 5 puntos, más la(s) página(s) de referencias. El informe debe ser escrito en Times New Roman, Espacio Simple, Tamaño Carta, Tamaño de Letra 10,11 o 12), con márgenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdótico, sin faltas de ortografía y sin problemas de redacción. El informe debe contener al menos los 6 puntos mencionados en el enunciado. La nota será de acuerdo con las ponderaciones indicadas.
 
 ## Indicaciones para subir la tarea
-El informe deberá ser subido al Google Classroom a mas tardar el 16/dic/2021 a las 8pm.
+El informe deberá ser subido al Google Classroom a más tardar el 16/dic/2021 a las 8pm.
 
 ## Foro
 Para discusión y comentarios usar el [foro del ensayo](https://github.com/domingomery/vision/issues/6).
