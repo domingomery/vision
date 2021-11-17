@@ -161,16 +161,16 @@
 * 3.1-Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 
 ### Clase 24 Mi. 17-Nov-2021:
+* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
+* 4.1-Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+
+### Clase 25 Lu. 22-Nov-2021:
 * 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
 * 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 
-### Clase 25 Lu. 22-Nov-2021:
-* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
-
 ### Clase 26 Mi. 24-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 2 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
+* 4.1-Presentacion de Alejandro Barros [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
 
 ### Clase 27 Lu. 29-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -182,4 +182,4 @@
 ---
 
 
-Updated on 15-Nov-2021 at 13:29 by Domingo Mery
+Updated on 17-Nov-2021 at 12:59 by Domingo Mery
