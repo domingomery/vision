@@ -165,12 +165,12 @@
 * 4.1-Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 
 ### Clase 25 Lu. 22-Nov-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/aghB78S4zbU)
+* 4.1-Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
 
 ### Clase 26 Mi. 24-Nov-2021:
-* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Presentacion de Alejandro Barros [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
+* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
 
 ### Clase 27 Lu. 29-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -182,4 +182,4 @@
 ---
 
 
-Updated on 19-Nov-2021 at 19:02 by Domingo Mery
+Updated on 22-Nov-2021 at 13:19 by Domingo Mery
