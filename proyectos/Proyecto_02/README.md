@@ -14,6 +14,8 @@ Se debe trabajar en los grupos ya formados en el curso.
 ## Video de presentación (25%)
 - Se debe realizar un video de 4 minutos (+/- 10 segundos) que haga un buen resumen del proyecto, debe incluir la motivación, el problema, la solución, los resultados experimentales y las conclusiones.
 
+Ver todos los videos [aquí](https://www.dropbox.com/sh/30yynh6fesc0xkv/AAAjiy-HRS1DNAo-x8sfOLv1a?dl=0)
+
 ## Informe (25%)
 En el informe se evalua calidad del informe, explicaciones, redaccion, ortografia. El informe debe ser un PDF de no más de 8 páginas más anexos (una cara en Times New Roman, Espacio Simple, Tamano Carta, Tamano de Letra 10,11 o 12), con margenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdotico, sin faltas de ortografia y sin problemas de redaccion. El informe debe contener: 1) Motivacion: explicar la relevancia de la tarea. 2) Estado del Arte: Mostrar qué se ha hecho en este tema. 3) Solucion propuesta: explicar cada uno de los pasos y haciendo referencia al codigo. 4) Experimentos realizados: explicar los experimetos, datos y los resultados obtenidos. 5) Conclusiones: mencionar las conclusiones a las que se llego.
 
