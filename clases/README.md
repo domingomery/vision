@@ -169,8 +169,8 @@
 * 4.1-Presentacion de Alejandro Barros [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/2019-PresentacionAlejandroBarros.pdf)
 
 ### Clase 26 Mi. 24-Nov-2021:
-* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 3.1-Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* 3.1-**Video de la clase** [[YouTube]](https://youtu.be/PjwUjaRRp-s)
+* 3.1-Videos individuales por Grupo [[Videos]](https://bit.ly/3r73xku)
 
 ### Clase 27 Lu. 29-Nov-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -182,4 +182,4 @@
 ---
 
 
-Updated on 22-Nov-2021 at 13:19 by Domingo Mery
+Updated on 24-Nov-2021 at 13:34 by Domingo Mery

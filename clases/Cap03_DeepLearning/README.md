@@ -33,8 +33,8 @@
 * Paper UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * **Video de la clase** [[YouTube]](https://youtu.be/frJ-lCNNVbk)
 * Trabajo en grupos por proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
-* **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Presentación videos de Proyecto 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Pending.pptx)
+* **Video de la clase** [[YouTube]](https://youtu.be/PjwUjaRRp-s)
+* Videos individuales por Grupo [[Videos]](https://bit.ly/3r73xku)
 ### 3.2 Deteccion de objetos (object detection):
 ### 3.3 GAN:
 ### 3.4 Registro (image registration):
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 22-Nov-2021 at 13:19 by Domingo Mery
+Updated on 24-Nov-2021 at 13:34 by Domingo Mery
