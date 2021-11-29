@@ -173,8 +173,13 @@
 * 3.1-Videos individuales por Grupo [[Videos]](https://bit.ly/3r73xku)
 
 ### Clase 27 Lu. 29-Nov-2021:
-* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 3 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
+* 4.1-**Video de la clase** [[YouTube]](https://youtu.be/sNGriIvCtoY)
+* 4.1-Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* 4.1-Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
+* 4.1-Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
+* 4.1-Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
+* 4.1-Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
+* 4.1-A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 
 ### Clase 28 Mi. 01-Dec-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
@@ -182,4 +187,4 @@
 ---
 
 
-Updated on 24-Nov-2021 at 13:34 by Domingo Mery
+Updated on 29-Nov-2021 at 13:00 by Domingo Mery
