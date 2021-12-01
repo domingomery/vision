@@ -183,8 +183,10 @@
 
 ### Clase 28 Mi. 01-Dec-2021:
 * 4.1-**Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* 4.1-Etica 4 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
+* 4.1-Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
+* 4.1-Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
+* 4.1-Explicabilidad en Face Verification [[Colab]](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x?usp=sharing)
 ---
 
 
-Updated on 29-Nov-2021 at 13:00 by Domingo Mery
+Updated on 01-Dec-2021 at 11:02 by Domingo Mery

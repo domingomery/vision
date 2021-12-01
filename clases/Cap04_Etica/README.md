@@ -13,10 +13,12 @@
 * Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
 * A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * **Video de la clase** [[YouTube]](https://youtu.be/por-grabar)
-* Etica 4 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Pending.pptx)
+* Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
+* Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
+* Explicabilidad en Face Verification [[Colab]](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x?usp=sharing)
 ### 4.2 Estudios de caso:
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 29-Nov-2021 at 13:00 by Domingo Mery
+Updated on 01-Dec-2021 at 11:02 by Domingo Mery
