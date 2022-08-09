@@ -20,7 +20,7 @@ Se hace en la clase de la fecha indicada (de manera individual), se sube a Canva
 
 ## Proyectos
 
-Se sube un video a Canvas de 5:00 minutos exactos por grupo a mas tardar a las 10am de la fecha indicada. Los videos se presentan en la clase del dia indicado. Todos los integrantes del grupo deben estar presente.
+Se sube un PDF de no mas de 8 paginas y video a Canvas de 5:00 minutos exactos por grupo a mas tardar a las 10am de la fecha indicada. Los videos se presentan en la clase del dia indicado. Todos los integrantes del grupo deben estar presente.
 
 * Mi.	21-Sep	Proyecto 01: Realidad Virtual
 * Mi.	09-Nov	Proyecto 02: Deteccion y clasificacion
