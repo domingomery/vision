@@ -7,8 +7,6 @@
 * 0.1-Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-PPT - Programa del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_PresentationCurso.pptx)
 * 1.1-PPT- Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
-* 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
-* 1.2-PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
 * 2.1-PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * 2.1-Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * 0.1-Libro - Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
@@ -17,9 +15,7 @@
 * 0.1-Libro - Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
-* 1.2-Extra - Vanishing points - perspective [[Video]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
 * 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
-* 1.2-Video - Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
 * 0.1-Video - Clase grabada (2021): Programa del Curso [[YouTube]](https://youtu.be/yEfOAJRQ73k)
 * 1.1-Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
 * 2.1-Video - Clase grabada (2021): coordenadas homogeneas, lineas, puntos [[YouTube]](https://youtu.be/IS8asEOXbzs)
@@ -32,8 +28,13 @@
 ### Clase 03 Lu. 22-Aug-2022:
 * 2.1-PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
+* 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
+* 1.2-PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
 * 2.3-Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
+* 1.2-Extra - Vanishing points - perspective [[Video]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
+* 1.2-Video - Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
 * 2.1-Video - Clase grabada (2021): Transformaciones 2D, homografias [[YouTube]](https://youtu.be/bFTwmL_oHGE)
+* 1.1-Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
 
 ### Clase 04 Mi. 24-Aug-2022:
 * 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
@@ -180,4 +181,4 @@
 ---
 
 
-Updated on 08-Aug-2022 at 18:14 by Domingo Mery
+Updated on 10-Aug-2022 at 09:43 by Domingo Mery

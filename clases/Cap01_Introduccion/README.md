@@ -3,6 +3,7 @@
 ### 1.1 Definiciones:
 * PPT- Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
+* Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
 ### 1.2 Historia:
 * PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
@@ -11,4 +12,4 @@
 ---
 
 
-Updated on 08-Aug-2022 at 18:14 by Domingo Mery
+Updated on 10-Aug-2022 at 09:43 by Domingo Mery
