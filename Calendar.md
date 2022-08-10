@@ -5,7 +5,7 @@
 
 ## Ejercicios de Trabajo en Clases:
 
-Se hace en la clase de la fecha indicada (de manera individual), se sube a Canvas hasta el dia siguiente a las 9pm 
+Se hace en la clase de la fecha indicada (de manera individual). El enunciado estara disponible el dia indicado a las 9AM. El Colab realizado (archivo .ipynb) se sube a Canvas hasta el dia sub-siguiente a las 9pm. 
 
 * Mi.	17-Aug	Trabajo en Clases E01: Donde mira John Lennon
 * Mi.	24-Aug	Trabajo en Clases E02: Rectificacion Reloj
@@ -16,6 +16,9 @@ Se hace en la clase de la fecha indicada (de manera individual), se sube a Canva
 * Lu.	17-Oct	Trabajo en Clases E07: Face recognition
 * Lu.	24-Oct	Trabajo en Clases E08: Segmentation
 * Mi.	02-Nov	Trabajo en Clases E09: GAN
+
+
+A manera de ejemplo la actividad E04 estara disponible mediante un aviso de Canvas a partir del Lu. 12/09 a las 9AM, se realiza en clases de ese mismo dia (Lu. 12/09 entre 11:30 y 12:50) y se sube en Canvas a mas tardar el Mi. 14/09 a las 9PM.
 
 
 ## Proyectos
