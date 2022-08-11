@@ -17,8 +17,8 @@
 * Extra - Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 ### 2.2 Modelacion de una camara:
 * PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
-* Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-Colab - SolucionMinAx-b_LS.pdf)
-* Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-Colab - SolucionMinAx.pdf)
+* Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_SolucionMinAx-b_LS.pdf)
+* Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_SolucionMinAx.pdf)
 * Colab - Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC?usp=sharing)
 * Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
 * Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
@@ -56,14 +56,14 @@
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
-* Apuntes - Geometría en Visión por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
+* Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * Proyecto - Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
 * Video - Clase grabada (2021): Consultas sobre proyecto 01 [[YouTube]](https://youtu.be/w_GxLSFiZpA)
 ### 2.5 Proyecto:
-* PPT - Descripción del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
+* PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 ---
 
 
-Updated on 10-Aug-2022 at 09:43 by Domingo Mery
+Updated on 11-Aug-2022 at 09:49 by Domingo Mery
