@@ -21,6 +21,7 @@
 * 2.1-Video - Clase grabada (2021): coordenadas homogeneas, lineas, puntos [[YouTube]](https://youtu.be/IS8asEOXbzs)
 
 ### Clase 02 Mi. 17-Aug-2022:
+* 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1YeKeDBQRHk2Pigph9LEDPKHcdtvAoaRA?usp=sharing)
 * 2.1-Colab - Solucion al Colab - Trabajo en Clase E01 [[Colab]](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ?usp=sharing)
 * 2.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
@@ -28,7 +29,6 @@
 ### Clase 03 Lu. 22-Aug-2022:
 * 2.1-PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
-* 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 1.2-PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
 * 2.3-Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
 * 1.2-Extra - Vanishing points - perspective [[Video]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
@@ -44,8 +44,8 @@
 ### Clase 05 Lu. 29-Aug-2022:
 * 2.2-PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.3-PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-Colab - SolucionMinAx-b_LS.pdf)
-* 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-Colab - SolucionMinAx.pdf)
+* 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
+* 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 * 2.2-Colab - Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC?usp=sharing)
 * 2.2-Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
 * 2.2-Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
@@ -181,4 +181,4 @@
 ---
 
 
-Updated on 10-Aug-2022 at 09:43 by Domingo Mery
+Updated on 12-Aug-2022 at 14:29 by Domingo Mery
