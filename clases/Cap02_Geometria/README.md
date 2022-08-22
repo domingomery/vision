@@ -9,9 +9,11 @@
 * Colab - Solucion al Colab - Trabajo en Clase E01 [[Colab]](https://colab.research.google.com/drive/18N9YFx7AWlky-T34K4hPAGZtPEffV1bZ?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
 * PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
+* Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * Video - Clase grabada (2021): Transformaciones 2D, homografias [[YouTube]](https://youtu.be/bFTwmL_oHGE)
 * PPT - Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * PPT - Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
+* Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * Colab - Ejemplo Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1UZuvd88BvUt3IBIKHDZAi7ticI50TCWN?usp=sharing)
 * Colab - Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
 * Extra - Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
@@ -66,4 +68,4 @@
 ---
 
 
-Updated on 11-Aug-2022 at 09:52 by Domingo Mery
+Updated on 22-Aug-2022 at 15:01 by Domingo Mery
