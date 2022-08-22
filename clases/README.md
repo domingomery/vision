@@ -31,7 +31,7 @@
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * 1.2-PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
 * 2.3-Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
-* 2.1-Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
+* 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 1.2-Extra - Vanishing points - perspective [[Video]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
 * 1.2-Video - Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
 * 2.1-Video - Clase grabada (2021): Transformaciones 2D, homografias [[YouTube]](https://youtu.be/bFTwmL_oHGE)
@@ -62,7 +62,7 @@
 * 2.2-PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.2-PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * 2.5-PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
-* 2.1-Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
+* 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 2.1-Colab - Ejemplo Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1UZuvd88BvUt3IBIKHDZAi7ticI50TCWN?usp=sharing)
 * 2.1-Colab - Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
 * 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
@@ -93,7 +93,7 @@
 ### Clase 10 Mi. 14-Sep-2022:
 * 2.4-Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * 2.4-Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
-* 2.4-Apuntes - Geometra en Visin por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
+* 2.4-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 2.4-Proyecto - Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * 2.4-Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
 * 2.4-Video - Clase grabada (2021): Consultas sobre proyecto 01 [[YouTube]](https://youtu.be/w_GxLSFiZpA)
@@ -183,4 +183,4 @@
 ---
 
 
-Updated on 22-Aug-2022 at 15:01 by Domingo Mery
+Updated on 22-Aug-2022 at 15:14 by Domingo Mery
