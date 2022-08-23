@@ -41,8 +41,8 @@
 * 2.1-PPT - Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * 2.1-PPT - Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * 2.1-Colab - Ejemplo Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1UZuvd88BvUt3IBIKHDZAi7ticI50TCWN?usp=sharing)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
-* 2.3-Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/1Q4Gmt252JSXH9MZmcuVcHde3gLbZPM6H?usp=sharing)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/19HaTUYWb-mq5b7tYRfJ3Osg7X1nvHCGo?usp=sharing)
+* 2.3-Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/1WvyonO7lXZ8rEAgV6drCBlvQOjjIr7Eo?usp=sharing)
 * 2.2-Video - Clase grabada (2021): Transformaciones 3D, perspectiva [[YouTube]](https://youtu.be/wfcMCeb8Fzk)
 * 2.3-Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 
@@ -184,4 +184,4 @@
 ---
 
 
-Updated on 23-Aug-2022 at 15:31 by Domingo Mery
+Updated on 23-Aug-2022 at 15:53 by Domingo Mery

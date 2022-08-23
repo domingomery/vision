@@ -45,8 +45,8 @@
 ### 2.3 Homografias:
 * PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
-* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/15KWaeBx6J7_EvCwEZkFJYEXVSHxKjfYN?usp=sharing)
-* Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/1Q4Gmt252JSXH9MZmcuVcHde3gLbZPM6H?usp=sharing)
+* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/19HaTUYWb-mq5b7tYRfJ3Osg7X1nvHCGo?usp=sharing)
+* Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/1WvyonO7lXZ8rEAgV6drCBlvQOjjIr7Eo?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
 ### 2.4 Geometria de multiples vistas:
@@ -69,4 +69,4 @@
 ---
 
 
-Updated on 23-Aug-2022 at 15:31 by Domingo Mery
+Updated on 23-Aug-2022 at 15:53 by Domingo Mery
