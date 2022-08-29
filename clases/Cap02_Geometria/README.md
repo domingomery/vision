@@ -27,10 +27,11 @@
 * Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
 * Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
+* Colab - Ejemplo de Calibracion [[Colab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://colab.research.google.com/drive/1ETff1V6QiIvAXD67T7AXQUkPOV6cxUQT?usp=sharing)
+* Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
-* Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * Python - Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
 * Matlab - Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * Matlab - Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
@@ -69,4 +70,4 @@
 ---
 
 
-Updated on 29-Aug-2022 at 11:25 by Domingo Mery
+Updated on 29-Aug-2022 at 14:19 by Domingo Mery

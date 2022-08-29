@@ -59,6 +59,8 @@
 * 2.5-PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
 ### Clase 06 Mi. 31-Aug-2022:
+* 2.2-Colab - Ejemplo de Calibracion [[Colab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://colab.research.google.com/drive/1ETff1V6QiIvAXD67T7AXQUkPOV6cxUQT?usp=sharing)
+* 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * 2.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
@@ -66,7 +68,6 @@
 * 2.2-PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 2.1-Colab - Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
-* 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
 * 2.2-Python - Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
 * 2.2-Matlab - Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * 2.2-Matlab - Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
@@ -184,4 +185,4 @@
 ---
 
 
-Updated on 29-Aug-2022 at 11:25 by Domingo Mery
+Updated on 29-Aug-2022 at 14:19 by Domingo Mery
