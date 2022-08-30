@@ -29,7 +29,7 @@
 * Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * Colab - Ejemplo de Calibracion [[Colab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://colab.research.google.com/drive/1ETff1V6QiIvAXD67T7AXQUkPOV6cxUQT?usp=sharing)
 * Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
-* Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://colab.research.google.com/drive/1NC2N5NADNCCpol6QxMllKG2WR8oF8nmH?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * Python - Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
@@ -50,6 +50,7 @@
 * Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/1WvyonO7lXZ8rEAgV6drCBlvQOjjIr7Eo?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
+* Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/1PvSkF4g01REkqAfDkaUnFHFSCwKK2ekn?usp=sharing)
 ### 2.4 Geometria de multiples vistas:
 * PPT - Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
@@ -70,4 +71,4 @@
 ---
 
 
-Updated on 29-Aug-2022 at 14:19 by Domingo Mery
+Updated on 30-Aug-2022 at 14:38 by Domingo Mery

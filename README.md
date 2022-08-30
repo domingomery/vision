@@ -61,7 +61,8 @@
 ### Clase 06 Mi. 31-Aug-2022:
 * 2.2-Colab - Ejemplo de Calibracion [[Colab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://colab.research.google.com/drive/1ETff1V6QiIvAXD67T7AXQUkPOV6cxUQT?usp=sharing)
 * 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
-* 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Proyecto]](https://colab.research.google.com/drive/1NC2N5NADNCCpol6QxMllKG2WR8oF8nmH?usp=sharing)
+* 2.3-Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/1PvSkF4g01REkqAfDkaUnFHFSCwKK2ekn?usp=sharing)
 * 2.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
 ### Clase 07 Lu. 05-Sep-2022:
@@ -185,4 +186,4 @@
 ---
 
 
-Updated on 29-Aug-2022 at 14:19 by Domingo Mery
+Updated on 30-Aug-2022 at 14:38 by Domingo Mery
