@@ -88,7 +88,7 @@
 * 2.4-Video - Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
 
 ### Clase 09 Lu. 12-Sep-2022:
-* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1VOUgKx4gWK-lUm5QrHdTWLJLJBj6omVw?usp=sharing)
+* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1cSB-1igM6gKETM6a3pmbRUDNbhD0I14I?usp=sharing)
 * 2.4-Colab - Solucion al Colab - Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/1xqpBevsjl0mcFNXhdNduXNPVN92xipna?usp=sharing)
 * 2.4-Video - Clase grabada (2021): Colab - Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
@@ -186,4 +186,4 @@
 ---
 
 
-Updated on 31-Aug-2022 at 09:06 by Domingo Mery
+Updated on 12-Sep-2022 at 08:51 by Domingo Mery
