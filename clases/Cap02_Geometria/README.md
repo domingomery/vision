@@ -61,6 +61,7 @@
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
 * Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
+* Apuntes - Resumen del capitulo [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EsquemaResumen.pdf)
 * Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * Proyecto - Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
@@ -71,4 +72,4 @@
 ---
 
 
-Updated on 12-Sep-2022 at 08:51 by Domingo Mery
+Updated on 14-Sep-2022 at 14:37 by Domingo Mery
