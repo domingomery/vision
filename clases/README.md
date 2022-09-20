@@ -103,9 +103,6 @@
 * 2.4-Video - Clase grabada (2021): Consultas sobre proyecto 01 [[YouTube]](https://youtu.be/w_GxLSFiZpA)
 
 ### Clase 11 Mi. 21-Sep-2022:
-* 2.5-Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
-
-### Clase 12 Lu. 26-Sep-2022:
 * 3.1-PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * 3.1-PPT - CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Apuntes - Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
@@ -113,6 +110,9 @@
 * 3.1-Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * 3.1-Video - Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * 3.1-Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
+
+### Clase 12 Lu. 26-Sep-2022:
+* 2.5-Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 
 ### Clase 13 Mi. 28-Sep-2022:
 * 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
@@ -187,4 +187,4 @@
 ---
 
 
-Updated on 14-Sep-2022 at 14:37 by Domingo Mery
+Updated on 20-Sep-2022 at 12:42 by Domingo Mery
