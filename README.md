@@ -113,7 +113,8 @@
 
 ### Clase 12 Lu. 26-Sep-2022:
 * 2.5-Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
-* 2.5-Proyecto - Presentaciones de cada Grupo [[]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
+* 2.5-Proyecto - Auto-evaluacion (ROOM: VISION2022) [[Socrative]](http://www.socrative.com)
+* 2.5-Proyecto - Presentaciones de cada Grupo [[Videos]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
 
 ### Clase 13 Mi. 28-Sep-2022:
 * 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1U39GSwDT7mPSuje7bwnv9tY8T-rUqL-u?usp=sharing)
@@ -189,4 +190,4 @@
 ---
 
 
-Updated on 26-Sep-2022 at 11:18 by Domingo Mery
+Updated on 26-Sep-2022 at 11:22 by Domingo Mery

@@ -69,8 +69,9 @@
 ### 2.5 Proyecto:
 * PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
-* Proyecto - Presentaciones de cada Grupo [[]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
+* Proyecto - Auto-evaluacion (ROOM: VISION2022) [[Socrative]](http://www.socrative.com)
+* Proyecto - Presentaciones de cada Grupo [[Videos]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
 ---
 
 
-Updated on 26-Sep-2022 at 11:18 by Domingo Mery
+Updated on 26-Sep-2022 at 11:22 by Domingo Mery
