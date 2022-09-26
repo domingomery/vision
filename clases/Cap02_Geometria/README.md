@@ -69,7 +69,8 @@
 ### 2.5 Proyecto:
 * PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* Proyecto - Presentaciones de cada Grupo [[]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
 ---
 
 
-Updated on 20-Sep-2022 at 13:28 by Domingo Mery
+Updated on 26-Sep-2022 at 11:18 by Domingo Mery
