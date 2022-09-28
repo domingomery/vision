@@ -31,7 +31,7 @@ Ejemplos usados en el curso
 
 ## Capítulo 03: Deep learning en visión por computador
 
-### Convolutional neural netwoks (CNN)
+### Image Classification (por lo general usando CNN)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11W9Ha2CKe3-TEbG1vNdm6SZAjkMQEOoJ?usp=sharing) Clasificación ojos vs. narices
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XcP5xAIbpZbxVzQM0GVoTarGTHNFdsmJ?usp=sharing) Clasificación lunares benignos vs. malignos
@@ -41,6 +41,18 @@ Ejemplos usados en el curso
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Jd3ZDEuQlt5OFea4xQQkaihtG6v1YDQ?usp=sharing) Clasificación de peatones, peatones-con-bicicleta y no-peatones (tres clases)
 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i80Vw4TfimaEG8FYfWw8joaI0c9lm0m-?usp=sharing) Clasificación de 7 tipos de lesiones en lunares
+
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6TSPdYmLi9HGpoHFstOOZSN9hlmezsL?usp=sharing) Pretrained Models (from library TorchVision: ResNet, MobileNet, SqueezeNet, AxelNet, VGG, etc.)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wV3gSo7C5AvGht9RgQTtQG3khRTsCpkW?usp=sharing) ARLNET (Atterntion Resisual Learning blocks) (implementacion de Vipermdl/ARL)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TXbvJ7b7FjSAPQaOxh7Gws42v2ATjAZX?usp=sharing) EfficientNet (Libreria efficientnet_pytorch)
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fC911p8-oSAipmisoP-XbGIo7BgP_0_?usp=sharing) Visual Transformes (Libreria HuggingFaces)
+
+
+
 
 
 ### Transfer Learning (CNN con fine-tunning)
