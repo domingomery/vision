@@ -135,6 +135,7 @@
 ### Clase 16 Mi. 12-Oct-2022:
 * 3.1-PPT - Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * 3.1-Colab - Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
+* 3.4-Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project.pptx)
 * 3.1-Video - Clase grabada (2021): Analisis facial [[YouTube]](https://youtu.be/GBeisP4GBz8)
 
 ### Clase 17 Lu. 17-Oct-2022:
@@ -190,4 +191,4 @@
 ---
 
 
-Updated on 26-Sep-2022 at 11:22 by Domingo Mery
+Updated on 12-Oct-2022 at 11:35 by Domingo Mery

@@ -35,6 +35,7 @@
 * Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
 * Colab - Solucion al Colab - Trabajo en Clase E09 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 ### 3.4 Segmentacion:
+* Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project.pptx)
 * PPT - Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
@@ -46,4 +47,4 @@
 ---
 
 
-Updated on 26-Sep-2022 at 11:22 by Domingo Mery
+Updated on 12-Oct-2022 at 11:35 by Domingo Mery
