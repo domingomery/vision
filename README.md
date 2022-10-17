@@ -139,6 +139,10 @@
 * 3.1-Video - Clase grabada (2021): Analisis facial [[YouTube]](https://youtu.be/GBeisP4GBz8)
 
 ### Clase 17 Lu. 17-Oct-2022:
+* 3.1-PPT - Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
+* 3.1-Colab - Face Detection [[Colab]](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2?usp=sharing)
+* 3.1-Colab - Face Recognition con ArcFace [[Colab]](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk?usp=sharing)
+* 3.1-Colab - Face Recognition con AdaFace [[Colab]](https://colab.research.google.com/drive/1VOkU_E7y4lslkRcL9OP4R2CkOoOVIq9Z?usp=sharing)
 * 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
 * 3.1-Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
@@ -191,4 +195,4 @@
 ---
 
 
-Updated on 12-Oct-2022 at 11:35 by Domingo Mery
+Updated on 17-Oct-2022 at 11:23 by Domingo Mery

@@ -14,6 +14,10 @@
 * PPT - Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * Colab - Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
 * Video - Clase grabada (2021): Analisis facial [[YouTube]](https://youtu.be/GBeisP4GBz8)
+* PPT - Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
+* Colab - Face Detection [[Colab]](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2?usp=sharing)
+* Colab - Face Recognition con ArcFace [[Colab]](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk?usp=sharing)
+* Colab - Face Recognition con AdaFace [[Colab]](https://colab.research.google.com/drive/1VOkU_E7y4lslkRcL9OP4R2CkOoOVIq9Z?usp=sharing)
 * Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
 * Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
@@ -47,4 +51,4 @@
 ---
 
 
-Updated on 12-Oct-2022 at 11:35 by Domingo Mery
+Updated on 17-Oct-2022 at 11:23 by Domingo Mery
