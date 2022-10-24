@@ -154,8 +154,8 @@
 * 3.4-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 19 Lu. 24-Oct-2022:
-* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
-* 3.4-Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
+* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/18KKWX5-hCtmZcCIEWdYIhHkbZ4zBOxzZ?usp=sharing)
+* 3.4-Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/1WuvTmdhI5n8B2HImoHJiycM3_O_1XC1Q?usp=sharing)
 
 ### Clase 20 Mi. 26-Oct-2022:
 * 3.3-PPT - GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
@@ -195,4 +195,4 @@
 ---
 
 
-Updated on 17-Oct-2022 at 11:23 by Domingo Mery
+Updated on 24-Oct-2022 at 09:34 by Domingo Mery

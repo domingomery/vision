@@ -44,11 +44,11 @@
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
-* Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
-* Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
+* Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/18KKWX5-hCtmZcCIEWdYIhHkbZ4zBOxzZ?usp=sharing)
+* Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/1WuvTmdhI5n8B2HImoHJiycM3_O_1XC1Q?usp=sharing)
 ### 3.5 Proyecto:
 * Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 ---
 
 
-Updated on 17-Oct-2022 at 11:23 by Domingo Mery
+Updated on 24-Oct-2022 at 09:34 by Domingo Mery
