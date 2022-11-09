@@ -163,7 +163,8 @@
 * 3.3-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 21 Mi. 02-Nov-2022:
-* 3.3-Colab - Solucion al Colab - Trabajo en Clase E09 [[Colab]](https://colab.research.google.com/drive/1fO4UlMYSClQsu2aSbS50t6AjhGZlmidF?usp=sharing)
+* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1DDWFv9j3cKg3WmPic174W4jr74b4AvIl?usp=sharing)
+* 3.3-Colab - Solucion al Colab - Trabajo en Clase E09 [[Colab]](https://colab.research.google.com/drive/1dTFOY4ZO7tJC8nrgwhSQrceK1AbJCyVk?usp=sharing)
 
 ### Clase 22 Lu. 07-Nov-2022:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
@@ -171,27 +172,30 @@
 * 3.2-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 23 Mi. 09-Nov-2022:
-* 3.5-Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
-
-### Clase 24 Lu. 14-Nov-2022:
-* 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
-* 4.2-Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
-
-### Clase 25 Mi. 16-Nov-2022:
-* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
-* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
-
-### Clase 26 Lu. 21-Nov-2022:
 * 4.1-PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
+* 4.1-PPT - Explicabilidad usandoo MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1-Colab - Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
 * 4.1-Colab - Explicabilidad en Face Verification [[Colab]](https://colab.research.google.com/drive/1vFaJHyed5kKWaORaz5Fk6meh_duoCm-x?usp=sharing)
+* 4.1-Colab - MinPlus [[Colab]](https://colab.research.google.com/drive/1AL2aEEyZOWJTyTaspFQcry_1g0E4b4x5?usp=sharing)
+* 4.1-Paper - MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1-Paper - Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * 4.1-Video - Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
 * 4.1-Video - Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
 * 4.1-Video - Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
 * 4.1-Paper - A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * 4.1-Video - Clase grabada (2021): Explicabilidad [[YouTube]](https://youtu.be/skhnN2DJ7Xs)
+
+### Clase 24 Lu. 14-Nov-2022:
+* 3.5-Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
+
+### Clase 25 Mi. 16-Nov-2022:
+* 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* 4.2-Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
+
+### Clase 26 Lu. 21-Nov-2022:
+* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 ---
 
 
-Updated on 24-Oct-2022 at 09:34 by Domingo Mery
+Updated on 09-Nov-2022 at 13:13 by Domingo Mery

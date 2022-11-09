@@ -47,8 +47,8 @@
 * Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/18KKWX5-hCtmZcCIEWdYIhHkbZ4zBOxzZ?usp=sharing)
 * Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/1WuvTmdhI5n8B2HImoHJiycM3_O_1XC1Q?usp=sharing)
 ### 3.5 Proyecto:
-* Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
+* Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 ---
 
 
-Updated on 24-Oct-2022 at 09:34 by Domingo Mery
+Updated on 09-Nov-2022 at 13:13 by Domingo Mery
