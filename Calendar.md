@@ -32,8 +32,8 @@ Se sube un PDF de no mas de 8 paginas y video a Canvas de 5:00 minutos exactos p
 
 Por grupo se debe subir a mas tardar a las 9pm del dia indicado:
 
-* Ju.	17-Nov	Avance del Ensayo
-* Ju.	01-Dec	Ensayo Final
+* Mi.	23-Nov	Trabajo en clases sobre el Ensayo
+* Lu.	12-Dec	Entrega ensayo Final
 
 
 
