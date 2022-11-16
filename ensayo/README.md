@@ -11,13 +11,13 @@ El objetivo de esta tarea es reflexionar sobre el uso ético de la visión por c
 - 6. Referencias (10%): siguiendo las normas APA de citación, detalle adecuadamente las referencias (artículos, libros, links, etc.) usadas en el ensayo. 
 
 ## Trabajo en Grupo
-Se debe trabajar en los grupos de 3 integrantes conformados en el curso.
+Se debe trabajar en los grupos conformados en el curso.
 
 ## Evaluación del Informe
 Se evalúa calidad del informe, explicaciones, redacción, ortografía. El informe debe ser un PDF de no más 8 páginas que cubra los primeros 5 puntos, más la(s) página(s) de referencias. El informe debe ser escrito en Times New Roman, Espacio Simple, Tamaño Carta, Tamaño de Letra 10,11 o 12), con márgenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdótico, sin faltas de ortografía y sin problemas de redacción. El informe debe contener al menos los 6 puntos mencionados en el enunciado. La nota será de acuerdo con las ponderaciones indicadas.
 
 ## Indicaciones para subir la tarea
-El informe deberá ser subido al Google Classroom a más tardar el 16/dic/2021 a las 8pm.
+El informe deberá ser subido a Canvas.
 
 
 # Referencias
