@@ -15,6 +15,10 @@
 * Paper - A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
+* PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
+* PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 ### 4.2 Estudios de caso:
 * PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
@@ -22,4 +26,4 @@
 ---
 
 
-Updated on 09-Nov-2022 at 13:16 by Domingo Mery
+Updated on 03-Aug-2023 at 13:28 by Domingo Mery
