@@ -47,9 +47,8 @@
 ### 2.3 Homografias:
 * PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/1Epfohj39WdWHv3A3RJXc5VrAcHrrORLJ?usp=sharing)
-* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Colab - Solucion al Colab - Trabajo en Clase E02 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
+* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
 * Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 ### 2.4 Geometria de multiples vistas:
@@ -57,7 +56,6 @@
 * Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * Video - Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Colab - Solucion al Colab - Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
@@ -68,11 +66,7 @@
 * Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
 * Video - Clase grabada (2021): Consultas sobre proyecto 01 [[YouTube]](https://youtu.be/w_GxLSFiZpA)
 ### 2.5 Proyecto:
-* PPT - Descripcin del Proyecto 1 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
-* Proyecto - Presentacion de proyecto 01 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
-* Proyecto - Auto-evaluacion (ROOM: VISION2023) [[Socrative]](http://www.socrative.com)
-* Proyecto - Presentaciones de cada Grupo [[Videos]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://bit.ly/3BNXV2c)
 ---
 
 
-Updated on 07-Aug-2023 at 15:28 by Domingo Mery
+Updated on 07-Aug-2023 at 15:40 by Domingo Mery

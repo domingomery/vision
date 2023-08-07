@@ -27,7 +27,6 @@
 * Colab - Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
 * Video - Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 * Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Colab - Solucion al Colab - Trabajo en Clase E06 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * Colab - Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
@@ -37,18 +36,15 @@
 * Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Colab - Solucion al Colab - Trabajo en Clase E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//)
 ### 3.4 Segmentacion:
-* Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project.pptx)
 * PPT - Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#segmentaci%C3%B3n)
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Colab - Solucion al Colab - Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 ### 3.5 Proyecto:
-* Proyecto - Presentacion de proyecto 02 [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_02)
 ---
 
 
-Updated on 07-Aug-2023 at 15:28 by Domingo Mery
+Updated on 07-Aug-2023 at 15:40 by Domingo Mery
