@@ -6,16 +6,12 @@
 ### Clase 01 Ma. 08-Aug-2023:
 * 0.1-Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
 * 0.1-PPT - Programa del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_PresentationCurso.pptx)
-* 1.1-PPT- Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
-* 2.1-PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
-* 2.1-Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * 0.1-Libro - Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1-Libro - Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1-Libro - Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * 0.1-Libro - Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
-* 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * 0.1-Video - Clase grabada (2021): Programa del Curso [[YouTube]](https://youtu.be/yEfOAJRQ73k)
 * 1.1-Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
 * 2.1-Video - Clase grabada (2021): coordenadas homogeneas, lineas, puntos [[YouTube]](https://youtu.be/IS8asEOXbzs)
@@ -25,6 +21,7 @@
 * 2.1-PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * 2.1-Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
+* 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 
 ### Clase 03 Ju. 17-Aug-2023:
 * 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -196,4 +193,4 @@
 ---
 
 
-Updated on 07-Aug-2023 at 15:40 by Domingo Mery
+Updated on 07-Aug-2023 at 15:42 by Domingo Mery
