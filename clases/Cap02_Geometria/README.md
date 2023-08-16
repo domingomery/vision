@@ -5,7 +5,7 @@
 * PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
 * Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
 * Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
-* Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1HVQH4J12H04jnfcn5-wszeHMAE_A7xqC)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
 * PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
@@ -67,4 +67,4 @@
 ---
 
 
-Updated on 07-Aug-2023 at 15:42 by Domingo Mery
+Updated on 16-Aug-2023 at 09:06 by Domingo Mery

@@ -24,7 +24,7 @@
 * 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 
 ### Clase 03 Ju. 17-Aug-2023:
-* 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1HVQH4J12H04jnfcn5-wszeHMAE_A7xqC)
 * 2.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
 * 2.1-PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
@@ -193,4 +193,4 @@
 ---
 
 
-Updated on 07-Aug-2023 at 15:42 by Domingo Mery
+Updated on 16-Aug-2023 at 09:06 by Domingo Mery
