@@ -3,7 +3,7 @@
 ### 2.1 Representaciones 1D, 2D, 3D:
 * Video - Clase grabada (2021): coordenadas homogeneas, lineas, puntos [[YouTube]](https://youtu.be/IS8asEOXbzs)
 * PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
-* Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
+* Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1HVQH4J12H04jnfcn5-wszeHMAE_A7xqC)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
@@ -67,4 +67,4 @@
 ---
 
 
-Updated on 17-Aug-2023 at 10:35 by Domingo Mery
+Updated on 17-Aug-2023 at 10:38 by Domingo Mery

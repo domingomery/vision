@@ -19,7 +19,7 @@
 ### Clase 02 Ju. 10-Aug-2023:
 * 1.1-PPT- Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 2.1-PPT - Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
-* 2.1-Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/1HWjHTdYNhcXB-VkCgmY1avmyW1jFEiHX?usp=sharing)
+* 2.1-Colab - Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * 1.2-PPT - Historia (parte 1) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_1.pptx)
 * 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 
@@ -193,4 +193,4 @@
 ---
 
 
-Updated on 17-Aug-2023 at 10:35 by Domingo Mery
+Updated on 17-Aug-2023 at 10:38 by Domingo Mery
