@@ -29,7 +29,7 @@
 * 2.1-PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * 1.2-PPT - Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
-* 2.3-Colab - Ejemplo Homografias **new** [[Colab]](https://colab.research.google.com/drive/1e29gqlzvpwVGN-ULIYg7-ccgW6nCaOIR)
+* 2.3-Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 1.2-Extra - Vanishing points - perspective [[Video]](https://www.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence/v/how-one-point-linear-perspective-works)
 * 1.2-Video - Maquina de la perspectiva [[Video]](https://www.youtube.com/watch?v=8s1LzIrWbE8)
@@ -193,4 +193,4 @@
 ---
 
 
-Updated on 17-Aug-2023 at 10:25 by Domingo Mery
+Updated on 17-Aug-2023 at 10:35 by Domingo Mery

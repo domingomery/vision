@@ -44,7 +44,7 @@
 * Video - Clase grabada (2021): Reconstruccion 3D, calibracion [[YouTube]](https://youtu.be/0emGMydd39Y)
 ### 2.3 Homografias:
 * PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
-* Colab - Ejemplo Homografias **new** [[Colab]](https://colab.research.google.com/drive/1e29gqlzvpwVGN-ULIYg7-ccgW6nCaOIR)
+* Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
@@ -67,4 +67,4 @@
 ---
 
 
-Updated on 17-Aug-2023 at 10:25 by Domingo Mery
+Updated on 17-Aug-2023 at 10:35 by Domingo Mery
