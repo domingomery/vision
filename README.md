@@ -47,7 +47,7 @@
 ### Clase 05 Ju. 24-Aug-2023:
 * 2.2-PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2-PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1POKnPUkPuEJ3O8X8YxITymWlhz6xwpkI)
 * 2.3-PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
 * 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
