@@ -23,6 +23,7 @@
 * PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
+* PPT - Estimacion de parametros en modelos geometricos (RANSAC) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * Colab - Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g)
 * Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
 * Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
@@ -68,4 +69,4 @@
 ---
 
 
-Updated on 29-Aug-2023 at 10:52 by Domingo Mery
+Updated on 29-Aug-2023 at 10:55 by Domingo Mery
