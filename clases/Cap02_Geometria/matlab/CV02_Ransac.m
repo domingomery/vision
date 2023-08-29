@@ -22,7 +22,7 @@ mr = 0;
 br = 0;
 yr = mr*x+br;
 our = Inf;
-for k = 1:10000;
+for k = 1:1000;
     k1 = fix(N*rand)+1;
     k2 = k1;
     while (k2==k1);
@@ -49,7 +49,7 @@ for k = 1:10000;
         br = bs;
         yr = ys;
         our = o;
-        fprintf('mr=%7.2f br=%7.2f, m=%7.2f b=%7.2f, e=%7.2f o=%d',mr,br,m,b,mean(e),our)
+        fprintf('mr=%7.2f br=%7.2f, m=%7.2f b=%7.2f, e=%7.2f o=%d   ... ',mr,br,m,b,mean(e),our)
         enterpause
     else
         drawnow

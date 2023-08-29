@@ -47,14 +47,14 @@
 ### Clase 05 Ju. 24-Aug-2023:
 * 2.2-PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2-PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1POKnPUkPuEJ3O8X8YxITymWlhz6xwpkI)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 2.3-PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
 * 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 
 ### Clase 06 Ma. 29-Aug-2023:
-* 2.2-Colab - Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/12nyxDvok_gxEiLb8GzyxAEzrCyxnyBjC?usp=sharing)
-* 2.2-Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1Cy7_5qNvokRAbzNn5RV23PnW8MXO18KQ?usp=sharing)
+* 2.2-Colab - Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g)
+* 2.2-Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
 * 2.2-Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 
@@ -194,4 +194,4 @@
 ---
 
 
-Updated on 18-Aug-2023 at 16:27 by Domingo Mery
+Updated on 29-Aug-2023 at 10:46 by Domingo Mery
