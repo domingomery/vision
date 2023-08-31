@@ -60,6 +60,7 @@
 * 2.2-Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 
 ### Clase 07 Ju. 31-Aug-2023:
+<<<<<<< HEAD
 * 2.2-Colab - Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
 * 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/xxxxxx)
