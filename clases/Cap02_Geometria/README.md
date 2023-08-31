@@ -28,8 +28,8 @@
 * Colab - Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
 * Video - Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
-* Colab - Ejemplo de Calibracion [[Colab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria//https://colab.research.google.com/drive/1ETff1V6QiIvAXD67T7AXQUkPOV6cxUQT?usp=sharing)
-* Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1ivk9z7DW-jewT8mHfEzQgVAMKFc7KTKE?usp=sharing)
+* Colab - Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
+* Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
 * Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
@@ -69,4 +69,4 @@
 ---
 
 
-Updated on 29-Aug-2023 at 10:55 by Domingo Mery
+Updated on 31-Aug-2023 at 09:14 by Domingo Mery
