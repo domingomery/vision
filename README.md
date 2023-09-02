@@ -69,7 +69,7 @@
 ### Clase 08 Ma. 05-Sep-2023:
 * 2.2-PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
-* 2.1-Colab - Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
+* 2.1-Colab - Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg)
 * 2.2-Python - Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
 * 2.2-Matlab - Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * 2.2-Matlab - Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
