@@ -47,7 +47,8 @@
 ### Clase 05 Ju. 24-Aug-2023:
 * 2.2-PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2-PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1POKnPUkPuEJ3O8X8YxITymWlhz6xwpkI?ouid=109990478408880951919)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1DhDRQ5zJc44h6bC5mFcF77zjV5AzjS1-?ouid=109990478408880951919)
 * 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 
@@ -63,7 +64,7 @@
 * 2.2-Colab - Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
 * 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1Eq0gGud_IHhO_f_uii9es9Y8CqkeutxH)
-* 2.3-Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 2.3-Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/1Q8GWeZhW43kdn76V25mNttz2UxiNcRLE?ouid=109990478408880951919)
 * 2.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
 ### Clase 08 Ma. 05-Sep-2023:
@@ -195,4 +196,4 @@
 ---
 
 
-Updated on 12-Sep-2023 at 15:42 by Domingo Mery
+Updated on 12-Sep-2023 at 16:32 by Domingo Mery

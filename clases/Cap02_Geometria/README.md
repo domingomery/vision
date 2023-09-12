@@ -48,9 +48,10 @@
 * PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
-* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1POKnPUkPuEJ3O8X8YxITymWlhz6xwpkI?ouid=109990478408880951919)
+* Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1DhDRQ5zJc44h6bC5mFcF77zjV5AzjS1-?ouid=109990478408880951919)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/1Q8GWeZhW43kdn76V25mNttz2UxiNcRLE?ouid=109990478408880951919)
 ### 2.4 Geometria de multiples vistas:
 * PPT - Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
@@ -69,4 +70,4 @@
 ---
 
 
-Updated on 12-Sep-2023 at 15:42 by Domingo Mery
+Updated on 12-Sep-2023 at 16:32 by Domingo Mery
