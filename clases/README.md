@@ -95,13 +95,11 @@
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 
 ### Clase 11 Ju. 14-Sep-2023:
-* 2.4-Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1eP_ru4yKl9yqI9t1BUwl5Rj5suWEc2Br?usp=sharing)
+* 2.4-Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De)
 * 2.4-Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * 2.4-Apuntes - Resumen del capitulo [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EsquemaResumen.pdf)
 * 2.4-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
-* 2.4-Proyecto - Ajustes finales y Consultas sobre el proyecto [[Proyecto]](https://github.com/domingomery/vision/tree/master/proyectos/Proyecto_01)
 * 2.4-Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
-* 2.4-Video - Clase grabada (2021): Consultas sobre proyecto 01 [[YouTube]](https://youtu.be/w_GxLSFiZpA)
 
 ### Clase 12 Ju. 21-Sep-2023:
 * 3.1-PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
@@ -196,4 +194,4 @@
 ---
 
 
-Updated on 12-Sep-2023 at 16:32 by Domingo Mery
+Updated on 13-Sep-2023 at 12:48 by Domingo Mery
