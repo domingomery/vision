@@ -59,6 +59,7 @@
 * Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1WUoUpu6KJ561juJgB3odUNa6yn7uMs9G)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
+* Geometria Trifocal [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_GeometriaTrifocal.pptx)
 * Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De)
 * Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * Apuntes - Resumen del capitulo [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EsquemaResumen.pdf)
@@ -68,4 +69,4 @@
 ---
 
 
-Updated on 14-Sep-2023 at 13:14 by Domingo Mery
+Updated on 14-Sep-2023 at 13:19 by Domingo Mery

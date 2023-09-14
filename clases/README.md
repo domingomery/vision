@@ -10,7 +10,7 @@
 * 0.1-Libro - Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1-Libro - Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * 0.1-Libro - Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
-* 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
+* 0.1-Libro - Computer Vision for X-ray Testing (Mery, Pieringer, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * 0.1-Video - Clase grabada (2021): Programa del Curso [[YouTube]](https://youtu.be/yEfOAJRQ73k)
 * 1.1-Video - Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
@@ -95,11 +95,14 @@
 * 2.4-Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 
 ### Clase 11 Ju. 14-Sep-2023:
+* 2.4-Geometria Trifocal [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_GeometriaTrifocal.pptx)
 * 2.4-Colab - Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De)
 * 2.4-Matlab - Geometria Trifocal [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_TrifocalGeometry.m)
 * 2.4-Apuntes - Resumen del capitulo [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EsquemaResumen.pdf)
 * 2.4-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * 2.4-Video - Clase grabada (2021): Geometria trifocal, multiples vistas [[YouTube]](https://youtu.be/2tVptJDCDc8)
+* 0.1-Libro - Computer Vision for X-ray Testing (Mery, Pieringer, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
+* 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 
 ### Clase 12 Ju. 21-Sep-2023:
 * 3.1-PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
@@ -194,4 +197,4 @@
 ---
 
 
-Updated on 14-Sep-2023 at 13:14 by Domingo Mery
+Updated on 14-Sep-2023 at 13:19 by Domingo Mery
