@@ -8,7 +8,7 @@
 * Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * Video - Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
-* Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1vGfn6jR9eKNERj9J2bslG-CkCjJlUqqL)
 * Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * PPT - Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
@@ -47,4 +47,4 @@
 ---
 
 
-Updated on 14-Sep-2023 at 13:40 by Domingo Mery
+Updated on 25-Sep-2023 at 09:53 by Domingo Mery
