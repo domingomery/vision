@@ -24,8 +24,7 @@
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 ### 3.2 Deteccion de objetos (object detection):
 * PPT - Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
-* Colab - Ejemplos Object Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#object-detection)
-* Colab - Ejemplos Tracking [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#tracking)
+* Colab - Ejemplos Object Detection [[Colab]](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X?usp=sharing)
 * Video - Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 * Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
@@ -48,4 +47,4 @@
 ---
 
 
-Updated on 26-Sep-2023 at 13:16 by Domingo Mery
+Updated on 26-Sep-2023 at 14:32 by Domingo Mery
