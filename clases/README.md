@@ -108,7 +108,7 @@
 * 3.1-PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * 3.1-PPT - CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1-Apuntes - Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
-* 3.1-Colab - Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
+* 3.1-Colab - Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * 3.1-Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * 3.1-Video - Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * 3.1-Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
@@ -116,6 +116,7 @@
 ### Clase 13 Ma. 26-Sep-2023:
 * 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1vGfn6jR9eKNERj9J2bslG-CkCjJlUqqL)
 * 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.1-Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 
 ### Clase 14 Ju. 28-Sep-2023:
@@ -197,4 +198,4 @@
 ---
 
 
-Updated on 25-Sep-2023 at 09:53 by Domingo Mery
+Updated on 26-Sep-2023 at 13:16 by Domingo Mery

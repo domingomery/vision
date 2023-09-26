@@ -4,12 +4,13 @@
 * PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * PPT - CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * Apuntes - Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
-* Colab - Ejemplos CNN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#convolutional-neural-netwoks-cnn)
+* Colab - Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * Video - Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
 * Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1vGfn6jR9eKNERj9J2bslG-CkCjJlUqqL)
 * Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 * PPT - Facial Analysis [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_Teaching.pptx?dl=0)
 * Colab - Ejemplos Facial Analysis [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#an%C3%A1lisis-facial)
@@ -47,4 +48,4 @@
 ---
 
 
-Updated on 25-Sep-2023 at 09:53 by Domingo Mery
+Updated on 26-Sep-2023 at 13:16 by Domingo Mery
