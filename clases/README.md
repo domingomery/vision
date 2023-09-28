@@ -115,7 +115,7 @@
 
 ### Clase 13 Ma. 26-Sep-2023:
 * 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1vGfn6jR9eKNERj9J2bslG-CkCjJlUqqL)
-* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/1IwFG7qUVHtugXJpkwPZ7rSsjUZFEAG1B)
 * 3.1-Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 
@@ -197,4 +197,4 @@
 ---
 
 
-Updated on 26-Sep-2023 at 14:32 by Domingo Mery
+Updated on 28-Sep-2023 at 09:20 by Domingo Mery
