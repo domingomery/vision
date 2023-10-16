@@ -136,9 +136,9 @@
 ### Clase 17 Ma. 17-Oct-2023:
 * 3.1-PPT - Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
 * 3.1-Colab - Face Detection [[Colab]](https://colab.research.google.com/drive/1gM8JHeEkGudpAmGjiJARB-3-Sgo_EwW2?usp=sharing)
-* 3.1-Colab - Face Recognition con ArcFace [[Colab]](https://colab.research.google.com/drive/1VgmFdJ2dr0DEWuoP6AiXeW2pxNRZYPEk?usp=sharing)
-* 3.1-Colab - Face Recognition con AdaFace [[Colab]](https://colab.research.google.com/drive/1VOkU_E7y4lslkRcL9OP4R2CkOoOVIq9Z?usp=sharing)
-* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.1-Colab - Face Recognition con AdaFace [[Colab]](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY)
+* 3.1-Colab - Face Recognition BASICO con AdaFace [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
+* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1s8bUv1LKdK7wvFKFn5jpZvs_XG_l_lqO)
 * 3.1-Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
