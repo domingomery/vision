@@ -149,6 +149,7 @@
 
 ### Clase 19 Ma. 24-Oct-2023:
 * 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1U47vdsr63iR3_PVM9LkwyrtGTnKRXsX4)
+* 3.2-Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ju. 26-Oct-2023:
 * 3.3-PPT - GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
@@ -196,4 +197,4 @@
 ---
 
 
-Updated on 23-Oct-2023 at 12:26 by Domingo Mery
+Updated on 23-Oct-2023 at 13:06 by Domingo Mery

@@ -27,6 +27,7 @@
 * Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1lL6glLYmGm2Sj9s0YP43DKAfK6tTrppc)
 * Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/11suUDKrZvKRdd4GaEo0xsubNCepVaO-s)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
+* Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 * PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * Colab - Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
@@ -46,4 +47,4 @@
 ---
 
 
-Updated on 23-Oct-2023 at 12:26 by Domingo Mery
+Updated on 23-Oct-2023 at 13:06 by Domingo Mery
