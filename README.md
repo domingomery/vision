@@ -157,7 +157,7 @@
 * 3.3-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 21 Ma. 31-Oct-2023:
-* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1f8-vfvoNURiJOdXJK7lgOZsTRUJVrYZ4)
 
 ### Clase 22 Ju. 02-Nov-2023:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
