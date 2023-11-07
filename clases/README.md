@@ -161,11 +161,13 @@
 
 ### Clase 22 Ju. 02-Nov-2023:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
-* 3.2-Colab - Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
+* 3.2-Colab - Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * 3.2-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 23 Ma. 07-Nov-2023:
-* 3.3-Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//)
+* 3.3-Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
+* 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
+* 3.3-Colab - Transformers with HugginFace [[Colab]](https://colab.research.google.com/drive/12b7uen0kNNs0dHksJLp62a5tLS8Iw7bW)
 
 ### Clase 24 Ju. 09-Nov-2023:
 * 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
@@ -197,4 +199,4 @@
 ---
 
 
-Updated on 23-Oct-2023 at 13:06 by Domingo Mery
+Updated on 07-Nov-2023 at 10:49 by Domingo Mery

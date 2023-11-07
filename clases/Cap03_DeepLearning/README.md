@@ -29,14 +29,16 @@
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 * Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 * PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
-* Colab - Ejemplos Anomaly Detection [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#detecci%C3%B3n-de-anomal%C3%Adas)
+* Colab - Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 ### 3.3 GAN:
 * PPT - GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
 * Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-* Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//)
+* Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
+* Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
+* Colab - Transformers with HugginFace [[Colab]](https://colab.research.google.com/drive/12b7uen0kNNs0dHksJLp62a5tLS8Iw7bW)
 ### 3.4 Segmentacion:
 * PPT - Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
@@ -47,4 +49,4 @@
 ---
 
 
-Updated on 23-Oct-2023 at 13:06 by Domingo Mery
+Updated on 07-Nov-2023 at 10:49 by Domingo Mery
