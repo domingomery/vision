@@ -166,10 +166,13 @@
 
 ### Clase 23 Ma. 07-Nov-2023:
 * 3.3-Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
+
+### Clase 24 Ju. 09-Nov-2023:
+* 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * 3.3-Colab - Transformers with HugginFace [[Colab]](https://colab.research.google.com/drive/12b7uen0kNNs0dHksJLp62a5tLS8Iw7bW)
 
-### Clase 24 Ju. 09-Nov-2023:
+### Clase 25 Ma. 14-Nov-2023:
 * 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1-Paper - Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * 4.1-Video - Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
@@ -177,8 +180,6 @@
 * 4.1-Video - Fairness, part 2 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/9oNVFQ9llPc)
 * 4.1-Paper - A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * 4.2-Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
-
-### Clase 25 Ma. 14-Nov-2023:
 * 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 
@@ -199,4 +200,4 @@
 ---
 
 
-Updated on 07-Nov-2023 at 10:49 by Domingo Mery
+Updated on 07-Nov-2023 at 14:05 by Domingo Mery
