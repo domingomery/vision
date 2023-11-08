@@ -40,6 +40,7 @@
 * Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
+* Colab - Trabajo en Clases E10: Ejercicio de Transfrmers [[Colab]](https://colab.research.google.com/drive/1zL7EDl1EB6fVv3ZzMcoTOvFp5tYwbBUY)
 ### 3.4 Segmentacion:
 * PPT - Unet [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_UNet.pptx)
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
@@ -50,4 +51,4 @@
 ---
 
 
-Updated on 07-Nov-2023 at 16:02 by Domingo Mery
+Updated on 08-Nov-2023 at 12:29 by Domingo Mery

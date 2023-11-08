@@ -171,6 +171,7 @@
 * 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * 3.3-Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
+* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transfrmers [[Colab]](https://colab.research.google.com/drive/1zL7EDl1EB6fVv3ZzMcoTOvFp5tYwbBUY)
 
 ### Clase 25 Ma. 14-Nov-2023:
 * 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
@@ -200,4 +201,4 @@
 ---
 
 
-Updated on 07-Nov-2023 at 16:02 by Domingo Mery
+Updated on 08-Nov-2023 at 12:29 by Domingo Mery
