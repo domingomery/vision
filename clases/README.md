@@ -171,9 +171,12 @@
 * 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * 3.3-Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
-* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transfrmers [[Colab]](https://colab.research.google.com/drive/1zL7EDl1EB6fVv3ZzMcoTOvFp5tYwbBUY)
+* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1zL7EDl1EB6fVv3ZzMcoTOvFp5tYwbBUY)
 
 ### Clase 25 Ma. 14-Nov-2023:
+* 4.1-Presentacion de Danielle Zaror [[Nota]](https://actualidadjuridica.doe.cl/daniella-zaror-la-proteccion-de-la-privacidad-es-uno-de-los-mas-desafios-mas-importantes-en-cuanto-a-inteligencia-artificial/)
+
+### Clase 26 Ju. 16-Nov-2023:
 * 4.2-PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1-Paper - Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * 4.1-Video - Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
@@ -184,10 +187,10 @@
 * 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 
-### Clase 26 Ju. 16-Nov-2023:
-* 4.1-E11: Ejercicio Etica Socrative -(ROOM =VISION2023) [[Socrative]](http://www.socrative.com)
-
 ### Clase 27 Ma. 28-Nov-2023:
+* 4.1-Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
+
+### Clase 28 Ju. 30-Nov-2023:
 * 4.1-PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
 * 4.1-PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1-Colab - Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
@@ -195,10 +198,9 @@
 * 4.1-Colab - MinPlus [[Colab]](https://colab.research.google.com/drive/1AL2aEEyZOWJTyTaspFQcry_1g0E4b4x5?usp=sharing)
 * 4.1-Paper - MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1-Video - Clase grabada (2021): Explicabilidad [[YouTube]](https://youtu.be/skhnN2DJ7Xs)
-
-### Clase 28 Ju. 30-Nov-2023:
 * 4.1-PPT - Tendencias en Deep Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* 4.1-E11: Ejercicio Etica Socrative -(ROOM =VISION2023) [[Socrative]](http://www.socrative.com)
 ---
 
 
-Updated on 09-Nov-2023 at 09:13 by Domingo Mery
+Updated on 09-Nov-2023 at 09:33 by Domingo Mery
