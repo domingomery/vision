@@ -190,7 +190,7 @@
 
 ### Clase 27 Ma. 28-Nov-2023:
 * 4.1-Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
-* 4.1-Privacidad en la era de los datos [[PDF]](CV04_Privacidad.pdf)
+* 4.1-Privacidad en la era de los datos [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Privacidad.pdf)
 
 ### Clase 28 Ju. 30-Nov-2023:
 * 4.1-PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
@@ -205,4 +205,4 @@
 ---
 
 
-Updated on 28-Nov-2023 at 12:21 by Domingo Mery
+Updated on 28-Nov-2023 at 12:28 by Domingo Mery

@@ -10,7 +10,7 @@
 * PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
-* Privacidad en la era de los datos [[PDF]](CV04_Privacidad.pdf)
+* Privacidad en la era de los datos [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Privacidad.pdf)
 * PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
 * PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * Colab - Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 28-Nov-2023 at 12:21 by Domingo Mery
+Updated on 28-Nov-2023 at 12:28 by Domingo Mery
