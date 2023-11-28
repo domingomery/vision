@@ -10,6 +10,7 @@
 * PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
+* Privacidad en la era de los datos [[PDF]](CV04_Privacidad.pdf)
 * PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
 * PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * Colab - Algoritmo LIME [[Colab]](https://colab.research.google.com/drive/1Jd9yrMMgqU2zFeHjinQwV7BjL3FoeU36?usp=sharing)
@@ -20,10 +21,11 @@
 * PPT - Tendencias en Deep Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * E11: Ejercicio Etica Socrative -(ROOM =VISION2023) [[Socrative]](http://www.socrative.com)
 ### 4.2 Estudios de caso:
-* PPT - Desfios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* PPT - Desafios Eticos en Medicina con Inteligencia Artificial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 * Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 09-Nov-2023 at 09:33 by Domingo Mery
+Updated on 28-Nov-2023 at 12:21 by Domingo Mery
