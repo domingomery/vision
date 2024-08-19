@@ -5,7 +5,7 @@
 
 ### Clase 01 Ju. 08-Aug-2024:
 * 0.1-Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
-* 0.1-PPT - Programa del Curso [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_PresentationCurso.pptx)
+* 0.1-PPT - Programa del Curso [[PPT]](https://www.dropbox.com/scl/fi/cihwro0nxu3a9oxvchccb/2024-CV00_PresentationCurso.pptx?rlkey=bnd3efhy4m1ugoctyry9vc5md)
 * 0.1-Libro - Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1-Libro - Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1-Libro - Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
@@ -24,8 +24,8 @@
 * 2.1-Extra - Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 
 ### Clase 03 Ma. 20-Aug-2024:
-* 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1HVQH4J12H04jnfcn5-wszeHMAE_A7xqC)
-* 2.1-Colab - Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/1RYd9XuFGqZKOUikhCWPi3dnLJtO6d8TO)
+* 2.1-Colab - Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.1-Colab - Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.1-PPT - Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3-PPT - Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * 2.1-Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
@@ -47,8 +47,8 @@
 ### Clase 05 Ma. 27-Aug-2024:
 * 2.2-PPT - Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2-PPT - Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1POKnPUkPuEJ3O8X8YxITymWlhz6xwpkI?ouid=109990478408880951919)
-* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1DhDRQ5zJc44h6bC5mFcF77zjV5AzjS1-?ouid=109990478408880951919)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.3-Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.2-Apuntes - Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2-Apuntes - Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 
@@ -63,8 +63,8 @@
 ### Clase 07 Ma. 03-Sep-2024:
 * 2.2-Colab - Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2-Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1Eq0gGud_IHhO_f_uii9es9Y8CqkeutxH)
-* 2.3-Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/1Q8GWeZhW43kdn76V25mNttz2UxiNcRLE?ouid=109990478408880951919)
+* 2.2-Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.3-Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
 ### Clase 08 Ju. 05-Sep-2024:
@@ -88,7 +88,7 @@
 * 2.4-PPT - Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4-Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * 2.4-Video - Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
-* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1WUoUpu6KJ561juJgB3odUNa6yn7uMs9G)
+* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/ossso)
 
 ### Clase 10 Ju. 12-Sep-2024:
 * 2.4-Video - Clase grabada (2021): Colab - Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
@@ -114,8 +114,8 @@
 * 3.1-Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
 
 ### Clase 13 Ju. 03-Oct-2024:
-* 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1vGfn6jR9eKNERj9J2bslG-CkCjJlUqqL)
-* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/1IwFG7qUVHtugXJpkwPZ7rSsjUZFEAG1B)
+* 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1-Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 
@@ -125,8 +125,8 @@
 * 3.2-Video - Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 
 ### Clase 15 Ju. 10-Oct-2024:
-* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1lL6glLYmGm2Sj9s0YP43DKAfK6tTrppc)
-* 3.2-Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/11suUDKrZvKRdd4GaEo0xsubNCepVaO-s)
+* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.2-Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
 ### Clase 16 Ma. 15-Oct-2024:
@@ -137,8 +137,8 @@
 ### Clase 17 Ju. 17-Oct-2024:
 * 3.1-PPT - Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
 * 3.1-Colab - Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1s8bUv1LKdK7wvFKFn5jpZvs_XG_l_lqO)
-* 3.1-Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.1-Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
 ### Clase 18 Ma. 22-Oct-2024:
@@ -148,7 +148,7 @@
 * 3.4-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 19 Ju. 24-Oct-2024:
-* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1U47vdsr63iR3_PVM9LkwyrtGTnKRXsX4)
+* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.2-Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 29-Oct-2024:
@@ -157,7 +157,7 @@
 * 3.3-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 21 Ma. 05-Nov-2024:
-* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/ossso)
 
 ### Clase 22 Ju. 07-Nov-2024:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
@@ -171,7 +171,7 @@
 * 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * 3.3-Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
-* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1zL7EDl1EB6fVv3ZzMcoTOvFp5tYwbBUY)
+* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/ossso)
 
 ### Clase 25 Ma. 19-Nov-2024:
 * 4.1-Presentacion de Danielle Zaror [[Nota]](https://actualidadjuridica.doe.cl/daniella-zaror-la-proteccion-de-la-privacidad-es-uno-de-los-mas-desafios-mas-importantes-en-cuanto-a-inteligencia-artificial/)
@@ -205,4 +205,4 @@
 ---
 
 
-Updated on 06-Aug-2024 at 10:57 by Domingo Mery
+Updated on 19-Aug-2024 at 09:46 by Domingo Mery
