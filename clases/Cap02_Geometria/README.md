@@ -11,6 +11,7 @@
 * Apuntes - Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - John Lennon [[YouTube]](https://youtu.be/32UN03En7WU)
 * Video - Clase grabada (2021): Transformaciones 2D, homografias [[YouTube]](https://youtu.be/bFTwmL_oHGE)
+* Ejercicio Homografias [[]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EjercicioHomografias.pdf)
 * PPT - Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
 * PPT - Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * Colab - Ejemplo Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3)
@@ -69,4 +70,4 @@
 ---
 
 
-Updated on 19-Aug-2024 at 10:02 by Domingo Mery
+Updated on 22-Aug-2024 at 10:42 by Domingo Mery
