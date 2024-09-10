@@ -89,7 +89,7 @@
 * 2.4-PPT - Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4-Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1HQ0bwuRQhAEGTRJjJGZEwOHgM-VoKozX?usp=sharing)
 * 2.4-Video - Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
-* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De)
+* 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1UaH3r-dGGaKyw3a71SbGI9uMAhcr9Akj)
 * 2.4-Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
 ### Clase 10 Ju. 12-Sep-2024:
@@ -207,4 +207,4 @@
 ---
 
 
-Updated on 10-Sep-2024 at 12:11 by Domingo Mery
+Updated on 10-Sep-2024 at 12:12 by Domingo Mery
