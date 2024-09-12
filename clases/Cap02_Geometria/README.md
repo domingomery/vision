@@ -31,7 +31,7 @@
 * Video - Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * Colab - Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * Colab - Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1lm99dRStLW4YIoMxdkwoTAqSAeDhlIg8?ouid=109990478408880951919)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * PPT - Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * Python - Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
@@ -50,9 +50,9 @@
 * Colab - Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
 * Colab - Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1v0uryMc8LcQg6kWrFJuHSeqWFt7wsfGP?usp=sharing)
-* Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1r_7hejOh7k3_EboZUW4KuiyjaFVVujrN)
 * PPT - Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Solucion al Colab - Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/10OuoOr9Lh5Y0VUlrjmJkAhdu2qElitXM)
 ### 2.4 Geometria de multiples vistas:
 * PPT - Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67)
@@ -71,4 +71,4 @@
 ---
 
 
-Updated on 10-Sep-2024 at 13:51 by Domingo Mery
+Updated on 12-Sep-2024 at 13:03 by Domingo Mery
