@@ -109,6 +109,7 @@
 ### Clase 12 Ma. 01-Oct-2024:
 * 3.1-PPT - Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
 * 3.1-PPT - CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
+* 3.1-Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones#clase-20-ju-30-may-2024)
 * 3.1-Apuntes - Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
 * 3.1-Colab - Ejemplos CNN (en VisionColab) [[Colab]](https://github.com/domingomery/visioncolab#-image-classification)
 * 3.1-Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
@@ -207,4 +208,4 @@
 ---
 
 
-Updated on 02-Oct-2024 at 11:55 by Domingo Mery
+Updated on 02-Oct-2024 at 11:58 by Domingo Mery
