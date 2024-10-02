@@ -90,7 +90,6 @@
 * 2.4-Colab - Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67)
 * 2.4-Video - Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
 * 2.4-Colab - Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1UaH3r-dGGaKyw3a71SbGI9uMAhcr9Akj)
-* 2.4-Colab - Solucion Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1nbA9Z2dghNVe13Sh-vugpsdNm8DwpCKI)
 * 2.4-Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
 ### Clase 10 Ju. 12-Sep-2024:
@@ -117,7 +116,7 @@
 * 3.1-Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
 
 ### Clase 13 Ju. 03-Oct-2024:
-* 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1G6GmbWSoFpsent7kh9CXkGsBuNi8AvtR)
 * 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1-Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
@@ -208,4 +207,4 @@
 ---
 
 
-Updated on 12-Sep-2024 at 13:03 by Domingo Mery
+Updated on 02-Oct-2024 at 11:55 by Domingo Mery

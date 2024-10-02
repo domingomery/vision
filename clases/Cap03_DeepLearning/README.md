@@ -8,7 +8,7 @@
 * Video - Video complementario para CNN [[YouTube]](https://youtu.be/cN_X4-0D1wg)
 * Video - Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * Video - Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
-* Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1G6GmbWSoFpsent7kh9CXkGsBuNi8AvtR)
 * Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/ossso)
 * Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
@@ -51,4 +51,4 @@
 ---
 
 
-Updated on 12-Sep-2024 at 13:03 by Domingo Mery
+Updated on 02-Oct-2024 at 11:55 by Domingo Mery
