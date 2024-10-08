@@ -128,7 +128,7 @@
 * 3.2-Video - Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 
 ### Clase 15 Ju. 10-Oct-2024:
-* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1uXgqM7Xlvzp6-wwjioJYbG-0AMme_J4U)
 * 3.2-Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
