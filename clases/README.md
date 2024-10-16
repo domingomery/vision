@@ -118,7 +118,7 @@
 
 ### Clase 13 Ju. 03-Oct-2024:
 * 3.1-Colab - Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1G6GmbWSoFpsent7kh9CXkGsBuNi8AvtR)
-* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.1-Colab - Solucion al Colab - Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/1kFV3-O_vQuh3rkg54w6ZLqotS14xRmFy)
 * 3.1-Colab - Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 
@@ -128,8 +128,8 @@
 * 3.2-Video - Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 
 ### Clase 15 Ju. 10-Oct-2024:
-* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/ossso)
-* 3.2-Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.2-Colab - Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1uXgqM7Xlvzp6-wwjioJYbG-0AMme_J4U)
+* 3.2-Colab - Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/1UxuBJ8GbBH-gHZ6HlE6uX3gSLE0XMwU2)
 * 3.2-Video - Clase grabada (2021): Colab - Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
 ### Clase 16 Ma. 15-Oct-2024:
@@ -140,7 +140,7 @@
 ### Clase 17 Ju. 17-Oct-2024:
 * 3.1-PPT - Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
 * 3.1-Colab - Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.1-Colab - Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1PhlaaJdDYYXeZ_0fehO0NMILQd-9YZDf)
 * 3.1-Colab - Solucion al Colab - Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1-Video - Clase grabada (2021): Colab - Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
@@ -208,4 +208,4 @@
 ---
 
 
-Updated on 02-Oct-2024 at 11:58 by Domingo Mery
+Updated on 16-Oct-2024 at 10:02 by Domingo Mery
