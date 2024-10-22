@@ -47,9 +47,9 @@
 * Colab - Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
-* Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 16-Oct-2024 at 10:02 by Domingo Mery
+Updated on 22-Oct-2024 at 11:52 by Domingo Mery

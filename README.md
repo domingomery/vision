@@ -151,7 +151,7 @@
 * 3.4-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 19 Ju. 24-Oct-2024:
-* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
 * 3.2-Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 29-Oct-2024:
@@ -208,4 +208,4 @@
 ---
 
 
-Updated on 16-Oct-2024 at 10:02 by Domingo Mery
+Updated on 22-Oct-2024 at 11:52 by Domingo Mery
