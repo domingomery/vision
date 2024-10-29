@@ -48,8 +48,9 @@
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
+* Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 22-Oct-2024 at 11:52 by Domingo Mery
+Updated on 29-Oct-2024 at 10:33 by Domingo Mery

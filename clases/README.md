@@ -152,6 +152,7 @@
 
 ### Clase 19 Ju. 24-Oct-2024:
 * 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
+* 3.4-Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
 * 3.2-Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 29-Oct-2024:
@@ -208,4 +209,4 @@
 ---
 
 
-Updated on 22-Oct-2024 at 11:52 by Domingo Mery
+Updated on 29-Oct-2024 at 10:33 by Domingo Mery
