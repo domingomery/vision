@@ -152,16 +152,16 @@
 
 ### Clase 19 Ju. 24-Oct-2024:
 * 3.4-Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
-* 3.4-Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
+* 3.4-Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
 * 3.2-Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 29-Oct-2024:
 * 3.3-PPT - GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
-* 3.3-Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
+* 3.3-Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * 3.3-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 21 Ma. 05-Nov-2024:
-* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.3-Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1j2YrvX7uwQksxHSzHA4ywGwKrBMb5iWQ)
 
 ### Clase 22 Ju. 07-Nov-2024:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
@@ -209,4 +209,4 @@
 ---
 
 
-Updated on 29-Oct-2024 at 10:33 by Domingo Mery
+Updated on 04-Nov-2024 at 13:00 by Domingo Mery

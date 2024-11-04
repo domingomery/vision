@@ -34,9 +34,9 @@
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 ### 3.3 GAN:
 * PPT - GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
-* Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/vision/blob/master/Notebooks.md#generative-adversarial-network-gan)
+* Colab - Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
-* Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/ossso)
+* Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1j2YrvX7uwQksxHSzHA4ywGwKrBMb5iWQ)
 * Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
 * Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
@@ -48,9 +48,9 @@
 * Paper - UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
-* Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning//https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
+* Colab - Solucion al Colab - Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 29-Oct-2024 at 10:33 by Domingo Mery
+Updated on 04-Nov-2024 at 13:00 by Domingo Mery
