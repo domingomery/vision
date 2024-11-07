@@ -166,6 +166,8 @@
 ### Clase 22 Ju. 07-Nov-2024:
 * 3.2-PPT - Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * 3.2-Colab - Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
+* 3.2-PPT - CLIP [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CLIP.pptx)
+* 3.2-Colab - CLIP [[]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 * 3.2-Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
 ### Clase 23 Ma. 12-Nov-2024:
@@ -209,4 +211,4 @@
 ---
 
 
-Updated on 04-Nov-2024 at 13:00 by Domingo Mery
+Updated on 07-Nov-2024 at 09:06 by Domingo Mery
