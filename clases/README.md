@@ -172,6 +172,8 @@
 
 ### Clase 23 Ma. 12-Nov-2024:
 * 3.3-Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
+* 3.3-Tutorial de Transformers from Scratch by Umar Jamil [[YouTube]](https://youtu.be/bCz4OMemCcA)
+* 3.3-Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
 
 ### Clase 24 Ju. 14-Nov-2024:
 * 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
@@ -211,4 +213,4 @@
 ---
 
 
-Updated on 11-Nov-2024 at 15:28 by Domingo Mery
+Updated on 11-Nov-2024 at 16:28 by Domingo Mery

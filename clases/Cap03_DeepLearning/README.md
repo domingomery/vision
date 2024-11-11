@@ -40,6 +40,8 @@
 * Video - Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * Colab - Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1j2YrvX7uwQksxHSzHA4ywGwKrBMb5iWQ)
 * Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
+* Tutorial de Transformers from Scratch by Umar Jamil [[YouTube]](https://youtu.be/bCz4OMemCcA)
+* Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
 * Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
 * Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
@@ -55,4 +57,4 @@
 ---
 
 
-Updated on 11-Nov-2024 at 15:28 by Domingo Mery
+Updated on 11-Nov-2024 at 16:28 by Domingo Mery
