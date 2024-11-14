@@ -177,9 +177,8 @@
 
 ### Clase 24 Ju. 14-Nov-2024:
 * 3.3-Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
-* 3.3-Colab - Transformers from Scratch [[Colab]](https://colab.research.google.com/drive/1YWutz9pPYBNO0YStP9Hsm2-7VSoHAOmX)
-* 3.3-Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ)
-* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.3-Colab - Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
+* 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1iL4tKtEKOhHsXHP0pnA4J8Y99d4lP9Kr)
 
 ### Clase 25 Ma. 19-Nov-2024:
 * 4.1-Presentacion de Danielle Zaror [[Nota]](https://actualidadjuridica.doe.cl/daniella-zaror-la-proteccion-de-la-privacidad-es-uno-de-los-mas-desafios-mas-importantes-en-cuanto-a-inteligencia-artificial/)
@@ -213,4 +212,4 @@
 ---
 
 
-Updated on 11-Nov-2024 at 16:28 by Domingo Mery
+Updated on 14-Nov-2024 at 09:28 by Domingo Mery
