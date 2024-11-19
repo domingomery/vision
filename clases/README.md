@@ -181,7 +181,8 @@
 * 3.3-Colab - Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1iL4tKtEKOhHsXHP0pnA4J8Y99d4lP9Kr)
 
 ### Clase 25 Ma. 19-Nov-2024:
-* 4.1-Presentacion de Danielle Zaror [[Nota]](https://actualidadjuridica.doe.cl/daniella-zaror-la-proteccion-de-la-privacidad-es-uno-de-los-mas-desafios-mas-importantes-en-cuanto-a-inteligencia-artificial/)
+* 4.1-Lo Bueno lo Malo y lo Feo de la IA [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04-LoBuenoMaloFeo-IA.pptx)
+* 4.1-Descripcion del Ensayo (T03) [[Canvas]](https://cursos.canvas.uc.cl/courses/77947/assignments/427654)
 
 ### Clase 26 Ju. 21-Nov-2024:
 * 4.2-PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
@@ -212,4 +213,4 @@
 ---
 
 
-Updated on 14-Nov-2024 at 09:28 by Domingo Mery
+Updated on 19-Nov-2024 at 10:50 by Domingo Mery

@@ -1,7 +1,8 @@
 
 # Capitulo 04: Etica
 ### 4.1 Motivacion:
-* Presentacion de Danielle Zaror [[Nota]](https://actualidadjuridica.doe.cl/daniella-zaror-la-proteccion-de-la-privacidad-es-uno-de-los-mas-desafios-mas-importantes-en-cuanto-a-inteligencia-artificial/)
+* Lo Bueno lo Malo y lo Feo de la IA [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04-LoBuenoMaloFeo-IA.pptx)
+* Descripcion del Ensayo (T03) [[Canvas]](https://cursos.canvas.uc.cl/courses/77947/assignments/427654)
 * Paper - Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * Video - Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
 * Video - Fairness, part 1 - Moritz Hardt - MLSS 2020 [[YouTube]](https://youtu.be/Igq_S_7IfOU)
@@ -28,4 +29,4 @@
 ---
 
 
-Updated on 14-Nov-2024 at 09:28 by Domingo Mery
+Updated on 19-Nov-2024 at 10:50 by Domingo Mery
