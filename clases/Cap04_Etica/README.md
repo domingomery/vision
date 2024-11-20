@@ -23,10 +23,9 @@
 * E11: Ejercicio Etica Socrative -(ROOM =VISION2023) [[Socrative]](http://www.socrative.com)
 ### 4.2 Estudios de caso:
 * PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
-* PPT - Desafios Eticos en Medicina con Inteligencia Artificial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 * Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 20-Nov-2024 at 16:12 by Domingo Mery
+Updated on 20-Nov-2024 at 16:15 by Domingo Mery
