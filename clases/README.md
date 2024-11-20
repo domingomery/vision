@@ -185,6 +185,8 @@
 * 4.1-Descripcion del Ensayo (T03) [[Canvas]](https://cursos.canvas.uc.cl/courses/77947/assignments/427654)
 
 ### Clase 26 Ju. 21-Nov-2024:
+* 3.3-Stable Difussion [[]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_StableDiffusion.pptx)
+* 3.3-Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
 * 4.2-PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1-Paper - Fairness and Machine Learning: Barocas,Hardt, Narayanan [[Book]](https://fairmlbook.org/pdf/fairmlbook.pdf)
 * 4.1-Video - Ethics in AI: A Challenging Task - Ricardo Baeza-Yates [[YouTube]](https://youtu.be/rMU9pJCyJYY)
@@ -193,10 +195,10 @@
 * 4.1-Paper - A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * 4.2-PPT - Desafios Eticos en Medicina con Inteligencia Artificial [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 * 4.2-Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
-* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
-* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 
 ### Clase 27 Ma. 26-Nov-2024:
+* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * 4.1-Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
 * 4.1-Privacidad en la era de los datos (Jocelyn Dunstan) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Privacidad.pdf)
 
@@ -213,4 +215,4 @@
 ---
 
 
-Updated on 19-Nov-2024 at 10:50 by Domingo Mery
+Updated on 20-Nov-2024 at 16:12 by Domingo Mery
