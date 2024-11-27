@@ -196,22 +196,23 @@
 * 4.2-Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 
 ### Clase 27 Ma. 26-Nov-2024:
-* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
-* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
-* 4.1-Presentacion de Jocelyn Dunstan [[Nota]](https://www.ing.uc.cl/noticias/modelo-de-inteligencia-artificial-reduciria-las-listas-de-espera-en-salud/)
-* 4.1-Privacidad en la era de los datos (Jocelyn Dunstan) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Privacidad.pdf)
+* 4.2-PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* 4.1-Federated / Swarm Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Federated.pptx)
+* 4.1-PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
+* 4.1-Video - Clase grabada (2021): Explicabilidad [[YouTube]](https://youtu.be/skhnN2DJ7Xs)
 
 ### Clase 28 Ju. 28-Nov-2024:
-* 4.1-PPT - Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
+* 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
+* 4.2-PPT - Buenas Practicas [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1-PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
-* 4.1-Federated / Swarm Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Federated.pptx)
-* 4.1-Challenges [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Challenges.pptx)
-* 4.1-Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
-* 4.1-Colab - MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
 * 4.1-Paper - MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
-* 4.1-Video - Clase grabada (2021): Explicabilidad [[YouTube]](https://youtu.be/skhnN2DJ7Xs)
-* 4.1-E11: Ejercicio Etica Socrative -(ROOM =VISION2023) [[Socrative]](http://www.socrative.com)
+* 4.1-Colab - MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
+* 4.1-Challenges [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Challenges.pptx)
+* 4.2-E10 - Socrative > Room: VISION2024 [[Socrative]](www.socrative.com)
+* 4.1-Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
+* 4.1-PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
+* 4.1-Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
 ---
 
 
-Updated on 20-Nov-2024 at 16:15 by Domingo Mery
+Updated on 27-Nov-2024 at 10:42 by Domingo Mery
