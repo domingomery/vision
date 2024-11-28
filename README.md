@@ -203,7 +203,7 @@
 
 ### Clase 28 Ju. 28-Nov-2024:
 * 4.1-PPT - Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
-* 4.2-PPT - Buenas Practicas [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* 4.2-PPT - Buenas Practicas [[PPT]](CV04_GoodPractices.pptx)
 * 4.1-PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1-Paper - MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1-Colab - MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
@@ -215,4 +215,4 @@
 ---
 
 
-Updated on 28-Nov-2024 at 09:48 by Domingo Mery
+Updated on 28-Nov-2024 at 12:18 by Domingo Mery

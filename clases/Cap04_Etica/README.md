@@ -23,10 +23,10 @@
 * PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 * PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
-* PPT - Buenas Practicas [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
+* PPT - Buenas Practicas [[PPT]](CV04_GoodPractices.pptx)
 * E10 - Socrative > Room: VISION2024 [[Socrative]](www.socrative.com)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 28-Nov-2024 at 09:48 by Domingo Mery
+Updated on 28-Nov-2024 at 12:18 by Domingo Mery
