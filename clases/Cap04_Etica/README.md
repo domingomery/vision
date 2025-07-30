@@ -19,6 +19,7 @@
 * Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
+* Ayudantia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 ### 4.2 Estudios de caso:
 * PPT - Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * Video - Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
@@ -29,4 +30,4 @@
 ---
 
 
-Updated on 30-Jul-2025 at 16:00 by Domingo Mery
+Updated on 30-Jul-2025 at 16:04 by Domingo Mery

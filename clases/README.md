@@ -212,7 +212,10 @@
 * 4.1 Video - Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * 4.1 PPT - Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1 Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
+
+### Clase 29 Ju. 27-Nov-2025:
+* 4.1 Ayudantia [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 ---
 
 
-Updated on 30-Jul-2025 at 16:00 by Domingo Mery
+Updated on 30-Jul-2025 at 16:04 by Domingo Mery
