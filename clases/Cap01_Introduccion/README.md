@@ -2,7 +2,7 @@
 # Capitulo 01: Introduccion
 ### 1.1 Definiciones:
 * > Video: Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
-* **INTRODUCCIÓN* 
+* **INTRODUCCIÓN** 
 * > PPT: Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * **GEOEMETRÍA** 
 * > Video: Clase grabada (2021): Definiciones, historia, perspectiva [[YouTube]](https://youtu.be/fzVcnn5cxCA)
@@ -14,4 +14,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 10:46 by Domingo Mery
+Updated on 06-Aug-2025 at 15:29 by Domingo Mery

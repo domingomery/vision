@@ -30,9 +30,9 @@
 * > Video: Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 * > PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * > PPT: Buenas Practicas [[PPT]](CV04_GoodPractices.pptx)
-* > E10 - Quiz (Canvas) [[Canvas]](www.socrative.com)
+* > E11 - Quiz (Canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/92380/assignments#)
 ### 4.3 Ensayo:
 ---
 
 
-Updated on 06-Aug-2025 at 10:46 by Domingo Mery
+Updated on 06-Aug-2025 at 15:29 by Domingo Mery

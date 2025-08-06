@@ -3,7 +3,7 @@
 ### 0.1 Presentacion del curso:
 * **PRESENTACIÓN DEL CURSO** 
 * > Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
-* > PPT: Programa del Curso [[PPT]](https://www.dropbox.com/scl/fi/cihwro0nxu3a9oxvchccb/2024-CV00_PresentationCurso.pptx?rlkey=bnd3efhy4m1ugoctyry9vc5md)
+* > PPT: Programa del Curso [[PPT]](https://www.dropbox.com/scl/fi/s76vsm8d24pei7zqa8tv9/2025-CV00_PresentationCurso.pptx?rlkey=w7pth5252r8okb78l415ms42u)
 * **Bibliografía** 
 * > Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * > Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 10:46 by Domingo Mery
+Updated on 06-Aug-2025 at 15:29 by Domingo Mery

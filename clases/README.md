@@ -6,7 +6,7 @@
 ### Clase 01 Ju. 07-Aug-2025:
 * 0.1 **PRESENTACIÓN DEL CURSO**
 * 0.1 &nbsp; &nbsp; &nbsp;  Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap00_Lineas_Generales/program/CV00_ProgramaCurso.pdf)
-* 0.1 &nbsp; &nbsp; &nbsp;  PPT: Programa del Curso [[PPT]](https://www.dropbox.com/scl/fi/cihwro0nxu3a9oxvchccb/2024-CV00_PresentationCurso.pptx?rlkey=bnd3efhy4m1ugoctyry9vc5md)
+* 0.1 &nbsp; &nbsp; &nbsp;  PPT: Programa del Curso [[PPT]](https://www.dropbox.com/scl/fi/s76vsm8d24pei7zqa8tv9/2025-CV00_PresentationCurso.pptx?rlkey=w7pth5252r8okb78l415ms42u)
 * 0.1 **Bibliografía**
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -19,7 +19,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): coordenadas homogeneas, lineas, puntos [[YouTube]](https://youtu.be/IS8asEOXbzs)
 
 ### Clase 02 Ma. 12-Aug-2025:
-* 1.1 **INTRODUCCIÓN*
+* 1.1 **INTRODUCCIÓN**
 * 1.1 &nbsp; &nbsp; &nbsp;  PPT: Definiciones [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_Definitions.pptx)
 * 1.1 **GEOEMETRÍA**
 * 2.1 &nbsp; &nbsp; &nbsp;  PPT: Coordenadas homogeneas: puntos, lineas, planos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_PointsLinesPlanes.pptx)
@@ -29,7 +29,7 @@
 
 ### Clase 03 Ju. 14-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
-* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1V4RGaLXy3z0kGhFdXQ63Rqdk15I-vRod)
+* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp;  PPT: Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
@@ -55,8 +55,8 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1v0uryMc8LcQg6kWrFJuHSeqWFt7wsfGP?usp=sharing)
-* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1r_7hejOh7k3_EboZUW4KuiyjaFVVujrN)
+* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/osso)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 
@@ -73,8 +73,8 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1lm99dRStLW4YIoMxdkwoTAqSAeDhlIg8?ouid=109990478408880951919)
-* 2.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/10OuoOr9Lh5Y0VUlrjmJkAhdu2qElitXM)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* 2.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
 ### Clase 08 Ma. 02-Sep-2025:
@@ -100,7 +100,8 @@
 * 2.4 &nbsp; &nbsp; &nbsp;  PPT: Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67)
 * 2.4 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
-* 2.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1UaH3r-dGGaKyw3a71SbGI9uMAhcr9Akj)
+* 2.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 2.4 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * 2.4 &nbsp; &nbsp; &nbsp;  PPT: Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
 ### Clase 10 Ma. 09-Sep-2025:
@@ -132,8 +133,8 @@
 
 ### Clase 13 Ma. 30-Sep-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1G6GmbWSoFpsent7kh9CXkGsBuNi8AvtR)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/1kFV3-O_vQuh3rkg54w6ZLqotS14xRmFy)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
 
@@ -145,8 +146,8 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1uXgqM7Xlvzp6-wwjioJYbG-0AMme_J4U)
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/1UxuBJ8GbBH-gHZ6HlE6uX3gSLE0XMwU2)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
 ### Clase 16 Ju. 09-Oct-2025:
@@ -159,7 +160,7 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1PhlaaJdDYYXeZ_0fehO0NMILQd-9YZDf)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
@@ -172,8 +173,8 @@
 
 ### Clase 19 Ju. 23-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1_kqrR4tTDgeztNiu_sijkSLIPTnf8Wmb)
-* 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/1mjdv0HJgT9XMkJEa1VbKKXSau6pg0pYt)
+* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 28-Oct-2025:
@@ -184,7 +185,8 @@
 
 ### Clase 21 Ju. 30-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1j2YrvX7uwQksxHSzHA4ywGwKrBMb5iWQ)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 
 ### Clase 22 Ma. 04-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
@@ -204,7 +206,8 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1iL4tKtEKOhHsXHP0pnA4J8Y99d4lP9Kr)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E10 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 
 ### Clase 25 Ju. 13-Nov-2025:
 * 4.1 **ÉTICA**
@@ -239,7 +242,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Paper: MinPlus [[Paper]](https://openaccess.thecvf.com/content/CVPR2022W/Biometrics/papers/Mery_True_Black-Box_Explanation_in_Facial_Analysis_CVPRW_2022_paper.pdf)
 * 4.1 &nbsp; &nbsp; &nbsp;  Python: MinPlus [[Colab]](https://colab.research.google.com/drive/1tDicgSXk0iEnsTA208Od4j9WUnxSFATO)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Challenges [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Challenges.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp;  E10 - Quiz (Canvas) [[Canvas]](www.socrative.com)
+* 4.2 &nbsp; &nbsp; &nbsp;  E11 - Quiz (Canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/92380/assignments#)
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1 Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
@@ -249,4 +252,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 10:46 by Domingo Mery
+Updated on 06-Aug-2025 at 15:29 by Domingo Mery

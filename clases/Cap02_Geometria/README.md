@@ -6,7 +6,7 @@
 * > Python: Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * > Apuntes: Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * **GEOEMETRÍA (cont.)** 
-* > Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1V4RGaLXy3z0kGhFdXQ63Rqdk15I-vRod)
+* > Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxx)
 * > Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * > PPT: Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * > Apuntes: Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
@@ -40,7 +40,7 @@
 * > Video: Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * > Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * > Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* > Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1lm99dRStLW4YIoMxdkwoTAqSAeDhlIg8?ouid=109990478408880951919)
+* > Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * > PPT: Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * > Python: Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
@@ -58,15 +58,16 @@
 * > PPT: Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * > Python: Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Rectificacion geometrica [[YouTube]](https://youtu.be/_6ps8YMsWc8)
-* > Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1v0uryMc8LcQg6kWrFJuHSeqWFt7wsfGP?usp=sharing)
-* > Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/1r_7hejOh7k3_EboZUW4KuiyjaFVVujrN)
+* > Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxx)
+* > Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/osso)
 * > PPT: Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* > Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/10OuoOr9Lh5Y0VUlrjmJkAhdu2qElitXM)
+* > Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 ### 2.4 Geometria de multiples vistas:
 * > PPT: Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * > Python: Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67)
 * > Video: Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
-* > Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1UaH3r-dGGaKyw3a71SbGI9uMAhcr9Akj)
+* > Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/xxxx)
+* > Python: Solución al Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * > PPT: Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
 * > PPT: Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
@@ -80,4 +81,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 10:46 by Domingo Mery
+Updated on 06-Aug-2025 at 15:29 by Domingo Mery
