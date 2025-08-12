@@ -29,7 +29,7 @@
 
 ### Clase 03 Ju. 14-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
-* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1knJgA6L62IgbMOsqjhbtHxLOsNHICnJn?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp;  PPT: Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
@@ -252,4 +252,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 15:29 by Domingo Mery
+Updated on 12-Aug-2025 at 13:47 by Domingo Mery

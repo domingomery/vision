@@ -6,7 +6,7 @@
 * > Python: Ejemplo puntos  y lineas [[Colab]](https://colab.research.google.com/drive/146tZRDi1aMUcAEUHICZm9u5n5tkYe8P2)
 * > Apuntes: Ejercicios puntos  y lineas [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_EjePuntosLineas.pdf)
 * **GEOEMETRÍA (cont.)** 
-* > Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/xxxx)
+* > Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1knJgA6L62IgbMOsqjhbtHxLOsNHICnJn?usp=sharing)
 * > Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * > PPT: Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * > Apuntes: Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
@@ -81,4 +81,4 @@
 ---
 
 
-Updated on 06-Aug-2025 at 15:29 by Domingo Mery
+Updated on 12-Aug-2025 at 13:47 by Domingo Mery
