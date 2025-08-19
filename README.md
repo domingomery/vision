@@ -55,7 +55,7 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1w0Q0Rki1S4F9sYcBnmGhW-et7FEBJBLF?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/osso)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
