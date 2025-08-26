@@ -73,7 +73,7 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara [[Colab]](https://colab.research.google.com/drive/1ecSa61hoWgsgfbIyISshOmi5tKI3oZ0E?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
