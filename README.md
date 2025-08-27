@@ -30,7 +30,7 @@
 ### Clase 03 Ju. 14-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Donde mira John Lennon [[Colab]](https://colab.research.google.com/drive/1knJgA6L62IgbMOsqjhbtHxLOsNHICnJn?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase: E01 - Soluucion [[Colab]](https://colab.research.google.com/drive/1sL1eKDIR5CBX5RNqwA4BiVN4c8WtKNfD?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 2D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation2D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp;  PPT: Homografias [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Homography.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Apuntes: Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
@@ -44,8 +44,6 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Homografias [[Colab]](https://colab.research.google.com/drive/10D7Q7r11MuWL2-fNRt2lSqCpSVkvytin)
 * 2.1 &nbsp; &nbsp; &nbsp;  Apuntes: Ejercicio Homografias [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EjercicioHomografias.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
-* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Transformaciones 3D [[Colab]](https://colab.research.google.com/drive/1ntbUB7Dc3is7fxu3Z6at46DdOeK-nJO3)
 * 1.2 &nbsp; &nbsp; &nbsp;  PPT: Historia (parte 2) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap01_Introduccion/presentations/CV01_History_2.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Transformaciones 3D, perspectiva [[YouTube]](https://youtu.be/wfcMCeb8Fzk)
@@ -53,15 +51,17 @@
 
 ### Clase 05 Ju. 21-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
+* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 3D-3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D.pptx)
+* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Transformaciones 3D-2D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Transformation3D2D.pptx)
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj [[Colab]](https://colab.research.google.com/drive/1w0Q0Rki1S4F9sYcBnmGhW-et7FEBJBLF?usp=sharing)
-* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/osso)
+* 2.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E02: Rectificacion de reloj SOLUCION [[Colab]](https://colab.research.google.com/drive/18kVSEnN9SSNCfRLzbJrj61L_JEHV4iyi?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion minimos cuadrados [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx-b_LS.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Demostracion descomposicion SVD [[Apuntes]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02-SolucionMinAx.pdf)
 
 ### Clase 06 Ma. 26-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
+* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos (RANSAC) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g)
 * 2.3 &nbsp; &nbsp; &nbsp;  PPT: Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
@@ -73,7 +73,7 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
-* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara [[Colab]](https://colab.research.google.com/drive/1ecSa61hoWgsgfbIyISshOmi5tKI3oZ0E?usp=sharing)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1ecSa61hoWgsgfbIyISshOmi5tKI3oZ0E?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 
@@ -252,4 +252,4 @@
 ---
 
 
-Updated on 12-Aug-2025 at 13:47 by Domingo Mery
+Updated on 27-Aug-2025 at 12:45 by Domingo Mery
