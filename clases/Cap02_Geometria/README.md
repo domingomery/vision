@@ -35,11 +35,12 @@
 * > PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * > PPT: Estimacion de parametros en modelos geometricos (RANSAC) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * > Python: Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g)
+* > Video: Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * > Python: Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
 * > Video: Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* > Video: Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 * > Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * > Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
+* > Python: Ejemplo Calibracion No Lineal [[Colab]](https://colab.research.google.com/drive/1zDpc80ujX06jeKeC3obch3GsrucpLzQd?usp=sharing)
 * > Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1ecSa61hoWgsgfbIyISshOmi5tKI3oZ0E?usp=sharing)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
 * > PPT: Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
@@ -81,4 +82,4 @@
 ---
 
 
-Updated on 27-Aug-2025 at 12:45 by Domingo Mery
+Updated on 28-Aug-2025 at 12:08 by Domingo Mery

@@ -64,15 +64,16 @@
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Calibracion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Calibration.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de parametros en modelos geometricos (RANSAC) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EstimacionParametros.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Estimacion de una recta con RANSAC [[Colab]](https://colab.research.google.com/drive/1ldp2iAmeHhkAP6iexp50v4vKtHziDc_g)
-* 2.3 &nbsp; &nbsp; &nbsp;  PPT: Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Estimacion de parametros [[YouTube]](https://youtu.be/8M4XaoHoo_w)
 
 ### Clase 07 Ju. 28-Aug-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
+* 2.3 &nbsp; &nbsp; &nbsp;  PPT: Mosaicos [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Mosaicos.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Mosaicos con SIFT [[Colab]](https://colab.research.google.com/drive/1LCOOdZDg5KN10ZBVcnyw1Xt_QUoIcCGs)
+* 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase sobre SIFT (2021) de Reconocimieto de Patrones [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Calibracion [[Colab]](https://colab.research.google.com/drive/1IMUT3diQ3be7DOV2Vp4xbT831rFtfEH5)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Calibracion Pro [[Colab]](https://colab.research.google.com/drive/1c1RFOMTk5sNxoTyFieeBEG4BLxZSv_NI)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Calibracion No Lineal [[Colab]](https://colab.research.google.com/drive/1zDpc80ujX06jeKeC3obch3GsrucpLzQd?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03: Calibrar camara de proyecto [[Colab]](https://colab.research.google.com/drive/1ecSa61hoWgsgfbIyISshOmi5tKI3oZ0E?usp=sharing)
 * 2.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E03 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Calibracion [[YouTube]](https://youtu.be/qLRzigdAWkE)
@@ -252,4 +253,4 @@
 ---
 
 
-Updated on 27-Aug-2025 at 12:45 by Domingo Mery
+Updated on 28-Aug-2025 at 12:08 by Domingo Mery
