@@ -82,7 +82,7 @@
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Reconstruccion 3D [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Reconstruction3D.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Apuntes: Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp;  Python: Calibracion Python [[Python]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)
 * 2.2 &nbsp; &nbsp; &nbsp;  Matlab: Ejemplo 3D de una piramide [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_3DPyramid.m)
 * 2.2 &nbsp; &nbsp; &nbsp;  Matlab: Ejemplo perspectiva (GUI) [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_Perspective.m)
@@ -253,4 +253,4 @@
 ---
 
 
-Updated on 28-Aug-2025 at 12:08 by Domingo Mery
+Updated on 01-Sep-2025 at 10:26 by Domingo Mery

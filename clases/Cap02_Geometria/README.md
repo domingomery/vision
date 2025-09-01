@@ -22,7 +22,7 @@
 * **GEOEMETRÍA (cont.)** 
 * **GEOEMETRÍA (cont.)** 
 * > Apuntes: Geometria en Vision por Computador [[PDF]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/2004-ApuntesVision.pdf)
-* > Python: Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1yZZA3IZ2NB9bK8QMKL4_xQZkBNTNCUEz?usp=sharing)
+* > Python: Ejemplo Reconstruccion 3D (python) [[Colab]](https://colab.research.google.com/drive/1YF6EUdH8PhAaPfmGfvBZ6HMKTQUcvBlg?usp=sharing)
 * > Apuntes: Ejercicios de transformaciones 2D y 3D [[Guia de Ejercicio]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/practice/CV02_Transformaciones.pdf)
 * **GEOEMETRÍA (cont.)** 
 * **GEOEMETRÍA (cont.)** 
@@ -82,4 +82,4 @@
 ---
 
 
-Updated on 28-Aug-2025 at 12:08 by Domingo Mery
+Updated on 01-Sep-2025 at 10:26 by Domingo Mery
