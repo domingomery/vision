@@ -101,7 +101,7 @@
 * 2.4 &nbsp; &nbsp; &nbsp;  PPT: Geometria Epipolar [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_EpipolarGeometry.pptx)
 * 2.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplo geometria epipolar [[Colab]](https://colab.research.google.com/drive/1q7bruJ-XaXKnmIoDuPF1AjEBmlq4XC67)
 * 2.4 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Geometria epipolar [[YouTube]](https://youtu.be/TSgDqprBfbk)
-* 2.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 2.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clase E04: Geometria epipolar [[Colab]](https://colab.research.google.com/drive/1Xw66gcPuak1CsCgTQYWjl4lWIQc0ix3k?usp=sharing)
 * 2.4 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * 2.4 &nbsp; &nbsp; &nbsp;  PPT: Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 
