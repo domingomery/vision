@@ -8,7 +8,7 @@
 * > Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * > Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * > Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
-* > Libro: Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+* > Libro: Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](https://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)
 * > Libro: Computer Vision for X-ray Testing (Mery, Pieringer, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 * > Libro: Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * > Video: Clase grabada (2021): Programa del Curso [[YouTube]](https://youtu.be/yEfOAJRQ73k)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 01-Sep-2025 at 10:26 by Domingo Mery
+Updated on 09-Sep-2025 at 20:08 by Domingo Mery

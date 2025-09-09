@@ -11,7 +11,7 @@
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
-* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  Libro: Multiple View Geometry in Computer Vision (Hartley, 2004) [[Book]](https://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing (Mery, Pieringer, 2021) [[Book]](https://domingomery.ing.puc.cl/publications/book/)
 * 0.1 &nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * 0.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Programa del Curso [[YouTube]](https://youtu.be/yEfOAJRQ73k)
@@ -108,6 +108,7 @@
 ### Clase 10 Ma. 09-Sep-2025:
 * 2.1 **GEOEMETRÍA (cont.)**
 * 2.4 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
+* 2.4 &nbsp; &nbsp; &nbsp;  Demo Geometría Epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_EpiDemo_3D.m)
 * 2.4 &nbsp; &nbsp; &nbsp;  PPT: Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 
 ### Clase 11 Ju. 11-Sep-2025:
@@ -253,4 +254,4 @@
 ---
 
 
-Updated on 01-Sep-2025 at 10:26 by Domingo Mery
+Updated on 09-Sep-2025 at 20:08 by Domingo Mery

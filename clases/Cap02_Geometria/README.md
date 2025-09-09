@@ -71,6 +71,7 @@
 * > Python: Solución al Trabajo en Clase E04 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * > PPT: Proyecto [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_Proyecto.pptx)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Geometria epipolar [[YouTube]](https://youtu.be/Qx3oS9dOUXc)
+* > Demo Geometría Epipolar [[Matlab]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/matlab/CV02_EpiDemo_3D.m)
 * > PPT: Aplicaciones de multiples vistas [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_MultipleViewXrayApplications.pptx)
 * > PPT: Geometria Trifocal [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap02_Geometria/presentaciones/CV02_TrifocalGeometry.pptx)
 * > Python: Ejemplo de Geometria Trifocal [[Colab]](https://colab.research.google.com/drive/1T8FIaD3EJwBBM9dwdAaPTDIsRVKeK6De)
@@ -82,4 +83,4 @@
 ---
 
 
-Updated on 01-Sep-2025 at 10:26 by Domingo Mery
+Updated on 09-Sep-2025 at 20:08 by Domingo Mery
