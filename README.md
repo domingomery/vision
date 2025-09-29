@@ -135,7 +135,7 @@
 
 ### Clase 13 Ma. 30-Sep-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/xxxx)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1e7ENVJPpQsIX1_wrplXjzLx_KVdGmhDz?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 09-Sep-2025 at 20:08 by Domingo Mery
+Updated on 29-Sep-2025 at 10:16 by Domingo Mery

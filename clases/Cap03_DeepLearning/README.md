@@ -11,7 +11,7 @@
 * > Video: Clase grabada (2021): Introduccion a Deep Learning [[YouTube]](https://youtu.be/tRQfQln8ZXQ)
 * > Video: Clase grabada (2021): CNN [[YouTube]](https://youtu.be/RopqLlyndlU)
 * **DEEP LEARING (cont.)** 
-* > Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/xxxx)
+* > Python: Trabajo en Clases E05: Entrenamiento CNN [[Colab]](https://colab.research.google.com/drive/1e7ENVJPpQsIX1_wrplXjzLx_KVdGmhDz?usp=sharing)
 * > Python: Solucion al > Python: Trabajo en Clase E05 [[Colab]](https://colab.research.google.com/drive/xxxx)
 * > Python: Ejemplo CNN ojo nariz [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view?usp=sharing)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - CNN [[YouTube]](https://youtu.be/yD4T5rPJ9hE)
@@ -73,4 +73,4 @@
 ---
 
 
-Updated on 09-Sep-2025 at 20:08 by Domingo Mery
+Updated on 29-Sep-2025 at 10:16 by Domingo Mery
