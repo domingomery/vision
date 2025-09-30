@@ -2,7 +2,7 @@
 # Capitulo 03: Aplicaciones con Deep Learning
 ### 3.1 Clasificacion de imagenes:
 * **DEEP LEARING** 
-* > PPT: Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
+* > PPT: Introduccion a Deep Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Introduccion.pptx)
 * > PPT: CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * > Apuntes: Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones?tab=readme-ov-file#clase-20-ma-27-may-2025)
 * > Apuntes: Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
@@ -73,4 +73,4 @@
 ---
 
 
-Updated on 29-Sep-2025 at 10:16 by Domingo Mery
+Updated on 30-Sep-2025 at 13:16 by Domingo Mery

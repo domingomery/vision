@@ -124,7 +124,7 @@
 
 ### Clase 12 Ma. 23-Sep-2025:
 * 3.1 **DEEP LEARING**
-* 3.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion a Deep Learning [[PPT]](CV03_Introduccion.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion a Deep Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Introduccion.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: CNN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CNN.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Apuntes: Intro a Redes Neuronales (material de Patrones) [[Link]](https://github.com/domingomery/patrones?tab=readme-ov-file#clase-20-ma-27-may-2025)
 * 3.1 &nbsp; &nbsp; &nbsp;  Apuntes: Como usar Pytorch para entrenar CNN [[Blog]](https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48)
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 29-Sep-2025 at 10:16 by Domingo Mery
+Updated on 30-Sep-2025 at 13:16 by Domingo Mery
