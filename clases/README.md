@@ -143,7 +143,7 @@
 ### Clase 14 Ju. 02-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.2 &nbsp; &nbsp; &nbsp;  PPT: Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Object Detection [[Colab]](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 
 ### Clase 15 Ma. 07-Oct-2025:
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 30-Sep-2025 at 13:16 by Domingo Mery
+Updated on 01-Oct-2025 at 13:39 by Domingo Mery

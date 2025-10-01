@@ -36,7 +36,7 @@
 * **DEEP LEARING (cont.)** 
 ### 3.2 Deteccion de objetos (object detection):
 * > PPT: Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
-* > Python: Ejemplos Object Detection [[Colab]](https://colab.research.google.com/drive/1in7c2qcudM6hIgYkjLpRcNsY4_c4tU9X)
+* > Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
 * > Video: Clase grabada (2021): YOLO [[YouTube]](https://youtu.be/-VcyIt0p7bA)
 * > Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * > Python: Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/xxxxxx)
@@ -73,4 +73,4 @@
 ---
 
 
-Updated on 30-Sep-2025 at 13:16 by Domingo Mery
+Updated on 01-Oct-2025 at 13:39 by Domingo Mery
