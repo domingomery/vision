@@ -148,7 +148,7 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1CFRaIqcfyqtjG7rMhi6tzCdArJgY_Ksk?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
