@@ -161,8 +161,8 @@
 ### Clase 17 Ma. 14-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY?usp=sharing)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1fxrmxxkASyRv1twyTi8NgVDhGDaaBNg6?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
