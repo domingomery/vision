@@ -175,7 +175,7 @@
 
 ### Clase 19 Ju. 23-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
