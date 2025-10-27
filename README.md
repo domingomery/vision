@@ -148,7 +148,7 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/1CFRaIqcfyqtjG7rMhi6tzCdArJgY_Ksk?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: YOLO (Deteccion de Mascarilla) [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E06: solucion [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - YOLO [[YouTube]](https://youtu.be/yqOI0lKAJ_w)
 
@@ -161,8 +161,8 @@
 ### Clase 17 Ma. 14-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1eWPqZYE7kDVRDW7nxFFoS0euNWqbA2FY?usp=sharing)
-* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1fxrmxxkASyRv1twyTi8NgVDhGDaaBNg6?usp=sharing)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
+* 3.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1oDR4I237g4QoMt80x-Rv7pvcRJAa5jaz?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): > Python: Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 
@@ -177,6 +177,7 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
+* 3.4 &nbsp; &nbsp; &nbsp;  Tarea 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project-2025.pptx)
 * 3.2 Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
 
 ### Clase 20 Ma. 28-Oct-2025:
@@ -248,10 +249,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1 Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
-
-### Clase 29 Ju. 27-Nov-2025:
-* 4.1 **AYUDANTIA** [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 ---
 
 
-Updated on 01-Oct-2025 at 13:39 by Domingo Mery
+Updated on 27-Oct-2025 at 13:33 by Domingo Mery

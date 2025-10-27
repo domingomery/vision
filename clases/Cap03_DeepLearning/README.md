@@ -24,7 +24,7 @@
 * **DEEP LEARING (cont.)** 
 * > PPT: Facial Analysis - Analisis Social [[PPT]](https://www.dropbox.com/s/riu9yvy659ut4x5/2022-FacialAnalysis-Social.pptx?dl=0)
 * > Python: Face Recognition con AdaFace Basico [[Colab]](https://colab.research.google.com/drive/1gPxbtx0Ueqc3fSSNFGWhDULxDSajxrfZ)
-* > Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* > Python: Trabajo en Clases E07: Ejercicio de analisis facial [[Colab]](https://colab.research.google.com/drive/1oDR4I237g4QoMt80x-Rv7pvcRJAa5jaz?usp=sharing)
 * > Python: Solucion al > Python: Trabajo en Clase E07 [[Colab]](https://colab.research.google.com/drive/ossso)
 * > Video: Clase grabada (2021): > Python: Trabajo en Clases - Reconocimiento facial [[YouTube]](https://youtu.be/18U_41kq3N8)
 * **DEEP LEARING (cont.)** 
@@ -67,10 +67,11 @@
 * > Python: Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * > Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * > Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
-* > Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* > Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
 * > Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
+* > Tarea 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project-2025.pptx)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 01-Oct-2025 at 13:39 by Domingo Mery
+Updated on 27-Oct-2025 at 13:33 by Domingo Mery
