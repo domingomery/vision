@@ -51,7 +51,7 @@
 * > PPT: GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
 * > Python: Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * > Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
-* > Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* > Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1MFV1VG_6P9eDOH7zG67A2kCxdeXZHCxB?usp=sharing)
 * > Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * > PPT: Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
 * > Video: Tutorial de Transformers from Scratch by Umar Jamil [[YouTube]](https://youtu.be/bCz4OMemCcA)
@@ -74,4 +74,4 @@
 ---
 
 
-Updated on 27-Oct-2025 at 13:33 by Domingo Mery
+Updated on 28-Oct-2025 at 10:16 by Domingo Mery
