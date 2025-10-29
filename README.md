@@ -187,37 +187,34 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1MFV1VG_6P9eDOH7zG67A2kCxdeXZHCxB?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
-
-### Clase 21 Ma. 04-Nov-2025:
-* 3.1 **DEEP LEARING (cont.)**
 * 3.2 &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 
-### Clase 22 Ju. 06-Nov-2025:
+### Clase 21 Ma. 04-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.2 &nbsp; &nbsp; &nbsp;  PPT: CLIP [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CLIP.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 
-### Clase 23 Ma. 11-Nov-2025:
+### Clase 22 Ju. 06-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Video: Tutorial de Transformers from Scratch by Umar Jamil [[YouTube]](https://youtu.be/bCz4OMemCcA)
 * 3.3 &nbsp; &nbsp; &nbsp;  Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
 
-### Clase 24 Ju. 13-Nov-2025:
+### Clase 23 Ma. 11-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/xxxxx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E10 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 
-### Clase 25 Ma. 18-Nov-2025:
+### Clase 24 Ju. 13-Nov-2025:
 * 4.1 **ÉTICA**
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Lo Bueno lo Malo y lo Feo de la IA [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04-LoBuenoMaloFeo-IA.pptx)
 * 4.1 Descripcion del Ensayo (T03) [[Canvas]](https://cursos.canvas.uc.cl/courses/77947/assignments/427654)
 
-### Clase 26 Ju. 20-Nov-2025:
+### Clase 25 Ma. 18-Nov-2025:
 * 4.1 **DEEP LEARNING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: Stable Difussion [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_StableDiffusion.pptx)
 * 3.3 Difussion Models [[Nota]](https://www.superannotate.com/blog/diffusion-models)
@@ -230,14 +227,14 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Paper: A Tutorial on Fairness in Machine Learning [[Nota]](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 * 4.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Etica en reconocimiento facial [[YouTube]](https://youtu.be/IAVd_Dp1m2M)
 
-### Clase 27 Ma. 25-Nov-2025:
+### Clase 26 Ju. 20-Nov-2025:
 * 4.1 **ÉTICA (cont.)**
 * 4.2 &nbsp; &nbsp; &nbsp;  PPT: Desafios eticos en reconocimiento facial [[PPT]](https://www.dropbox.com/s/dpzx2nlr79y565k/2021-FaceEthics.pptx?dl=0)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Federated / Swarm Learning [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Federated.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Explicabilidad.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Explicabilidad [[YouTube]](https://youtu.be/skhnN2DJ7Xs)
 
-### Clase 28 Ju. 27-Nov-2025:
+### Clase 27 Ma. 25-Nov-2025:
 * 4.1 **ÉTICA (cont.)**
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Bias y Fairness [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_Bias.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  PPT: Buenas Practicas [[PPT]](CV04_GoodPractices.pptx)
@@ -249,7 +246,10 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Bias y fairness [[YouTube]](https://youtu.be/sNGriIvCtoY)
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Explicabilidad usando MinPlus [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica/presentations/CV04_MinPlus_SaliencyMaps.pptx)
 * 4.1 Adversarial Attacks [[YouTube]](https://youtu.be/kxyacmVSGlI)
+
+### Clase 28 Ju. 27-Nov-2025:
+* 4.1 Ayudantía [[]](https://github.com/domingomery/vision/blob/master/clases/Cap04_Etica//)
 ---
 
 
-Updated on 29-Oct-2025 at 12:27 by Domingo Mery
+Updated on 29-Oct-2025 at 12:29 by Domingo Mery

@@ -33,7 +33,6 @@
 * **DEEP LEARING (cont.)** 
 * **DEEP LEARING (cont.)** 
 * **DEEP LEARING (cont.)** 
-* **DEEP LEARING (cont.)** 
 ### 3.2 Deteccion de objetos (object detection):
 * > PPT: Object Detection (YOLO) + Tracking [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_ObjectDetection.pptx)
 * > Python: Ejemplo Object Detection con YOLO [[Colab]](https://drive.google.com/file/d/19cCPvz_OcT9cKk0NUgb3PnFMFYYHuvlP/view?usp=sharing)
@@ -74,4 +73,4 @@
 ---
 
 
-Updated on 29-Oct-2025 at 12:27 by Domingo Mery
+Updated on 29-Oct-2025 at 12:29 by Domingo Mery
