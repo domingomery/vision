@@ -185,16 +185,18 @@
 
 ### Clase 20 Ju. 30-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1MFV1VG_6P9eDOH7zG67A2kCxdeXZHCxB?usp=sharing)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 
 ### Clase 21 Ma. 04-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
+* 3.2 &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1MFV1VG_6P9eDOH7zG67A2kCxdeXZHCxB?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 
 ### Clase 22 Ju. 06-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
-* 3.2 &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
-* 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
 * 3.2 &nbsp; &nbsp; &nbsp;  PPT: CLIP [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_CLIP.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: CLIP [[Colab]](https://drive.google.com/file/d/1gc58fR9cE1G1Uszu63P_9WnuHJx9-kKL)
 * 3.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
@@ -252,4 +254,4 @@
 ---
 
 
-Updated on 29-Oct-2025 at 12:09 by Domingo Mery
+Updated on 29-Oct-2025 at 12:11 by Domingo Mery
