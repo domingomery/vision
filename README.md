@@ -172,19 +172,19 @@
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Segmentacion Unet [[Colab]](https://colab.research.google.com/drive/1DA1zOxQnhp9Lae7yIROa5rLV7aMNT0mn)
 * 3.4 &nbsp; &nbsp; &nbsp;  Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * 3.4 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
+* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
+* 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
+* 3.4 &nbsp; &nbsp; &nbsp;  Tarea 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project-2025.pptx)
 
 ### Clase 19 Ma. 28-Oct-2025:
-* 3.1 **DEEP LEARING (cont.)**
-* 3.4 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
-* 3.4 &nbsp; &nbsp; &nbsp;  Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
-* 3.4 &nbsp; &nbsp; &nbsp;  Tarea 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project-2025.pptx)
-* 3.2 Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
-
-### Clase 20 Ju. 30-Oct-2025:
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: GAN [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_GAN.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplos GAN [[Colab]](https://github.com/domingomery/visioncolab#-generative-adversarial-network-gan)
 * 3.3 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
+* 3.2 Estadisticas para la deteccion del proyecto [[Colab]](https://colab.research.google.com/drive/1LDH79rK_BF9ZmYksOZ1iizWfNwJ0hsPr)
+
+### Clase 20 Ju. 30-Oct-2025:
+* 3.1 **DEEP LEARING (cont.)**
 
 ### Clase 21 Ma. 04-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
@@ -252,4 +252,4 @@
 ---
 
 
-Updated on 29-Oct-2025 at 12:04 by Domingo Mery
+Updated on 29-Oct-2025 at 12:09 by Domingo Mery

@@ -68,10 +68,10 @@
 * > Paper: UNet [[PDF]](https://arxiv.org/pdf/1505.04597.pdf)
 * > Video: Clase grabada (2021): Unet, GAN, deteccion de anomalias [[YouTube]](https://youtu.be/5Y9UprUtlfg)
 * > Python: Trabajo en Clases E08: Segmentacion con Unet [[Colab]](https://colab.research.google.com/drive/1WS0nMoBMpKlzJj81PMnwAW8124-1HVQB?usp=sharing)
-* > Python: Solucion al > Python: Trabajo en Clase E08 [[]](https://colab.research.google.com/drive/xxxxxx)
+* > Python: Solucion al > Python: Trabajo en Clase E08 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 * > Tarea 02 [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Project-2025.pptx)
 ### 3.5 Proyecto:
 ---
 
 
-Updated on 29-Oct-2025 at 12:04 by Domingo Mery
+Updated on 29-Oct-2025 at 12:09 by Domingo Mery
