@@ -192,8 +192,6 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.2 &nbsp; &nbsp; &nbsp;  PPT: Anomaly detection [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_AnomalyDetection.pptx)
 * 3.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos Anomaly Detection [[Colab]](https://colab.research.google.com/drive/14pSLbxh8ogFDCV2IjzQbVDMFXBb7aG4i)
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09: Creacion de imagenes con GAN [[Colab]](https://colab.research.google.com/drive/1MFV1VG_6P9eDOH7zG67A2kCxdeXZHCxB?usp=sharing)
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxx)
 
 ### Clase 22 Ju. 06-Nov-2025:
 * 3.1 **DEEP LEARING (cont.)**
@@ -254,4 +252,4 @@
 ---
 
 
-Updated on 29-Oct-2025 at 12:26 by Domingo Mery
+Updated on 29-Oct-2025 at 12:27 by Domingo Mery
