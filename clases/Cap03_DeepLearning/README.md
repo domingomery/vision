@@ -55,6 +55,7 @@
 * > PPT: Transformers [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers.pptx)
 * > Video: Tutorial de Transformers from Scratch by Umar Jamil [[YouTube]](https://youtu.be/bCz4OMemCcA)
 * > Apuntes: Tutorial de Transformers from Scratch by Umar Jamil [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Diagrams_V2_Transformers.pdf)
+* > Podcast Transformers (NotebookLM) [[Audio]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_Transformers_Podcast.m4a)
 * > PPT: Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * > Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
 * > Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/xxxxx)
@@ -73,4 +74,4 @@
 ---
 
 
-Updated on 29-Oct-2025 at 12:29 by Domingo Mery
+Updated on 06-Nov-2025 at 09:48 by Domingo Mery
