@@ -207,7 +207,7 @@
 * 3.1 **DEEP LEARING (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  PPT: Visual Transformers (ViT) [[PPT]](https://github.com/domingomery/vision/blob/master/clases/Cap03_DeepLearning/presentations/CV03_VisualTransformers.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Transformers with HugginFace [[Colab]](https://drive.google.com/file/d/1dKyjqNNgulTdObwSxyXJpaLq1RCZ-SrZ/view)
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/xxxxx)
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E10: Ejercicio de Transformers [[Colab]](https://colab.research.google.com/drive/1ZYVRAl2lEGapBGrKa9BibQyYI4TpP9yH?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Solución al Trabajo en Clases E10 [[Colab]](https://colab.research.google.com/drive/xxxxx)
 
 ### Clase 24 Ju. 13-Nov-2025:
@@ -253,4 +253,4 @@
 ---
 
 
-Updated on 06-Nov-2025 at 09:48 by Domingo Mery
+Updated on 11-Nov-2025 at 11:03 by Domingo Mery
